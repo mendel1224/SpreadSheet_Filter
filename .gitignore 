@@ -1,0 +1,6 @@
+# Ignore configuration file
+config.py
+
+
+# Ignore all CSV files
+*.csv

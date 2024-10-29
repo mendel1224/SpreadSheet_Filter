@@ -1,16 +1,23 @@
-# This is a sample Python script.
-
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+import csv
+from config import purchasesFile, salesFile, currentInventory
+
+idTracker = {}
+
+# open sales file and save item ID to dictionary
+with open(salesFile, 'r') as sales:
+    salesReader = csv.reader(sales)
+    for row in salesReader:
+        idTracker[row[0]] = 1
+
+# open purchase file and check if item ID is in sales file
+with open(purchasesFile, 'r') as purchases, open(currentInventory, 'w', newline='') as inventory:
+    purchaseReader = csv.reader(purchases)
+    inventoryWriter = csv.writer(inventory)
+
+    for row in purchaseReader:
+        if row[0] not in idTracker:
+            inventoryWriter.writerow(row)
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/

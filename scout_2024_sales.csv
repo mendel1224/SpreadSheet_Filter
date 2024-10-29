@@ -1,0 +1,1051 @@
+Item ID,Name,Color,Size,SKU,Sale Date,Listing Amount,Sale Fees + Shipping,Net Sale,Purchase Subtotal,Purchase Tax,Purchase Shipping,Purchase Total,Profit,Sale Platform,Imported From
+27567656,Jordan 1 Retro High OG White Cement (GS),Tech Grey/Muslin/Black/White,5,FD1437-052,01/01/2024,$76.00,$8.66,$67.34,$68.34,$0.00,$0.00,$68.34,-$1.00,,stockx_kafka_sync
+27567763,Nike Sportswear Tech Fleece Revival Joggers Black/Heather,Black/Heather,M,DD4706-010,01/01/2024,$67.00,$11.03,$55.97,$27.99,$0.00,$0.00,$27.99,$27.98,,stockx_kafka_sync
+27567661,Jordan 3 Retro Off Noir (Women's),Off Noir/Black/Coconut Milk/Cement Grey,11,CK9246-001,01/01/2024,$212.00,$22.93,$189.07,$140.00,$0.00,$0.00,$140.00,$49.07,,stockx_kafka_sync
+27567643,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,10.5,CZ7918-600,01/01/2024,$109.00,$12.11,$96.89,$55.10,$0.00,$0.00,$55.10,$41.79,,stockx_kafka_sync
+27565376,Nike Dunk Low Light Silver Corduroy (Women's),White/Light Silver,6W,FN7658-100,01/01/2024,$142.51,$0.00,$142.51,$77.00,$0.00,$0.00,$77.00,$65.51,alias,spreadsheet
+27565349,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,8,DH2482-101,01/01/2024,$132.84,$0.00,$132.84,$107.76,$0.00,$0.00,$107.76,$25.08,alias,spreadsheet
+27567659,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,8,DH2482-101,01/01/2024,$136.00,$14.95,$121.05,$107.76,$0.00,$0.00,$107.76,$13.29,,stockx_kafka_sync
+27567657,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,13,DQ8426-301,01/01/2024,$89.00,$10.02,$78.98,$70.33,$0.00,$0.00,$70.33,$8.65,,stockx_kafka_sync
+27567660,Nike Ja 1 Black Smoke Grey,Black/Light Silver/Coconut Milk/Vivid Sulfur,10.5,DR8785-002/DR8786-002,01/02/2024,$99.00,$11.06,$87.94,$76.98,$0.00,$0.00,$76.98,$10.96,,stockx_kafka_sync
+27592420,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,10,DH2973-100,01/02/2024,$100.00,$11.17,$88.83,$76.98,$0.00,$0.00,$76.98,$11.85,,stockx_kafka_sync
+27592418,Nike Dunk Low Retro White Black Panda (Women's),White/Black,11,DD1503-101,01/02/2024,$109.00,$12.11,$96.89,$80.50,$0.00,$0.00,$80.50,$16.39,,stockx_kafka_sync
+27592422,adidas Ultra Boost 1.0 DNA Black,Core Black/Core Black/Beam Green,9.5,HQ4201,01/02/2024,$125.00,$13.79,$111.21,$68.94,$0.00,$0.00,$68.94,$42.27,,stockx_kafka_sync
+27565405,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,9.5,DR8785-100/DR8786-100,01/02/2024,$89.78,$0.00,$89.78,$76.98,$0.00,$0.00,$76.98,$12.80,alias,spreadsheet
+27565387,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,8,DH2973-100,01/02/2024,$84.51,$0.00,$84.51,$77.15,$0.00,$0.00,$77.15,$7.36,alias,spreadsheet
+27592419,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,13,DH2973-100,01/02/2024,$93.00,$10.43,$82.57,$75.40,$0.00,$0.00,$75.40,$7.17,,stockx_kafka_sync
+27618505,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,9.5,CZ7918-600,01/02/2024,$85.00,$9.60,$75.40,$55.10,$0.00,$0.00,$55.10,$20.30,,stockx_kafka_sync
+27592421,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,8.5,DR8785-100/DR8786-100,01/02/2024,$94.00,$10.54,$83.46,$77.15,$0.00,$0.00,$77.15,$6.31,,stockx_kafka_sync
+27618506,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,11,CZ7918-600,01/02/2024,$122.00,$13.48,$108.52,$55.10,$0.00,$0.00,$55.10,$53.42,,stockx_kafka_sync
+27565381,Nike Sportswear Tech Fleece Joggers Dark Grey Heather/Black,Dark Grey Heather/Black,XS,FB8002-063,01/03/2024,$65.62,$0.00,$65.62,$65.62,$0.00,$0.00,$65.62,$0.00,Returned to Nike,spreadsheet
+27584545,Nike Air Force 1 High White,White/White,8.5,315121-115/CW2290-111,01/03/2024,$120.00,$13.27,$106.73,$62.97,$0.00,$0.00,$62.97,$43.76,,manual
+27565677,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,9.5,CZ7918-600,01/03/2024,$85.00,$9.60,$75.40,$55.10,$0.00,$0.00,$55.10,$20.30,,stockx
+27585133,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,12,DQ8426-301,01/03/2024,$86.00,$9.70,$76.30,$0.00,$0.00,$0.00,$0.00,$0.00,,stockx_kafka_sync
+27565340,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,13,DQ8426-301,01/03/2024,$88.00,$9.91,$78.09,$70.33,$0.00,$0.00,$70.33,$7.76,,spreadsheet
+27565701,Nike Blazer Low 77 Vintage White Black,White/Sail-Black,10,DA6464-101/DA6364-101,01/03/2024,$61.00,$7.50,$53.50,$0.00,$0.00,$0.00,$0.00,$53.50,,stockx
+27565679,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,13,DH2973-100,01/03/2024,$93.00,$10.44,$82.56,$0.00,$0.00,$0.00,$0.00,$82.56,,stockx
+27591280,Nike Dunk Low Red Panda,Velvet Brown/Sanddrift-Rugged Orange,10.5,FV0395-200,01/04/2024,$131.00,$14.42,$116.58,$78.76,$0.00,$0.00,$78.76,$37.82,,upc_scan
+27565454,adidas Ultra Boost 1.0 DNA Black,Core Black/Core Black/Beam Green,9.5,HQ4201,01/04/2024,$125.00,$13.80,$111.20,$68.94,$0.00,$0.00,$68.94,$42.26,,spreadsheet
+27565307,Jordan 1 Mid Wear-Away Chicago,Black/Infrared 23-White-Sail,10.5,DV9565-006,01/04/2024,$104.00,$11.59,$92.41,$81.48,$0.00,$0.00,$81.48,$10.93,,spreadsheet
+27565343,Nike Air Max Terrascape 90 Black,Black/Black/Black/Black,12,DQ3987-002,01/04/2024,$78.34,$0.00,$78.34,$72.37,$0.00,$0.00,$72.37,$5.97,alias,spreadsheet
+27591266,Jordan 4 Retro SE Craft Medium Olive,Medium Olive/Pale Vanilla/Khaki/Black/Sail,14,FB9927-200,01/05/2024,$162.71,$0.00,$162.71,$132.31,$0.00,$0.00,$132.31,$30.40,alias,upc_scan
+27565382,Jordan 1 Mid Patent Black White Gold,Black/White-Metallic Gold,8.5,852542-007,01/05/2024,$102.96,$0.00,$102.96,$92.46,$0.00,$0.00,$92.46,$10.50,alias,spreadsheet
+27565396,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,9.5,DH2973-100,01/05/2024,$108.23,$0.00,$108.23,$75.40,$0.00,$0.00,$75.40,$32.83,alias,spreadsheet
+27565312,Nike Air Max 1 '86 OG Big Bubble Lost Sketch,Light Smoke Grey/Diffused Blue,10.5,DV7525-001,01/05/2024,$85.38,$0.00,$85.38,$76.97,$0.00,$0.00,$76.97,$8.41,alias,spreadsheet
+27565450,Nike Blazer Low 77 Vintage White Black,White/Sail-Black,11,DA6464-101/DA6364-101,01/05/2024,$67.81,$0.00,$67.81,$44.08,$0.00,$0.00,$44.08,$23.73,alias,spreadsheet
+27565423,Nike Ja 1 Black Smoke Grey,Black/Light Silver/Coconut Milk/Vivid Sulfur,9.5,DR8785-002/DR8786-002,01/05/2024,$87.14,$0.00,$87.14,$75.40,$0.00,$0.00,$75.40,$11.74,alias,spreadsheet
+27565294,Nike Dunk High 1985 Barely Rose Denim,Light Pink/White/Red,9.5,DQ8799-100,01/05/2024,$74.84,$0.00,$74.84,$57.57,$0.00,$0.00,$57.57,$17.27,alias,spreadsheet
+27565395,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,9.5,DH2973-100,01/05/2024,$101.00,$11.27,$89.73,$75.40,$0.00,$0.00,$75.40,$14.33,,spreadsheet
+27591281,Nike Dunk Low Red Panda,Velvet Brown/Sanddrift-Rugged Orange,11,FV0395-200,01/05/2024,$104.99,$0.00,$104.99,$78.76,$0.00,$0.00,$78.76,$26.23,alias,upc_scan
+27584543,Nike Air Force 1 High White,White/White,9,315121-115/CW2290-111,01/05/2024,$79.51,$0.00,$79.51,$62.97,$0.00,$0.00,$62.97,$16.54,alias,manual
+27565369,adidas Ultra Boost 5.0 DNA Triple Black,Core Black/Core Black/Beam Green,10.5,GV8745,01/05/2024,$119.00,$13.16,$105.84,$77.56,$0.00,$0.00,$77.56,$28.28,,spreadsheet
+27565433,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,10,CZ7918-600,01/05/2024,$97.00,$10.86,$86.14,$55.10,$0.00,$0.00,$55.10,$31.04,,spreadsheet
+27565375,Nike Dunk Low Retro White Black Panda (TD),White/Black-White,4C,CW1589-100,01/06/2024,$47.00,$7.08,$39.92,$38.50,$0.00,$0.00,$38.50,$1.42,,spreadsheet
+27565352,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,8,DH2482-101,01/06/2024,$134.00,$14.74,$119.26,$107.76,$0.00,$0.00,$107.76,$11.50,,spreadsheet
+27565393,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,9.5,DH2973-100,01/06/2024,$100.00,$11.17,$88.83,$75.40,$0.00,$0.00,$75.40,$13.43,,spreadsheet
+27565398,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,13,DH2973-100,01/06/2024,$93.00,$10.44,$82.56,$75.40,$0.00,$0.00,$75.40,$7.16,,spreadsheet
+27565445,Nike Blazer Low 77 Vintage White Black,White/Sail-Black,9.5,DA6464-101/DA6364-101,01/07/2024,$66.00,$7.65,$58.35,$44.08,$0.00,$0.00,$44.08,$14.27,,spreadsheet
+27565688,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,13,DQ8426-301,01/07/2024,$89.00,$10.02,$78.98,$0.00,$0.00,$0.00,$0.00,$78.98,,stockx
+27565341,Nike Sportswear Tech Fleece Revival Joggers Black/Heather,Black/Heather,S,DD4706-010,01/07/2024,$57.00,$10.71,$46.29,$27.99,$0.00,$0.00,$27.99,$18.30,,spreadsheet
+27565347,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,8,DH2482-101,01/08/2024,$148.00,$16.21,$131.79,$107.76,$0.00,$0.00,$107.76,$24.03,,spreadsheet
+27565440,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,10.5,CZ7918-600,01/08/2024,$107.00,$11.91,$95.09,$55.10,$0.00,$0.00,$55.10,$39.99,,spreadsheet
+27565424,Nike Air Max 1 The Bay,White/University Red,9.5,FJ4451-100,01/09/2024,$113.00,$12.54,$100.46,$76.97,$0.00,$0.00,$76.97,$23.49,,spreadsheet
+27590383,Nike Air Max 90 Terrascape Pure Platinum Hyper Royal,Pure Platinum/Hyper Royal/White,10.5,DV7413-002,01/10/2024,$93.00,$10.44,$82.56,$79.19,$0.00,$0.00,$79.19,$3.37,,new_item_addition_flow
+27590382,Nike Air Max 90 Terrascape Pure Platinum Hyper Royal,Pure Platinum/Hyper Royal/White,10.5,DV7413-002,01/10/2024,$93.00,$11.77,$81.23,$79.19,$0.00,$0.00,$79.19,$2.04,,new_item_addition_flow
+27565436,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,8.5,CZ7918-600,01/10/2024,$101.00,$11.27,$89.73,$55.10,$0.00,$0.00,$55.10,$34.63,,spreadsheet
+27565301,Jordan 1 Mid Wear-Away Chicago,Black/Infrared 23-White-Sail,8,DV9565-006,01/11/2024,$96.00,$10.75,$85.25,$81.48,$0.00,$0.00,$81.48,$3.77,,spreadsheet
+27613726,Nike Air Max Scorpion FK Triple Black,Black/Black/Black,13,DJ4701-003,01/11/2024,$155.00,$18.28,$136.72,$109.48,$0.00,$0.00,$109.48,$27.24,,upc_scan
+27565384,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,9.5,DH2973-100,01/11/2024,$100.00,$11.17,$88.83,$76.63,$0.00,$0.00,$76.63,$12.20,,spreadsheet
+27616526,Nike Sportswear Tech Fleece Full-Zip Hoodie Black,Black,XXL,CU4489-010,01/11/2024,$80.00,$12.41,$67.59,$62.99,$0.00,$0.00,$62.99,$4.60,,manual
+27786450,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,11,DR8785-100/DR8786-100,01/11/2024,$94.00,$10.54,$83.46,$76.98,$0.00,$0.00,$76.98,$6.48,,upc_scan
+27786458,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,9,DH2973-100,01/11/2024,$98.00,$10.96,$87.04,$76.98,$0.00,$0.00,$76.98,$10.06,,upc_scan
+27565368,adidas Ultra Boost 5.0 DNA Triple Black,Core Black/Core Black/Beam Green,10.5,GV8745,01/12/2024,$118.00,$13.06,$104.94,$77.56,$0.00,$0.00,$77.56,$27.38,,spreadsheet
+27565411,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,11,DR8785-100/DR8786-100,01/12/2024,$94.00,$10.54,$83.46,$77.15,$0.00,$0.00,$77.15,$6.31,,spreadsheet
+27565300,Jordan 1 Mid Wear-Away Chicago,Black/Infrared 23-White-Sail,8,DV9565-006,01/12/2024,$97.00,$10.86,$86.14,$81.48,$0.00,$0.00,$81.48,$4.66,,spreadsheet
+27565385,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,13,DH2973-100,01/12/2024,$102.00,$11.38,$90.62,$76.63,$0.00,$0.00,$76.63,$13.99,,spreadsheet
+27584544,Nike Air Force 1 High White,White/White,9,315121-115/CW2290-111,01/12/2024,$100.00,$11.17,$88.83,$62.97,$0.00,$0.00,$62.97,$25.86,,manual
+27565416,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,8.5,DR8785-100/DR8786-100,01/12/2024,$94.00,$10.54,$83.46,$75.40,$0.00,$0.00,$75.40,$8.06,,spreadsheet
+27584546,Nike Air Force 1 High White,White/White,8,315121-115/CW2290-111,01/12/2024,$94.00,$10.54,$83.46,$62.97,$0.00,$0.00,$62.97,$20.49,,manual
+27565426,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,9.5,CZ7918-600,01/13/2024,$88.00,$9.91,$78.09,$54.98,$0.00,$0.00,$54.98,$23.11,,spreadsheet
+27584537,Nike Air Force 1 High White,White/White,10.5,315121-115/CW2290-111,01/13/2024,$92.00,$11.66,$80.34,$62.97,$0.00,$0.00,$62.97,$17.37,,manual
+27565427,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,9,CZ7918-600,01/13/2024,$83.00,$9.39,$73.61,$55.10,$0.00,$0.00,$55.10,$18.51,,spreadsheet
+27565404,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,8,DR8785-100/DR8786-100,01/13/2024,$93.00,$10.44,$82.56,$76.98,$0.00,$0.00,$76.98,$5.58,,spreadsheet
+27565364,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,10.5,DH2482-101,01/13/2024,$134.00,$14.74,$119.26,$107.76,$0.00,$0.00,$107.76,$11.50,,spreadsheet
+27565413,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,9.5,DR8785-100/DR8786-100,01/14/2024,$92.00,$10.33,$81.67,$77.15,$0.00,$0.00,$77.15,$4.52,,spreadsheet
+27861278,adidas Ultra Boost Light White Black Solar Red,White/Black/Solar Red,13,HQ6351,01/14/2024,$100.00,$12.50,$87.50,$68.94,$0.00,$0.00,$68.94,$18.56,,stockx_kafka_sync
+27565409,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,8.5,DR8785-100/DR8786-100,01/15/2024,$93.00,$10.44,$82.56,$77.15,$0.00,$0.00,$77.15,$5.41,,spreadsheet
+27565370,adidas Ultra Boost 5.0 DNA Triple Black,Core Black/Core Black/Beam Green,11.5,GV8745,01/15/2024,$98.00,$10.96,$87.04,$77.56,$0.00,$0.00,$77.56,$9.48,,spreadsheet
+27786452,Nike Ja 1 Fuel,Ember Glow/Blue Lightning-Light Silver-Black,10.5,DR8785-800/DR8786-800,01/15/2024,$99.00,$11.06,$87.94,$76.98,$0.00,$0.00,$76.98,$10.96,,upc_scan
+27565428,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,9.5,CZ7918-600,01/15/2024,$88.00,$9.91,$78.09,$55.10,$0.00,$0.00,$55.10,$22.99,,spreadsheet
+27906815,Nike ZoomX Vaporfly Next% 2 White Volt Racer Blue,White/Black-Volt-Racer Blue-Bright Crimson,12,CU4111-103,01/16/2024,$125.00,$13.80,$111.20,$97.97,$0.00,$0.00,$97.97,$13.23,,upc_scan
+27906783,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,9,DJ5423-001/DJ5422-001,01/16/2024,$147.00,$16.12,$130.88,$99.99,$0.00,$0.00,$99.99,$30.89,,upc_scan
+27565419,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,9.5,DR8785-100/DR8786-100,01/16/2024,$92.00,$10.33,$81.67,$75.40,$0.00,$0.00,$75.40,$6.27,,spreadsheet
+27906814,Nike ZoomX Vaporfly Next% 2 White Volt Racer Blue,White/Black-Volt-Racer Blue-Bright Crimson,12,CU4111-103,01/17/2024,$123.00,$16.92,$106.08,$97.97,$0.00,$0.00,$97.97,$8.11,,upc_scan
+27906813,Nike ZoomX Vaporfly Next% 2 White Volt Racer Blue,White/Black-Volt-Racer Blue-Bright Crimson,9,CU4111-103,01/18/2024,$125.00,$13.93,$111.07,$97.97,$0.00,$0.00,$97.97,$13.10,,upc_scan
+27786459,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,9.5,DH2973-100,01/18/2024,$100.00,$11.30,$88.70,$76.98,$0.00,$0.00,$76.98,$11.72,,upc_scan
+27565444,Nike Air Force 1 Low PRM Halloween (2023),Black/Black-Smoke Grey-Campfire Orange-Green,11,FQ8822-084,01/18/2024,$108.50,$0.00,$108.50,$108.75,$0.00,$0.00,$108.75,-$0.25,alias,spreadsheet
+27565418,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,9.5,DR8785-100/DR8786-100,01/18/2024,$85.66,$0.00,$85.66,$75.40,$0.00,$0.00,$75.40,$10.26,alias,spreadsheet
+27565399,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,13,DH2973-100,01/18/2024,$87.41,$0.00,$87.41,$75.40,$0.00,$0.00,$75.40,$12.01,Alias,spreadsheet
+27565388,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,8.5,DH2973-100,01/18/2024,$89.12,$0.00,$89.12,$77.15,$0.00,$0.00,$77.15,$11.97,alias,spreadsheet
+27565392,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,9.5,DH2973-100,01/18/2024,$102.00,$11.51,$90.49,$77.15,$0.00,$0.00,$77.15,$13.34,,spreadsheet
+27616525,Nike Sportswear Tech Fleece Full-Zip Hoodie Black,Black,XXL,CU4489-010,01/18/2024,$74.00,$11.77,$62.23,$62.99,$0.00,$0.00,$62.99,-$0.76,,manual
+27906781,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,10.5,DJ5423-001/DJ5422-001,01/19/2024,$134.00,$14.87,$119.13,$99.99,$0.00,$0.00,$99.99,$19.14,,upc_scan
+27565366,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,12,DH2482-101,01/19/2024,$135.75,$0.00,$135.75,$107.76,$0.00,$0.00,$107.76,$27.99,alias,spreadsheet
+27565378,Jordan 3 Retro Fear Pack (2023),Night Stadium/Total Orange-Black-Flat Pewter-Neutral Grey,10,CT8532-080,01/19/2024,$147.00,$0.00,$147.00,$147.00,$0.00,$0.00,$147.00,$0.00,Returned to Nike,spreadsheet
+27565377,Jordan 3 Retro Fear Pack (2023),Night Stadium/Total Orange-Black-Flat Pewter-Neutral Grey,9.5,CT8532-080,01/19/2024,$147.00,$0.00,$147.00,$147.00,$0.00,$0.00,$147.00,$0.00,Returned to Nike,spreadsheet
+27565306,Jordan 1 Mid Wear-Away Chicago,Black/Infrared 23-White-Sail,10.5,DV9565-006,01/19/2024,$100.00,$11.30,$88.70,$81.48,$0.00,$0.00,$81.48,$7.22,,spreadsheet
+27565439,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,10,CZ7918-600,01/19/2024,$94.00,$10.54,$83.46,$55.10,$0.00,$0.00,$55.10,$28.36,,spreadsheet
+27565345,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,8,DH2482-101,01/21/2024,$144.00,$15.79,$128.21,$107.76,$0.00,$0.00,$107.76,$20.45,,spreadsheet
+27565401,Nike Air Force 1 Low '07 Black,Black/Black,10,315122-001/CW2288-001,01/21/2024,$96.00,$10.75,$85.25,$86.25,$0.00,$0.00,$86.25,-$1.00,,spreadsheet
+27613672,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,11,CZ7918-600,01/21/2024,$120.00,$13.27,$106.73,$54.73,$0.00,$0.00,$54.73,$52.00,,upc_scan
+27565317,Nike Air Max 1 '86 OG Big Bubble Lost Sketch,Light Smoke Grey/Diffused Blue,9,DV7525-001,01/22/2024,$85.00,$9.60,$75.40,$76.97,$0.00,$0.00,$76.97,-$1.57,,spreadsheet
+28090923,adidas Ultra Boost 5.0 DNA Triple Black,Core Black/Core Black/Beam Green,11.5,GV8745,01/22/2024,$98.84,$0.00,$98.84,$84.67,$0.00,$0.00,$84.67,$14.17,alias,upc_scan
+27786447,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,10,DR8785-100/DR8786-100,01/22/2024,$83.03,$0.00,$83.03,$76.98,$0.00,$0.00,$76.98,$6.05,alias,upc_scan
+27584540,Nike Air Force 1 High White,White/White,9.5,315121-115/CW2290-111,01/22/2024,$88.30,$0.00,$88.30,$62.97,$0.00,$0.00,$62.97,$25.33,alias,manual
+27584542,Nike Air Force 1 High White,White/White,9.5,315121-115/CW2290-111,01/22/2024,$102.00,$12.04,$89.96,$62.97,$0.00,$0.00,$62.97,$26.99,,manual
+27565402,Nike Air Force 1 Low '07 Black,Black/Black,10.5,315122-001/CW2288-001,01/23/2024,$97.00,$10.86,$86.14,$86.25,$0.00,$0.00,$86.25,-$0.11,,spreadsheet
+27616521,Nike Sportswear Tech Fleece Full-Zip Hoodie Black,Black,XXL,CU4489-010,01/23/2024,$80.00,$12.41,$67.59,$62.99,$0.00,$0.00,$62.99,$4.60,,manual
+27565362,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,10.5,DH2482-101,01/24/2024,$110.26,$0.00,$110.26,$107.76,$0.00,$0.00,$107.76,$2.50,Alias,spreadsheet
+27565299,Jordan 1 Mid Wear-Away Chicago,Black/Infrared 23-White-Sail,8,DV9565-006,01/24/2024,$109.00,$12.77,$96.23,$81.48,$0.00,$0.00,$81.48,$14.75,,spreadsheet
+28061400,Nike Air Max Terrascape 90 White Grey,White/White/White/White,11,DQ3987-101,01/24/2024,$113.00,$13.20,$99.80,$89.97,$0.00,$0.00,$89.97,$9.83,,upc_scan
+27616523,Nike Sportswear Tech Fleece Full-Zip Hoodie Black,Black,XXL,CU4489-010,01/25/2024,$78.00,$12.19,$65.81,$62.99,$0.00,$0.00,$62.99,$2.82,,manual
+27588580,Nike Blazer Low 77 Vintage White Black,White/Sail-Black,10,DA6464-101/DA6364-101,01/25/2024,$59.00,$7.57,$51.43,$44.08,$0.00,$0.00,$44.08,$7.35,,manual
+28090926,adidas Ultra Boost 5.0 DNA Triple Black,Core Black/Core Black/Beam Green,11,GV8745,01/25/2024,$179.00,$19.60,$159.40,$84.67,$0.00,$0.00,$84.67,$74.73,,upc_scan
+27565335,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,13,DQ8426-301,01/25/2024,$90.93,$0.00,$90.93,$70.33,$0.00,$0.00,$70.33,$20.60,Alias,spreadsheet
+27906782,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,7.5,DJ5423-001/DJ5422-001,01/25/2024,$131.00,$14.55,$116.45,$99.99,$0.00,$0.00,$99.99,$16.46,,upc_scan
+27565325,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,11,DQ8426-301,01/25/2024,$80.00,$9.20,$70.80,$70.33,$0.00,$0.00,$70.33,$0.47,,spreadsheet
+27906812,Nike ZoomX Vaporfly Next% 2 White Volt Racer Blue,White/Black-Volt-Racer Blue-Bright Crimson,11.5,CU4111-103,01/25/2024,$150.00,$16.56,$133.44,$97.97,$0.00,$0.00,$97.97,$35.47,,upc_scan
+27565333,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,12,DQ8426-301,01/26/2024,$78.00,$10.19,$67.81,$70.33,$0.00,$0.00,$70.33,-$2.52,,spreadsheet
+28090936,adidas Ultra Boost 1.0 DNA Black,Core Black/Core Black/Beam Green,13,HQ4201,01/26/2024,$122.00,$14.81,$107.19,$84.67,$0.00,$0.00,$84.67,$22.52,,upc_scan
+27565324,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,11,DQ8426-301,01/26/2024,$79.00,$8.97,$70.03,$70.33,$0.00,$0.00,$70.33,-$0.30,,spreadsheet
+27565389,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,9.5,DH2973-100,01/27/2024,$111.00,$12.32,$98.68,$77.15,$0.00,$0.00,$77.15,$21.53,,spreadsheet
+27565431,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,9,CZ7918-600,01/27/2024,$93.00,$10.44,$82.56,$55.10,$0.00,$0.00,$55.10,$27.46,,spreadsheet
+27565447,Nike Blazer Low 77 Vintage White Black,White/Sail-Black,10,DA6464-101/DA6364-101,01/27/2024,$57.00,$7.38,$49.62,$44.08,$0.00,$0.00,$44.08,$5.54,,spreadsheet
+28061399,Nike Air Max Terrascape 90 White Grey,White/White/White/White,11,DQ3987-101,01/27/2024,$113.00,$12.54,$100.46,$89.97,$0.00,$0.00,$89.97,$10.49,,upc_scan
+27565298,Jordan 1 Mid Wear-Away Chicago,Black/Infrared 23-White-Sail,8,DV9565-006,01/28/2024,$107.00,$11.91,$95.09,$81.48,$0.00,$0.00,$81.48,$13.61,,spreadsheet
+28150411,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,8,DH2482-101,01/29/2024,$142.00,$16.91,$125.09,$107.76,$0.00,$0.00,$107.76,$17.33,,new_item_addition_flow
+27906811,Nike ZoomX Vaporfly Next% 2 White Volt Racer Blue,White/Black-Volt-Racer Blue-Bright Crimson,11.5,CU4111-103,01/29/2024,$147.00,$17.44,$129.56,$97.97,$0.00,$0.00,$97.97,$31.59,,upc_scan
+27906810,Nike ZoomX Vaporfly Next% 2 White Volt Racer Blue,White/Black-Volt-Racer Blue-Bright Crimson,11.5,CU4111-103,01/29/2024,$135.75,$0.00,$135.75,$97.97,$0.00,$0.00,$97.97,$37.78,alias,upc_scan
+27906778,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,11.5,DJ5423-001/DJ5422-001,01/29/2024,$124.00,$13.82,$110.18,$99.99,$0.00,$0.00,$99.99,$10.19,,upc_scan
+28290754,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,11,DJ5423-001/DJ5422-001,01/30/2024,$116.00,$12.98,$103.02,$89.97,$0.00,$0.00,$89.97,$13.05,,upc_scan
+28290751,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,10.5,DJ5423-001/DJ5422-001,01/30/2024,$111.00,$12.45,$98.55,$89.97,$0.00,$0.00,$89.97,$8.58,,upc_scan
+27565435,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,11,CZ7918-600,01/30/2024,$118.00,$13.19,$104.81,$55.10,$0.00,$0.00,$55.10,$49.71,,spreadsheet
+28290756,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,8,DJ5423-001/DJ5422-001,01/31/2024,$119.00,$13.29,$105.71,$89.97,$0.00,$0.00,$89.97,$15.74,,upc_scan
+28087647,Nike SB Dunk Low Fog (2021/2023),Black/Gum/Light Grey,6.5,BQ6817-010,01/31/2024,$139.00,$15.60,$123.40,$115.00,$0.00,$0.00,$115.00,$8.40,,upc_scan
+27565293,Nike Dunk High 1985 Barely Rose Denim,Light Pink/White/Red,9.5,DQ8799-100,01/31/2024,$74.00,$9.77,$64.23,$57.57,$0.00,$0.00,$57.57,$6.66,,spreadsheet
+27565336,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,13,DQ8426-301,02/01/2024,$85.00,$10.94,$74.06,$70.33,$0.00,$0.00,$70.33,$3.73,,spreadsheet
+27565313,Nike Air Max 1 '86 OG Big Bubble Lost Sketch,Light Smoke Grey/Diffused Blue,8.5,DV7525-001,02/01/2024,$84.00,$8.98,$75.02,$76.97,$0.00,$0.00,$76.97,-$1.95,,spreadsheet
+27906780,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,10.5,DJ5423-001/DJ5422-001,02/01/2024,$104.12,$0.00,$104.12,$99.99,$0.00,$0.00,$99.99,$4.13,alias,upc_scan
+27565297,Jordan 1 Mid Wear-Away Chicago,Black/Infrared 23-White-Sail,8,DV9565-006,02/01/2024,$100.00,$10.50,$89.50,$81.48,$0.00,$0.00,$81.48,$8.02,,spreadsheet
+28290753,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,11,DJ5423-001/DJ5422-001,02/01/2024,$116.00,$12.02,$103.98,$89.97,$0.00,$0.00,$89.97,$14.01,,upc_scan
+27584541,Nike Air Force 1 High White,White/White,9.5,315121-115/CW2290-111,02/02/2024,$93.00,$10.84,$82.16,$62.97,$0.00,$0.00,$62.97,$19.19,,manual
+28290755,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,8,DJ5423-001/DJ5422-001,02/02/2024,$108.00,$10.93,$97.07,$89.97,$0.00,$0.00,$89.97,$7.10,,upc_scan
+27565438,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,10,CZ7918-600,02/02/2024,$93.00,$9.51,$83.49,$55.10,$0.00,$0.00,$55.10,$28.39,,spreadsheet
+27565363,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,10.5,DH2482-101,02/02/2024,$129.00,$12.93,$116.07,$107.76,$0.00,$0.00,$107.76,$8.31,,spreadsheet
+28090925,adidas Ultra Boost 5.0 DNA Triple Black,Core Black/Core Black/Beam Green,10,GV8745,02/03/2024,$119.00,$11.98,$107.02,$84.67,$0.00,$0.00,$84.67,$22.35,,upc_scan
+27565383,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,8.5,DH2973-100,02/03/2024,$92.00,$9.41,$82.59,$76.63,$0.00,$0.00,$76.63,$5.96,,spreadsheet
+28150348,Nike Sportswear Tech Fleece Full-Zip Hoodie Black,Black,XXL,CU4489-010,02/03/2024,$76.00,$11.28,$64.72,$53.99,$0.00,$0.00,$53.99,$10.73,,upc_scan
+27565406,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,9.5,DR8785-100/DR8786-100,02/04/2024,$90.00,$10.55,$79.45,$76.98,$0.00,$0.00,$76.98,$2.47,,spreadsheet
+28408645,Nike Air Max 97 USA (2020),White/Obsidian-University Red,11,CW5584-100,02/04/2024,$110.00,$12.45,$97.55,$62.97,$0.00,$0.00,$62.97,$34.58,,upc_scan
+27565373,Nike Dunk Low Retro White Black Panda (Women's),White/Black,6W,DD1503-101,02/05/2024,$97.00,$9.89,$87.11,$80.50,$0.00,$0.00,$80.50,$6.61,,spreadsheet
+27584538,Nike Air Force 1 High White,White/White,9.5,315121-115/CW2290-111,02/05/2024,$94.00,$10.93,$83.07,$62.97,$0.00,$0.00,$62.97,$20.10,,manual
+28368219,Nike Air Max Terrascape 90 White Grey,White/White/White/White,13,DQ3987-101,02/05/2024,$95.33,$0.00,$95.33,$71.97,$0.00,$0.00,$71.97,$23.36,alias,upc_scan
+28408546,Gucci GG Supreme Platform Sandal Dark Red (Women's),Dark Red,39.5,573018KQW008366,02/06/2024,$227.00,$25.57,$201.43,$187.79,$0.00,$0.00,$187.79,$13.64,,manual
+28150347,Nike Sportswear Tech Fleece Full-Zip Hoodie Black,Black,XXL,CU4489-010,02/06/2024,$78.00,$11.41,$66.59,$53.99,$0.00,$0.00,$53.99,$12.60,,upc_scan
+28368218,Nike Air Max Terrascape 90 White Grey,White/White/White/White,8.5,DQ3987-101,02/07/2024,$99.00,$10.74,$88.26,$71.97,$0.00,$0.00,$71.97,$16.29,,upc_scan
+27970941,Nike Air Max 1 '86 OG Big Bubble Lost Sketch,Light Smoke Grey/Diffused Blue,9.5,DV7525-001,02/07/2024,$82.00,$9.12,$72.88,$0.00,$0.00,$0.00,$0.00,$72.88,,stockx_kafka_sync
+27811075,Nike Air Trainer SC High Auburn,Sail/Light Zen Grey/Tart,8,DV2212-100,02/07/2024,$96.00,$9.79,$86.21,$43.68,$0.00,$0.00,$43.68,$42.53,,upc_scan
+28409147,Nike Air Max Scorpion FK Barely Volt,Cargo Khaki Volt. ColorwayJade Horizon/Barely Volt/Cargo Khaki/Sequoia,12,DJ4701-300,02/07/2024,$103.00,$11.12,$91.88,$76.97,$0.00,$0.00,$76.97,$14.91,,upc_scan
+28150346,Nike Sportswear Tech Fleece Full-Zip Hoodie Black,Black,XXL,CU4489-010,02/08/2024,$78.00,$11.41,$66.59,$53.99,$0.00,$0.00,$53.99,$12.60,,upc_scan
+27864778,Nike Air Force 1 High '07 SP Billie Eilish Mushroom,Mushroom/Mushroom/Mushroom,9,DM7926-200,02/08/2024,$98.00,$9.98,$88.02,$69.27,$0.00,$0.00,$69.27,$18.75,,manual
+27565371,Nike Ja 1 Halloween Zombie,Lime Blast/Oil Green-Black-Hemp-Cacao Wow,9,FD6565-300/FV5562-300,02/08/2024,$100.60,$0.00,$100.60,$91.00,$0.00,$0.00,$91.00,$9.60,alias,spreadsheet
+28409120,Nike Air Max 1 Corduroy Baltic Blue,Baltic Blue/Sesame-Gridiron-Sail,9,FB8915-400,02/08/2024,$52.00,$7.23,$44.77,$41.97,$0.00,$0.00,$41.97,$2.80,,upc_scan
+28409079,Nike Air Max 270 White Gum,White/Gum Light Brown-White,12,DC1702-100,02/08/2024,$197.00,$19.39,$177.61,$87.40,$0.00,$0.00,$87.40,$90.21,,upc_scan
+28408642,Nike Air Max 97 USA (2020),White/Obsidian-University Red,12,CW5584-100,02/08/2024,$112.00,$11.31,$100.69,$62.97,$0.00,$0.00,$62.97,$37.72,,upc_scan
+28150341,Nike Sportswear Tech Fleece Full-Zip Hoodie Heather Grey/Black,Heather Grey/Black,XXXL,CU4489-063,02/09/2024,$66.00,$8.98,$57.02,$48.59,$0.00,$0.00,$48.59,$8.43,,upc_scan
+27565315,Nike Air Max 1 '86 OG Big Bubble Lost Sketch,Light Smoke Grey/Diffused Blue,9,DV7525-001,02/09/2024,$78.00,$8.08,$69.92,$76.97,$0.00,$0.00,$76.97,-$7.05,,spreadsheet
+27565394,Nike Air Max 90 Terrascape Sail Sea Glass,Sail/Sea Glass/Black,9.5,DH2973-100,02/09/2024,$101.00,$10.27,$90.73,$75.40,$0.00,$0.00,$75.40,$15.33,,spreadsheet
+27565417,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,8.5,DR8785-100/DR8786-100,02/10/2024,$93.00,$9.51,$83.49,$75.40,$0.00,$0.00,$75.40,$8.09,,spreadsheet
+28290752,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,11,DJ5423-001/DJ5422-001,02/10/2024,$117.00,$13.12,$103.88,$89.97,$0.00,$0.00,$89.97,$13.91,,upc_scan
+28409127,Nike Air Max 1 PRM Corduroy Coral Stardust,Coral Stardust/Bright Coral/Oxen Brown,12,FB8915-600,02/11/2024,$57.00,$7.38,$49.62,$41.97,$0.00,$0.00,$41.97,$7.65,,upc_scan
+27565421,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,10,DR8785-100/DR8786-100,02/11/2024,$88.00,$9.03,$78.97,$75.40,$0.00,$0.00,$75.40,$3.57,,spreadsheet
+27584539,Nike Air Force 1 High White,White/White,9.5,315121-115/CW2290-111,02/11/2024,$88.00,$10.36,$77.64,$62.97,$0.00,$0.00,$62.97,$14.67,,manual
+27565326,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,11,DQ8426-301,02/11/2024,$81.00,$8.37,$72.63,$70.33,$0.00,$0.00,$70.33,$2.30,,spreadsheet
+27565360,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,9,DH2482-101,02/12/2024,$101.47,$0.00,$101.47,$107.76,$0.00,$0.00,$107.76,-$6.29,alias,spreadsheet
+27565415,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,8.5,DR8785-100/DR8786-100,02/13/2024,$92.00,$9.41,$82.59,$75.40,$0.00,$0.00,$75.40,$7.19,,spreadsheet
+28150337,Nike Sportswear Tech Fleece Full-Zip Hoodie Black,Black,XXXL,CU4489-010,02/13/2024,$48.59,$0.00,$48.59,$48.59,$0.00,$0.00,$48.59,$0.00,Returned to Nike,manual
+27906816,Nike ZoomX Vaporfly Next% 2 White Volt Racer Blue,White/Black-Volt-Racer Blue-Bright Crimson,13,CU4111-103,02/13/2024,$97.97,$0.00,$97.97,$97.97,$0.00,$0.00,$97.97,$0.00,Returned to Nike,upc_scan
+28409174,Nike Air More Uptempo Industrial Blue,Pure Platinum/Burnished Teal-Industrial Blue,10.5,FD5573-001,02/13/2024,$78.00,$8.08,$69.92,$55.97,$0.00,$0.00,$55.97,$13.95,,upc_scan
+28409126,Nike Air Max 1 PRM Corduroy Coral Stardust,Coral Stardust/Bright Coral/Oxen Brown,12,FB8915-600,02/13/2024,$58.00,$7.41,$50.59,$41.97,$0.00,$0.00,$41.97,$8.62,,upc_scan
+28408591,Nike Air VaporMax Plus Black Orange Crimson,Black/Black-Total Orange-Total Crimson,13,924453-006,02/13/2024,$118.00,$13.21,$104.79,$90.97,$0.00,$0.00,$90.97,$13.82,,upc_scan
+27674464,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,11,CZ7918-600,02/13/2024,$114.00,$11.50,$102.50,$54.98,$0.00,$0.00,$54.98,$47.52,,upc_scan
+28564826,Jordan 4 Retro SE Craft Medium Olive,Medium Olive/Pale Vanilla/Khaki/Black/Sail,9,FB9927-200,02/14/2024,$168.90,$0.00,$168.90,$168.90,$0.00,$0.00,$168.90,$0.00,Returned to Nike,upc_scan
+28564825,Jordan 4 Retro SE Craft Medium Olive,Medium Olive/Pale Vanilla/Khaki/Black/Sail,9,FB9927-200,02/14/2024,$168.90,$0.00,$168.90,$168.90,$0.00,$0.00,$168.90,$0.00,Returned to Nike,upc_scan
+28564824,Jordan 4 Retro SE Craft Medium Olive,Medium Olive/Pale Vanilla/Khaki/Black/Sail,9,FB9927-200,02/14/2024,$168.90,$0.00,$168.90,$168.90,$0.00,$0.00,$168.90,$0.00,Returned to Nike,upc_scan
+28408592,Nike Air VaporMax Plus Black Orange Crimson,Black/Black-Total Orange-Total Crimson,13,924453-006,02/14/2024,$118.00,$13.21,$104.79,$90.97,$0.00,$0.00,$90.97,$13.82,,upc_scan
+28409081,Nike Air Max 270 White Gum,White/Gum Light Brown-White,9,DC1702-100,02/14/2024,$87.40,$0.00,$87.40,$87.40,$0.00,$0.00,$87.40,$0.00,Returned,upc_scan
+28150344,Nike Sportswear Tech Fleece Full-Zip Hoodie Black,Black,XXL,CU4489-010,02/14/2024,$76.00,$11.28,$64.72,$53.99,$0.00,$0.00,$53.99,$10.73,,upc_scan
+27906817,Nike ZoomX Vaporfly Next% 2 White Volt Racer Blue,White/Black-Volt-Racer Blue-Bright Crimson,13,CU4111-103,02/15/2024,$97.97,$0.00,$97.97,$97.97,$0.00,$0.00,$97.97,$0.00,Returned to Nike,upc_scan
+28408590,Nike Air VaporMax Plus Black Orange Crimson,Black/Black-Total Orange-Total Crimson,13,924453-006,02/15/2024,$116.00,$13.02,$102.98,$90.97,$0.00,$0.00,$90.97,$12.01,,upc_scan
+28408643,Nike Air Max 97 USA (2020),White/Obsidian-University Red,12,CW5584-100,02/15/2024,$109.00,$11.03,$97.97,$62.97,$0.00,$0.00,$62.97,$35.00,,upc_scan
+27565332,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,12,DQ8426-301,02/15/2024,$84.00,$8.66,$75.34,$70.33,$0.00,$0.00,$70.33,$5.01,,spreadsheet
+28651988,Nike Dunk Low Red Stardust (Women's),Red Stardust/Rugged Orange/White,9.5,FQ8876-618,02/16/2024,$117.00,$11.79,$105.21,$80.50,$0.00,$0.00,$80.50,$24.71,,upc_scan
+28654999,Jordan 3 Retro Midnight Navy,White/Cement Grey/Black/Midnight Navy,11,CT8532-140,02/16/2024,$180.00,$19.10,$160.90,$140.00,$0.00,$0.00,$140.00,$20.90,,upc_scan
+28654968,Jordan 1 Mid Light Smoke Grey,Light Smoke Grey/Black-White,11,554724-092,02/16/2024,$109.00,$11.03,$97.97,$87.50,$0.00,$0.00,$87.50,$10.47,,upc_scan
+27565323,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,11,DQ8426-301,02/16/2024,$81.00,$8.37,$72.63,$70.33,$0.00,$0.00,$70.33,$2.30,,spreadsheet
+27565321,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,11,DQ8426-301,02/16/2024,$81.00,$5.73,$75.27,$70.33,$0.00,$0.00,$70.33,$4.94,,spreadsheet
+28671827,Nike Air Force 1 Low '07 Black,Black/Black,11.5,315122-001/CW2288-001,02/16/2024,$96.00,$6.67,$89.33,$80.50,$0.00,$0.00,$80.50,$8.83,,manual
+28671826,Nike Air Force 1 Low '07 Black,Black/Black,11.5,315122-001/CW2288-001,02/17/2024,$96.00,$6.67,$89.33,$80.50,$0.00,$0.00,$80.50,$8.83,,manual
+28671950,Nike Dunk Low Red Stardust (Women's),Red Stardust/Rugged Orange/White,7,FQ8876-618,02/17/2024,$114.00,$7.80,$106.20,$80.50,$0.00,$0.00,$80.50,$25.70,,upc_scan
+28702916,Jordan 1 Mid SE Legend Light Brown (Women's),Legend Light Brown/Sail/Legend Medium Brown,9.5,FJ3448-200,02/18/2024,$111.15,$0.00,$111.15,$94.50,$0.00,$0.00,$94.50,$16.65,alias,upc_scan
+27565359,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,9,DH2482-101,02/18/2024,$103.23,$0.00,$103.23,$107.76,$0.00,$0.00,$107.76,-$4.53,alias,spreadsheet
+28408599,Nike Air VaporMax Plus Black Orange Crimson,Black/Black-Total Orange-Total Crimson,12,924453-006,02/18/2024,$112.00,$11.97,$100.03,$90.97,$0.00,$0.00,$90.97,$9.06,,upc_scan
+28408598,Nike Air VaporMax Plus Black Orange Crimson,Black/Black-Total Orange-Total Crimson,12,924453-006,02/19/2024,$112.00,$11.97,$100.03,$90.97,$0.00,$0.00,$90.97,$9.06,,upc_scan
+28702842,Nike Dunk Low Valerian Blue,Valerian Blue/White/University Red/Valerian Blue,7.5,DD1391-400,02/19/2024,$99.00,$10.08,$88.92,$80.50,$0.00,$0.00,$80.50,$8.42,,upc_scan
+28408597,Nike Air VaporMax Plus Black Orange Crimson,Black/Black-Total Orange-Total Crimson,12,924453-006,02/19/2024,$112.00,$12.64,$99.36,$90.97,$0.00,$0.00,$90.97,$8.39,,upc_scan
+27565309,Nike Air Max 1 '86 OG Big Bubble Lost Sketch,Light Smoke Grey/Diffused Blue,9.5,DV7525-001,02/19/2024,$78.00,$8.08,$69.92,$76.97,$0.00,$0.00,$76.97,-$7.05,,spreadsheet
+28702841,Nike Dunk Low Valerian Blue,Valerian Blue/White/University Red/Valerian Blue,7,DD1391-400,02/19/2024,$99.00,$10.07,$88.93,$80.50,$0.00,$0.00,$80.50,$8.43,,upc_scan
+27565296,Nike Dunk High 1985 Barely Rose Denim,Light Pink/White/Red,13,DQ8799-100,02/19/2024,$76.00,$8.61,$67.39,$57.57,$0.00,$0.00,$57.57,$9.82,,spreadsheet
+28671947,Nike Dunk Low Red Stardust (Women's),Red Stardust/Rugged Orange/White,7.5,FQ8876-618,02/19/2024,$116.00,$11.69,$104.31,$80.50,$0.00,$0.00,$80.50,$23.81,,upc_scan
+28408648,Nike Air Max 97 USA (2020),White/Obsidian-University Red,13,CW5584-100,02/19/2024,$106.00,$12.07,$93.93,$62.97,$0.00,$0.00,$62.97,$30.96,,upc_scan
+28711067,Jordan 1 Mid Patent Black White Gold,Black/White-Metallic Gold,13,852542-007,02/20/2024,$114.00,$11.50,$102.50,$94.50,$0.00,$0.00,$94.50,$8.00,,upc_scan
+28655039,Nike Air Force 1 Low '07 Black,Black/Black,11,315122-001/CW2288-001,02/20/2024,$100.00,$10.17,$89.83,$80.50,$0.00,$0.00,$80.50,$9.33,,manual
+28712273,Nike Air Force 1 Low '07 Black,Black/Black,11,315122-001/CW2288-001,02/20/2024,$99.00,$10.08,$88.92,$80.50,$0.00,$0.00,$80.50,$8.42,,upc_scan
+28768294,Nike SB Dunk Low City Of Love Light Bone,Coconut Milk/Light Bone/Phantom/University Red/Sail,6,FZ5654-100,02/20/2024,$158.00,$15.68,$142.32,$87.50,$0.00,$0.00,$87.50,$54.82,,upc_scan
+28711066,Jordan 1 Mid Patent Black White Gold,Black/White-Metallic Gold,13,852542-007,02/20/2024,$114.00,$11.50,$102.50,$94.50,$0.00,$0.00,$94.50,$8.00,,upc_scan
+28789000,Nike Air Max 270 Pink Foam (Women's),Pink Foam/Pink Foam/Pearl Pink/Pink Rise,5,AH6789-605,02/20/2024,$129.00,$12.93,$116.07,$112.00,$0.00,$0.00,$112.00,$4.07,,manual
+28711065,Jordan 1 Mid Patent Black White Gold,Black/White-Metallic Gold,13,852542-007,02/20/2024,$114.00,$11.50,$102.50,$94.50,$0.00,$0.00,$94.50,$8.00,,upc_scan
+28702915,Jordan 1 Mid SE Legend Light Brown (Women's),Legend Light Brown/Sail/Legend Medium Brown,8.5,FJ3448-200,02/20/2024,$117.00,$11.79,$105.21,$94.50,$0.00,$0.00,$94.50,$10.71,,upc_scan
+28671907,Nike Dunk Low Cacao Wow (Women's),Sail/Cacao Wow-Coconut Milk,8,DD1503-124,02/20/2024,$108.00,$10.93,$97.07,$80.50,$0.00,$0.00,$80.50,$16.57,,upc_scan
+27565331,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,12,DQ8426-301,02/21/2024,$82.00,$8.46,$73.54,$70.33,$0.00,$0.00,$70.33,$3.21,,spreadsheet
+28703423,Nike Dunk Low Cacao Wow (Women's),Sail/Cacao Wow-Coconut Milk,9,DD1503-124,02/21/2024,$106.00,$10.74,$95.26,$80.50,$0.00,$0.00,$80.50,$14.76,,upc_scan
+28671949,Nike Dunk Low Red Stardust (Women's),Red Stardust/Rugged Orange/White,7,FQ8876-618,02/21/2024,$109.00,$11.03,$97.97,$80.50,$0.00,$0.00,$80.50,$17.47,,upc_scan
+28703424,Nike Dunk Low Cacao Wow (Women's),Sail/Cacao Wow-Coconut Milk,9,DD1503-124,02/21/2024,$106.00,$10.74,$95.26,$80.50,$0.00,$0.00,$80.50,$14.76,,upc_scan
+27565328,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,12,DQ8426-301,02/21/2024,$82.00,$8.46,$73.54,$70.33,$0.00,$0.00,$70.33,$3.21,,spreadsheet
+28711064,Jordan 1 Mid Patent Black White Gold,Black/White-Metallic Gold,13,852542-007,02/21/2024,$112.00,$11.31,$100.69,$94.50,$0.00,$0.00,$94.50,$6.19,,upc_scan
+28711063,Jordan 1 Mid Patent Black White Gold,Black/White-Metallic Gold,13,852542-007,02/21/2024,$111.00,$11.22,$99.78,$94.50,$0.00,$0.00,$94.50,$5.28,,upc_scan
+28703297,Nike Dunk Low Red Stardust (Women's),Red Stardust/Rugged Orange/White,8,FQ8876-618,02/22/2024,$106.00,$10.74,$95.26,$80.50,$0.00,$0.00,$80.50,$14.76,,upc_scan
+28671825,Nike Air Force 1 Low '07 Black,Black/Black,11.5,315122-001/CW2288-001,02/22/2024,$98.00,$9.98,$88.02,$80.50,$0.00,$0.00,$80.50,$7.52,,manual
+28806237,Nike Dunk Low Valerian Blue,Valerian Blue/White/University Red/Valerian Blue,9,DD1391-400,02/22/2024,$103.00,$10.46,$92.54,$80.50,$0.00,$0.00,$80.50,$12.04,,upc_scan
+27565420,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,10,DR8785-100/DR8786-100,02/22/2024,$81.27,$0.00,$81.27,$75.40,$0.00,$0.00,$75.40,$5.87,alias,spreadsheet
+27565355,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,9,DH2482-101,02/22/2024,$109.39,$0.00,$109.39,$107.76,$0.00,$0.00,$107.76,$1.63,alias,spreadsheet
+28806239,Nike Dunk Low Sanddrift Light Armory Blue,Coconut Milk/Light Armory Blue/Sanddrift/Hemp/Sesame/Gum Medium Brown,7,HF0106-100,02/22/2024,$119.00,$11.97,$107.03,$94.50,$0.00,$0.00,$94.50,$12.53,,upc_scan
+28836829,Jordan 1 Mid Light Smoke Grey,Light Smoke Grey/Black-White,11,554724-092,02/22/2024,$106.00,$10.87,$95.13,$87.50,$0.00,$0.00,$87.50,$7.63,,upc_scan
+28408644,Nike Air Max 97 USA (2020),White/Obsidian-University Red,11,CW5584-100,02/22/2024,$105.00,$10.78,$94.22,$62.97,$0.00,$0.00,$62.97,$31.25,,upc_scan
+28703294,Nike Dunk Low Red Stardust (Women's),Red Stardust/Rugged Orange/White,10.5,FQ8876-618,02/23/2024,$135.00,$13.50,$121.50,$80.50,$0.00,$0.00,$80.50,$41.00,,upc_scan
+28408639,Nike Air Max 97 USA (2020),White/Obsidian-University Red,11.5,CW5584-100,02/23/2024,$112.90,$0.00,$112.90,$62.97,$0.00,$0.00,$62.97,$49.93,alias,upc_scan
+27565329,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,12,DQ8426-301,02/23/2024,$88.00,$9.16,$78.84,$70.33,$0.00,$0.00,$70.33,$8.51,,spreadsheet
+28408647,Nike Air Max 97 USA (2020),White/Obsidian-University Red,11.5,CW5584-100,02/23/2024,$108.00,$11.06,$96.94,$62.97,$0.00,$0.00,$62.97,$33.97,,upc_scan
+27565354,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,9,DH2482-101,02/23/2024,$120.00,$12.20,$107.80,$107.76,$0.00,$0.00,$107.76,$0.04,,spreadsheet
+28654967,Jordan 1 Mid Light Smoke Grey,Light Smoke Grey/Black-White,10.5,554724-092,02/23/2024,$119.00,$11.98,$107.02,$87.50,$0.00,$0.00,$87.50,$19.52,,upc_scan
+27565304,Jordan 1 Mid Wear-Away Chicago,Black/Infrared 23-White-Sail,10.5,DV9565-006,02/24/2024,$98.00,$10.31,$87.69,$81.48,$0.00,$0.00,$81.48,$6.21,,spreadsheet
+28304070,Nike Blazer Low sacai White Patent Leather,White/Sail,11.5,DM6443-100,02/24/2024,$99.72,$0.00,$99.72,$87.99,$0.00,$0.00,$87.99,$11.73,alias,upc_scan
+28703298,Nike Dunk Low Red Stardust (Women's),Red Stardust/Rugged Orange/White,7.5,FQ8876-618,02/24/2024,$110.00,$11.12,$98.88,$80.50,$0.00,$0.00,$80.50,$18.38,,upc_scan
+28788951,Nike Dunk Low Rose Whisper (Women's),White/Rose Whisper,6.5,DD1503-118,02/25/2024,$99.00,$11.41,$87.59,$80.50,$0.00,$0.00,$80.50,$7.09,,upc_scan
+27565403,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,13,DR8785-100/DR8786-100,02/25/2024,$86.54,$0.00,$86.54,$76.63,$0.00,$0.00,$76.63,$9.91,alias,spreadsheet
+27565316,Nike Air Max 1 '86 OG Big Bubble Lost Sketch,Light Smoke Grey/Diffused Blue,9,DV7525-001,02/25/2024,$71.00,$8.13,$62.87,$76.97,$0.00,$0.00,$76.97,-$14.10,,spreadsheet
+28671773,Jordan 1 Mid Light Smoke Grey,Light Smoke Grey/Black-White,10.5,554724-092,02/25/2024,$117.00,$11.79,$105.21,$87.50,$0.00,$0.00,$87.50,$17.71,,upc_scan
+27565319,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,11,DQ8426-301,02/25/2024,$88.00,$9.36,$78.64,$70.33,$0.00,$0.00,$70.33,$8.31,,spreadsheet
+28651968,Nike Air Force 1 Low '07 Black,Black/Black,9.5,315122-001/CW2288-001,02/26/2024,$102.00,$10.36,$91.64,$80.50,$0.00,$0.00,$80.50,$11.14,,upc_scan
+28671772,Jordan 1 Mid Light Smoke Grey,Light Smoke Grey/Black-White,10.5,554724-092,02/26/2024,$116.00,$11.69,$104.31,$87.50,$0.00,$0.00,$87.50,$16.81,,upc_scan
+28409082,Nike Air Max 270 White Gum,White/Gum Light Brown-White,9,DC1702-100,02/26/2024,$125.00,$13.88,$111.12,$87.40,$0.00,$0.00,$87.40,$23.72,,upc_scan
+27565437,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,10,CZ7918-600,02/27/2024,$109.00,$11.36,$97.64,$55.10,$0.00,$0.00,$55.10,$42.54,,spreadsheet
+28408595,Nike Air VaporMax Plus Black Orange Crimson,Black/Black-Total Orange-Total Crimson,12,924453-006,02/27/2024,$112.00,$12.64,$99.36,$90.97,$0.00,$0.00,$90.97,$8.39,,upc_scan
+27565314,Nike Air Max 1 '86 OG Big Bubble Lost Sketch,Light Smoke Grey/Diffused Blue,9,DV7525-001,02/29/2024,$73.00,$7.00,$66.00,$76.97,$0.00,$0.00,$76.97,-$10.97,,spreadsheet
+28654966,Jordan 1 Mid Light Smoke Grey,Light Smoke Grey/Black-White,10.5,554724-092,02/29/2024,$107.00,$7.76,$99.24,$87.50,$0.00,$0.00,$87.50,$11.74,,upc_scan
+28655518,Jordan 1 Low Triple White (2022) (Women's),White/White/White,7.5,DV0990-111,03/01/2024,$94.00,$6.91,$87.09,$70.00,$0.00,$0.00,$70.00,$17.09,,upc_scan
+28654965,Jordan 1 Mid Light Smoke Grey,Light Smoke Grey/Black-White,10.5,554724-092,03/01/2024,$107.00,$7.76,$99.24,$87.50,$0.00,$0.00,$87.50,$11.74,,upc_scan
+28806235,Nike Dunk Low Cacao Wow (Women's),Sail/Cacao Wow-Coconut Milk,9,DD1503-124,03/01/2024,$96.00,$7.04,$88.96,$80.50,$0.00,$0.00,$80.50,$8.46,,upc_scan
+28806255,Nike Dunk Low Team Red (2022/2023),Team Red/Team Red-White,7.5,DD1391-601,03/01/2024,$103.00,$7.50,$95.50,$80.50,$0.00,$0.00,$80.50,$15.00,,upc_scan
+28408596,Nike Air VaporMax Plus Black Orange Crimson,Black/Black-Total Orange-Total Crimson,12,924453-006,03/01/2024,$112.00,$9.28,$102.72,$90.97,$0.00,$0.00,$90.97,$11.75,,upc_scan
+28304076,Nike Blazer Low sacai White Patent Leather,White/Sail,8,DM6443-100,03/01/2024,$87.99,$0.00,$87.99,$87.99,$0.00,$0.00,$87.99,$0.00,Returned to Nike,upc_scan
+28304075,Nike Blazer Low sacai White Patent Leather,White/Sail,8,DM6443-100,03/01/2024,$87.99,$0.00,$87.99,$87.99,$0.00,$0.00,$87.99,$0.00,Returned to Nike,upc_scan
+28304074,Nike Blazer Low sacai White Patent Leather,White/Sail,10,DM6443-100,03/01/2024,$87.99,$0.00,$87.99,$87.99,$0.00,$0.00,$87.99,$0.00,Returned to Nike,upc_scan
+28304073,Nike Blazer Low sacai White Patent Leather,White/Sail,10,DM6443-100,03/01/2024,$87.99,$0.00,$87.99,$87.99,$0.00,$0.00,$87.99,$0.00,Returned to Nike,upc_scan
+28304072,Nike Blazer Low sacai White Patent Leather,White/Sail,10,DM6443-100,03/01/2024,$87.99,$0.00,$87.99,$87.99,$0.00,$0.00,$87.99,$0.00,Returned to Nike,upc_scan
+28304071,Nike Blazer Low sacai White Patent Leather,White/Sail,11.5,DM6443-100,03/01/2024,$87.99,$0.00,$87.99,$87.99,$0.00,$0.00,$87.99,$0.00,Returned to Nike,upc_scan
+28304069,Nike Blazer Low sacai White Patent Leather,White/Sail,11,DM6443-100,03/01/2024,$87.99,$0.00,$87.99,$87.99,$0.00,$0.00,$87.99,$0.00,Returned to Nike,upc_scan
+28304068,Nike Blazer Low sacai White Patent Leather,White/Sail,11,DM6443-100,03/01/2024,$87.99,$0.00,$87.99,$87.99,$0.00,$0.00,$87.99,$0.00,Returned to Nike,upc_scan
+28408641,Nike Air Max 97 USA (2020),White/Obsidian-University Red,12,CW5584-100,03/01/2024,$107.00,$8.96,$98.04,$62.97,$0.00,$0.00,$62.97,$35.07,,upc_scan
+28368217,Nike Air Max Terrascape 90 White Grey,White/White/White/White,8.5,DQ3987-101,03/01/2024,$94.00,$6.91,$87.09,$71.97,$0.00,$0.00,$71.97,$15.12,,upc_scan
+29095511,Jordan 4 Retro Bred Reimagined,Black/Cement Grey/Varsity Red/Summit White,11,FV5029-006,03/03/2024,$298.00,$20.17,$277.83,$230.59,$0.00,$0.00,$230.59,$47.24,,upc_scan
+28806310,Nike Air Force 1 Low '07 Black,Black/Black,8,315122-001/CW2288-001,03/04/2024,$98.00,$7.17,$90.83,$80.50,$0.00,$0.00,$80.50,$10.33,,manual
+28970484,Nike Air Max 97 USA (2020),White/Obsidian-University Red,12,CW5584-100,03/04/2024,$109.39,$0.00,$109.39,$62.97,$0.00,$0.00,$62.97,$46.42,alias,item-duplicate
+27565430,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,10,CZ7918-600,03/04/2024,$89.17,$0.00,$89.17,$55.10,$0.00,$0.00,$55.10,$34.07,alias,spreadsheet
+28655516,Jordan 1 Low Triple White (2022) (Women's),White/White/White,9,DV0990-111,03/05/2024,$88.00,$6.52,$81.48,$70.00,$0.00,$0.00,$70.00,$11.48,,upc_scan
+28090924,adidas Ultra Boost 5.0 DNA Triple Black,Core Black/Core Black/Beam Green,11.5,GV8745,03/05/2024,$109.00,$7.89,$101.11,$84.67,$0.00,$0.00,$84.67,$16.44,,upc_scan
+27616522,Nike Sportswear Tech Fleece Full-Zip Hoodie Black,Black,XXL,CU4489-010,03/06/2024,$62.99,$0.00,$62.99,$62.99,$0.00,$0.00,$62.99,$0.00,Returned to Nike,manual
+27616517,Nike Sportswear Tech Fleece Full-Zip Hoodie Black,Black,XXL,CU4489-010,03/06/2024,$62.99,$0.00,$62.99,$62.99,$0.00,$0.00,$62.99,$0.00,Returned to Nike,manual
+28806252,Nike Dunk Low Team Red (2022/2023),Team Red/Team Red-White,9,DD1391-601,03/06/2024,$93.00,$6.85,$86.15,$80.50,$0.00,$0.00,$80.50,$5.65,,upc_scan
+28409173,Nike Air More Uptempo Industrial Blue,Pure Platinum/Burnished Teal-Industrial Blue,10.5,FD5573-001,03/06/2024,$74.23,$0.00,$74.23,$55.97,$0.00,$0.00,$55.97,$18.26,alias,upc_scan
+28409080,Nike Air Max 270 White Gum,White/Gum Light Brown-White,9,DC1702-100,03/08/2024,$87.40,$0.00,$87.40,$87.40,$0.00,$0.00,$87.40,$0.00,Returned,upc_scan
+28409118,Nike Air Max 1 Corduroy Baltic Blue,Baltic Blue/Sesame-Gridiron-Sail,8.5,FB8915-400,03/08/2024,$55.00,$5.80,$49.20,$41.97,$0.00,$0.00,$41.97,$7.23,,upc_scan
+28654964,Jordan 1 Mid Light Smoke Grey,Light Smoke Grey/Black-White,10,554724-092,03/08/2024,$100.00,$7.30,$92.70,$87.50,$0.00,$0.00,$87.50,$5.20,,upc_scan
+27565330,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,12,DQ8426-301,03/08/2024,$86.00,$6.39,$79.61,$70.33,$0.00,$0.00,$70.33,$9.28,,spreadsheet
+29088409,Jordan 7 Retro SE Vachetta Tan,Vachetta Tan/Black/Taxi/Dark Concord,13,DZ4729-200,03/09/2024,$129.00,$9.19,$119.81,$109.97,$0.00,$0.00,$109.97,$9.84,,upc_scan
+28806256,Nike Dunk Low Team Red (2022/2023),Team Red/Team Red-White,8.5,DD1391-601,03/09/2024,$90.00,$6.52,$83.48,$80.50,$0.00,$0.00,$80.50,$2.98,,upc_scan
+29246483,Nike Air Max 90 Pure Platinum Gorge Green,Pure Platinum/Gorge Green/University Gold/Black,13,DM0029-004,03/09/2024,$124.00,$8.73,$115.27,$89.99,$0.00,$0.00,$89.99,$25.28,,manual
+28408594,Nike Air VaporMax Plus Black Orange Crimson,Black/Black-Total Orange-Total Crimson,12,924453-006,03/09/2024,$104.12,$0.00,$104.12,$90.97,$0.00,$0.00,$90.97,$13.15,alias,upc_scan
+28409130,Nike Air Max 1 PRM Corduroy Coral Stardust,Coral Stardust/Bright Coral/Oxen Brown,8,FB8915-600,03/10/2024,$52.00,$5.67,$46.33,$41.97,$0.00,$0.00,$41.97,$4.36,,upc_scan
+27565320,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,11,DQ8426-301,03/10/2024,$89.00,$6.46,$82.54,$70.33,$0.00,$0.00,$70.33,$12.21,,spreadsheet
+27565295,Nike Dunk High 1985 Barely Rose Denim,Light Pink/White/Red,10.5,DQ8799-100,03/10/2024,$75.00,$7.00,$68.00,$57.57,$0.00,$0.00,$57.57,$10.43,,spreadsheet
+29246484,Nike Air Max 90 Pure Platinum Gorge Green,Pure Platinum/Gorge Green/University Gold/Black,9,DM0029-004,03/10/2024,$107.00,$7.63,$99.37,$89.99,$0.00,$0.00,$89.99,$9.38,,manual
+28671824,Nike Air Force 1 Low '07 Black,Black/Black,11.5,315122-001/CW2288-001,03/10/2024,$94.00,$6.78,$87.22,$80.50,$0.00,$0.00,$80.50,$6.72,,manual
+27906777,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,11.5,DJ5423-001/DJ5422-001,03/10/2024,$114.00,$9.41,$104.59,$99.99,$0.00,$0.00,$99.99,$4.60,,upc_scan
+28671905,Nike Dunk Low Cacao Wow (Women's),Sail/Cacao Wow-Coconut Milk,7.5,DD1503-124,03/11/2024,$99.00,$7.24,$91.76,$80.50,$0.00,$0.00,$80.50,$11.26,,upc_scan
+28867005,Jordan 1 Mid Wear-Away Chicago,Black/Infrared 23-White-Sail,10.5,DV9565-006,03/11/2024,$99.00,$7.24,$91.76,$81.48,$0.00,$0.00,$81.48,$10.28,,manual
+29279342,Nike Air Max 90 Pure Platinum Gorge Green,Pure Platinum/Gorge Green/University Gold/Black,12,DM0029-004,03/11/2024,$106.00,$7.69,$98.31,$89.99,$0.00,$0.00,$89.99,$8.32,,upc_scan
+28806236,Nike Dunk Low Cacao Wow (Women's),Sail/Cacao Wow-Coconut Milk,7.5,DD1503-124,03/11/2024,$103.00,$7.50,$95.50,$80.50,$0.00,$0.00,$80.50,$15.00,,upc_scan
+28806247,Nike Air Force 1 Low '07 Black,Black/Black,8.5,315122-001/CW2288-001,03/11/2024,$101.00,$7.37,$93.63,$80.50,$0.00,$0.00,$80.50,$13.13,,manual
+28806246,Nike Air Force 1 Low '07 Black,Black/Black,8.5,315122-001/CW2288-001,03/12/2024,$102.00,$7.30,$94.70,$80.50,$0.00,$0.00,$80.50,$14.20,,manual
+28703295,Nike Dunk Low Red Stardust (Women's),Red Stardust/Rugged Orange/White,11,FQ8876-618,03/12/2024,$95.00,$6.85,$88.15,$80.50,$0.00,$0.00,$80.50,$7.65,,upc_scan
+27616518,Nike Sportswear Tech Fleece Full-Zip Hoodie Black,Black,XXL,CU4489-010,03/12/2024,$62.99,$0.00,$62.99,$62.99,$0.00,$0.00,$62.99,$0.00,Returned to Nike,manual
+28655517,Jordan 1 Low Triple White (2022) (Women's),White/White/White,10,DV0990-111,03/12/2024,$83.00,$6.07,$76.93,$70.00,$0.00,$0.00,$70.00,$6.93,,upc_scan
+28671948,Nike Dunk Low Red Stardust (Women's),Red Stardust/Rugged Orange/White,9.5,FQ8876-618,03/12/2024,$96.00,$6.91,$89.09,$80.50,$0.00,$0.00,$80.50,$8.59,,upc_scan
+28806309,Nike Air Force 1 Low '07 Black,Black/Black,9,315122-001/CW2288-001,03/13/2024,$95.00,$6.85,$88.15,$80.50,$0.00,$0.00,$80.50,$7.65,,manual
+27906779,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,10.5,DJ5423-001/DJ5422-001,03/13/2024,$111.00,$7.89,$103.11,$99.99,$0.00,$0.00,$99.99,$3.12,,upc_scan
+28806308,Nike Air Force 1 Low '07 Black,Black/Black,9.5,315122-001/CW2288-001,03/14/2024,$108.00,$7.69,$100.31,$80.50,$0.00,$0.00,$80.50,$19.81,,manual
+28408640,Nike Air Max 97 USA (2020),White/Obsidian-University Red,12,CW5584-100,03/14/2024,$111.00,$7.89,$103.11,$62.97,$0.00,$0.00,$62.97,$40.14,,upc_scan
+29246487,Nike Air Max 90 Pure Platinum Gorge Green,Pure Platinum/Gorge Green/University Gold/Black,10,DM0029-004,03/14/2024,$108.00,$7.69,$100.31,$89.99,$0.00,$0.00,$89.99,$10.32,,manual
+29095516,Jordan 4 Retro Bred Reimagined (GS),Black/Cement Grey/Varsity Red/Summit White,7,FQ8213-006,03/15/2024,$182.00,$12.50,$169.50,$171.60,$0.00,$0.00,$171.60,-$2.10,,upc_scan
+28655036,Nike Air Force 1 Low '07 Black,Black/Black,12,315122-001/CW2288-001,03/15/2024,$102.00,$3.98,$98.02,$80.50,$0.00,$0.00,$80.50,$17.52,,manual
+29246486,Nike Air Max 90 Pure Platinum Gorge Green,Pure Platinum/Gorge Green/University Gold/Black,9.5,DM0029-004,03/15/2024,$103.00,$4.02,$98.98,$89.99,$0.00,$0.00,$89.99,$8.99,,manual
+28651972,Nike Air Force 1 Low '07 Black,Black/Black,10.5,315122-001/CW2288-001,03/17/2024,$104.00,$7.76,$96.24,$80.50,$0.00,$0.00,$80.50,$15.74,,upc_scan
+27565434,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,11,CZ7918-600,03/17/2024,$98.00,$7.37,$90.63,$55.10,$0.00,$0.00,$55.10,$35.53,,spreadsheet
+28836817,Nike Dunk Low Rose Whisper (Women's),White/Rose Whisper,8,DD1503-118,03/17/2024,$93.00,$7.05,$85.95,$80.50,$0.00,$0.00,$80.50,$5.45,,manual
+28655037,Nike Air Force 1 Low '07 Black,Black/Black,10.5,315122-001/CW2288-001,03/18/2024,$109.00,$8.09,$100.91,$80.50,$0.00,$0.00,$80.50,$20.41,,manual
+28150345,Nike Sportswear Tech Fleece Full-Zip Hoodie Black,Black,XXL,CU4489-010,03/19/2024,$53.99,$0.00,$53.99,$53.99,$0.00,$0.00,$53.99,$0.00,Returned to Nike,upc_scan
+27565361,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,9,DH2482-101,03/21/2024,$122.00,$8.60,$113.40,$107.76,$0.00,$0.00,$107.76,$5.64,,spreadsheet
+28788954,Nike Dunk Low Rose Whisper (Women's),White/Rose Whisper,7,DD1503-118,03/21/2024,$95.00,$6.85,$88.15,$80.50,$0.00,$0.00,$80.50,$7.65,,upc_scan
+27906776,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,9.5,DJ5423-001/DJ5422-001,03/21/2024,$98.00,$7.04,$90.96,$99.99,$0.00,$0.00,$99.99,-$9.03,,upc_scan
+28788953,Nike Dunk Low Rose Whisper (Women's),White/Rose Whisper,7,DD1503-118,03/21/2024,$95.00,$6.85,$88.15,$80.50,$0.00,$0.00,$80.50,$7.65,,upc_scan
+27906775,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,9.5,DJ5423-001/DJ5422-001,03/21/2024,$98.00,$7.04,$90.96,$99.99,$0.00,$0.00,$99.99,-$9.03,,upc_scan
+27565443,Nike Air Max 90 Triple Red (2020),University Red/University Red-Black,11,CZ7918-600,03/22/2024,$104.00,$7.43,$96.57,$55.10,$0.00,$0.00,$55.10,$41.47,,spreadsheet
+28299881,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,8.5,DJ5423-001/DJ5422-001,03/22/2024,$99.00,$8.44,$90.56,$89.97,$0.00,$0.00,$89.97,$0.59,,upc_scan
+28290750,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,10,DJ5423-001/DJ5422-001,03/23/2024,$98.00,$8.37,$89.63,$89.97,$0.00,$0.00,$89.97,-$0.34,,upc_scan
+29095545,Jordan 1 Mid Royal Blue Laser Orange,White/Deep Royal Blue-Track Red-Laser Orange,11.5,554724-131,03/25/2024,$130.47,$0.00,$130.47,$149.18,$0.00,$0.00,$149.18,-$18.71,alias,upc_scan
+27565365,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,12,DH2482-101,03/26/2024,$117.00,$8.94,$108.06,$107.76,$0.00,$0.00,$107.76,$0.30,,spreadsheet
+28702914,Jordan 1 Mid SE Legend Light Brown (Women's),Legend Light Brown/Sail/Legend Medium Brown,9,FJ3448-200,03/27/2024,$94.50,$0.00,$94.50,$94.50,$0.00,$0.00,$94.50,$0.00,Returned to Nike,upc_scan
+28702913,Jordan 1 Mid SE Legend Light Brown (Women's),Legend Light Brown/Sail/Legend Medium Brown,9,FJ3448-200,03/27/2024,$94.50,$0.00,$94.50,$94.50,$0.00,$0.00,$94.50,$0.00,Returned to Nike,upc_scan
+29764167,Jordan 12 Retro Field Purple,Black/Field Purple/Taxi,11.5,CT8013-057,03/27/2024,$167.00,$12.19,$154.81,$160.88,$0.00,$0.00,$160.88,-$6.07,,upc_scan
+28409134,Nike Air Max 1 PRM Corduroy Coral Stardust,Coral Stardust/Bright Coral/Oxen Brown,8.5,FB8915-600,03/27/2024,$55.00,$5.80,$49.20,$41.97,$0.00,$0.00,$41.97,$7.23,,upc_scan
+27565334,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,12,DQ8426-301,03/28/2024,$90.00,$6.65,$83.35,$70.33,$0.00,$0.00,$70.33,$13.02,,spreadsheet
+29246485,Nike Air Max 90 Pure Platinum Gorge Green,Pure Platinum/Gorge Green/University Gold/Black,11.5,DM0029-004,03/28/2024,$103.00,$7.49,$95.51,$89.99,$0.00,$0.00,$89.99,$5.52,,manual
+27565410,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,12,DR8785-100/DR8786-100,03/28/2024,$91.00,$7.25,$83.75,$77.15,$0.00,$0.00,$77.15,$6.60,,spreadsheet
+28409129,Nike Air Max 1 PRM Corduroy Coral Stardust,Coral Stardust/Bright Coral/Oxen Brown,8,FB8915-600,03/29/2024,$52.00,$7.36,$44.64,$41.97,$0.00,$0.00,$41.97,$2.67,,upc_scan
+27565322,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,11,DQ8426-301,03/29/2024,$88.00,$9.16,$78.84,$70.33,$0.00,$0.00,$70.33,$8.51,,spreadsheet
+28671906,Nike Dunk Low Cacao Wow (Women's),Sail/Cacao Wow-Coconut Milk,5.5,DD1503-124,03/30/2024,$94.00,$10.93,$83.07,$80.50,$0.00,$0.00,$80.50,$2.57,,upc_scan
+29763412,Jordan 6 Retro Yellow Ochre (GS),White/Yellow Ochre-Black,7,384665-170,03/31/2024,$122.56,$0.00,$122.56,$120.66,$0.00,$0.00,$120.66,$1.90,alias,upc_scan
+29764169,Jordan 12 Retro Field Purple,Black/Field Purple/Taxi,11.5,CT8013-057,04/02/2024,$167.00,$17.87,$149.13,$160.88,$0.00,$0.00,$160.88,-$11.75,,upc_scan
+28409117,Nike Air Max 1 Corduroy Baltic Blue,Baltic Blue/Sesame-Gridiron-Sail,8.5,FB8915-400,04/04/2024,$59.00,$2.77,$56.23,$41.97,$0.00,$0.00,$41.97,$14.26,,upc_scan
+29279345,Nike Air Max 90 Pure Platinum Gorge Green,Pure Platinum/Gorge Green/University Gold/Black,9,DM0029-004,04/04/2024,$89.99,$0.00,$89.99,$89.99,$0.00,$0.00,$89.99,$0.00,Returned to Nike,upc_scan
+29279344,Nike Air Max 90 Pure Platinum Gorge Green,Pure Platinum/Gorge Green/University Gold/Black,13,DM0029-004,04/04/2024,$89.99,$0.00,$89.99,$89.99,$0.00,$0.00,$89.99,$0.00,Returned to Nike,upc_scan
+29279343,Nike Air Max 90 Pure Platinum Gorge Green,Pure Platinum/Gorge Green/University Gold/Black,13,DM0029-004,04/04/2024,$89.99,$0.00,$89.99,$89.99,$0.00,$0.00,$89.99,$0.00,Returned to Nike,upc_scan
+29279341,Nike Air Max 90 Pure Platinum Gorge Green,Pure Platinum/Gorge Green/University Gold/Black,12,DM0029-004,04/04/2024,$89.99,$0.00,$89.99,$89.99,$0.00,$0.00,$89.99,$0.00,Returned to Nike,upc_scan
+29279340,Nike Air Max 90 Pure Platinum Gorge Green,Pure Platinum/Gorge Green/University Gold/Black,12,DM0029-004,04/04/2024,$89.99,$0.00,$89.99,$89.99,$0.00,$0.00,$89.99,$0.00,Returned to Nike,upc_scan
+27565302,Jordan 1 Mid Wear-Away Chicago,Black/Infrared 23-White-Sail,10.5,DV9565-006,04/05/2024,$104.00,$10.88,$93.12,$81.48,$0.00,$0.00,$81.48,$11.64,,spreadsheet
+27565358,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,9,DH2482-101,04/05/2024,$137.00,$14.02,$122.98,$107.76,$0.00,$0.00,$107.76,$15.22,,spreadsheet
+30232409,adidas Ultra Boost Light Solar Red,Solar Red/Core Black/Night Metallic,11,HP9841,04/05/2024,$106.00,$11.07,$94.93,$67.86,$0.00,$0.00,$67.86,$27.07,,stockx_kafka_sync
+27565367,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,12,DH2482-101,04/06/2024,$117.00,$11.92,$105.08,$107.76,$0.00,$0.00,$107.76,-$2.68,,spreadsheet
+28712271,Nike Air Force 1 Low '07 Black,Black/Black,10,315122-001/CW2288-001,04/07/2024,$94.00,$9.73,$84.27,$80.50,$0.00,$0.00,$80.50,$3.77,,upc_scan
+28712270,Nike Air Force 1 Low '07 Black,Black/Black,10,315122-001/CW2288-001,04/07/2024,$94.00,$9.73,$84.27,$80.50,$0.00,$0.00,$80.50,$3.77,,upc_scan
+27565318,Jordan 1 Mid Lucky Green,Lucky Green/Black/White,11,DQ8426-301,04/07/2024,$93.00,$9.64,$83.36,$70.33,$0.00,$0.00,$70.33,$13.03,,spreadsheet
+28651971,Nike Air Force 1 Low '07 Black,Black/Black,10.5,315122-001/CW2288-001,04/08/2024,$94.00,$9.73,$84.27,$80.50,$0.00,$0.00,$80.50,$3.77,,upc_scan
+28806254,Nike Dunk Low Team Red (2022/2023),Team Red/Team Red-White,8,DD1391-601,04/09/2024,$80.50,$0.00,$80.50,$80.50,$0.00,$0.00,$80.50,$0.00,Returned to Nike,upc_scan
+28806253,Nike Dunk Low Team Red (2022/2023),Team Red/Team Red-White,9,DD1391-601,04/09/2024,$80.50,$0.00,$80.50,$80.50,$0.00,$0.00,$80.50,$0.00,Returned to Nike,upc_scan
+28651970,Nike Air Force 1 Low '07 Black,Black/Black,10.5,315122-001/CW2288-001,04/11/2024,$94.00,$9.93,$84.07,$80.50,$0.00,$0.00,$80.50,$3.57,,upc_scan
+28671904,Nike Dunk Low Cacao Wow (Women's),Sail/Cacao Wow-Coconut Milk,7.5,DD1503-124,04/11/2024,$108.00,$11.26,$96.74,$80.50,$0.00,$0.00,$80.50,$16.24,,upc_scan
+27565353,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,9,DH2482-101,04/11/2024,$135.00,$13.83,$121.17,$107.76,$0.00,$0.00,$107.76,$13.41,,spreadsheet
+28703422,Nike Dunk Low Cacao Wow (Women's),Sail/Cacao Wow-Coconut Milk,9,DD1503-124,04/12/2024,$111.00,$11.54,$99.46,$80.50,$0.00,$0.00,$80.50,$18.96,,upc_scan
+28671903,Nike Dunk Low Cacao Wow (Women's),Sail/Cacao Wow-Coconut Milk,7.5,DD1503-124,04/13/2024,$107.00,$11.17,$95.83,$80.50,$0.00,$0.00,$80.50,$15.33,,upc_scan
+28703421,Nike Dunk Low Cacao Wow (Women's),Sail/Cacao Wow-Coconut Milk,9,DD1503-124,04/14/2024,$110.00,$11.45,$98.55,$80.50,$0.00,$0.00,$80.50,$18.05,,upc_scan
+29765544,Jordan 1 Low Bred Toe 2.0,White/Varsity Red/White/Black,13,553558-161,04/16/2024,$77.00,$8.32,$68.68,$69.48,$0.00,$0.00,$69.48,-$0.80,,upc_scan
+29765543,Jordan 1 Low Bred Toe 2.0,White/Varsity Red/White/Black,13,553558-161,04/18/2024,$77.00,$8.32,$68.68,$69.48,$0.00,$0.00,$69.48,-$0.80,,upc_scan
+28836816,Nike Dunk Low Rose Whisper (Women's),White/Rose Whisper,7.5,DD1503-118,04/21/2024,$82.14,$0.00,$82.14,$80.50,$0.00,$0.00,$80.50,$1.64,alias,manual
+28806285,Nike Dunk Low Rose Whisper (Women's),White/Rose Whisper,7.5,DD1503-118,04/22/2024,$82.14,$0.00,$82.14,$80.50,$0.00,$0.00,$80.50,$1.64,alias,upc_scan
+28836814,Nike Dunk Low Rose Whisper (Women's),White/Rose Whisper,5.5,DD1503-118,04/22/2024,$99.00,$10.41,$88.59,$80.50,$0.00,$0.00,$80.50,$8.09,,manual
+30872919,Nike Waffle One Black White,Summit White/White-Black-Orange,10,DA7995-001,04/23/2024,$55.00,$7.65,$47.35,$41.98,$0.00,$0.00,$41.98,$5.37,,upc_scan
+28299880,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,8.5,DJ5423-001/DJ5422-001,04/24/2024,$90.00,$9.55,$80.45,$89.97,$0.00,$0.00,$89.97,-$9.52,,upc_scan
+28290748,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,10,DJ5423-001/DJ5422-001,04/25/2024,$104.00,$10.88,$93.12,$89.97,$0.00,$0.00,$89.97,$3.15,,upc_scan
+29764168,Jordan 12 Retro Field Purple,Black/Field Purple/Taxi,11.5,CT8013-057,04/26/2024,$165.00,$16.68,$148.32,$160.88,$0.00,$0.00,$160.88,-$12.56,,upc_scan
+28806245,Nike Air Force 1 Low '07 Black,Black/Black,12,315122-001/CW2288-001,04/26/2024,$80.50,$0.00,$80.50,$80.50,$0.00,$0.00,$80.50,$0.00,Returned to Nike,manual
+28806244,Nike Air Force 1 Low '07 Black,Black/Black,12,315122-001/CW2288-001,04/26/2024,$80.50,$0.00,$80.50,$80.50,$0.00,$0.00,$80.50,$0.00,Returned to Nike,manual
+28655035,Nike Air Force 1 Low '07 Black,Black/Black,12,315122-001/CW2288-001,04/26/2024,$80.50,$0.00,$80.50,$80.50,$0.00,$0.00,$80.50,$0.00,Returned to Nike,manual
+30230840,Jordan 1 Mid Black Royal Blue,Black/Black/White/Royal Blue,12,DQ8426-042,04/26/2024,$80.00,$8.60,$71.40,$70.34,$0.00,$0.00,$70.34,$1.06,,upc_scan
+28712269,Nike Air Force 1 Low '07 Black,Black/Black,10,315122-001/CW2288-001,04/26/2024,$94.00,$9.93,$84.07,$80.50,$0.00,$0.00,$80.50,$3.57,,upc_scan
+27565357,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,9,DH2482-101,04/26/2024,$129.00,$13.26,$115.74,$107.76,$0.00,$0.00,$107.76,$7.98,,spreadsheet
+28703420,Nike Dunk Low Cacao Wow (Women's),Sail/Cacao Wow-Coconut Milk,9,DD1503-124,04/27/2024,$107.00,$11.17,$95.83,$80.50,$0.00,$0.00,$80.50,$15.33,,upc_scan
+29763411,Jordan 6 Retro Yellow Ochre (GS),White/Yellow Ochre-Black,7,384665-170,04/27/2024,$134.00,$13.73,$120.27,$120.66,$0.00,$0.00,$120.66,-$0.39,,upc_scan
+28409116,Nike Air Max 1 Corduroy Baltic Blue,Baltic Blue/Sesame-Gridiron-Sail,8.5,FB8915-400,04/27/2024,$57.00,$7.71,$49.29,$41.97,$0.00,$0.00,$41.97,$7.32,,upc_scan
+27565356,Nike Kwondo 1 G-Dragon Peaceminusone Panda,Black/White,9,DH2482-101,04/28/2024,$132.00,$13.54,$118.46,$107.76,$0.00,$0.00,$107.76,$10.70,,spreadsheet
+28290749,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,10,DJ5423-001/DJ5422-001,04/30/2024,$107.00,$12.17,$94.83,$89.97,$0.00,$0.00,$89.97,$4.86,,upc_scan
+30759983,Nike Air Force 1 Low SP Slam Jam Black,Black/Off Noir,9,DX5590-001,05/01/2024,$79.51,$0.00,$79.51,$69.97,$0.00,$0.00,$69.97,$9.54,alias,upc_scan
+30230836,Jordan 1 Mid Black Royal Blue,Black/Black/White/Royal Blue,12,DQ8426-042,05/01/2024,$71.59,$0.00,$71.59,$70.34,$0.00,$0.00,$70.34,$1.25,alias,upc_scan
+28409133,Nike Air Max 1 PRM Corduroy Coral Stardust,Coral Stardust/Bright Coral/Oxen Brown,9,FB8915-600,05/01/2024,$60.00,$8.80,$51.20,$41.97,$0.00,$0.00,$41.97,$9.23,,upc_scan
+30230839,Jordan 1 Mid Black Royal Blue,Black/Black/White/Royal Blue,12,DQ8426-042,05/03/2024,$80.00,$8.60,$71.40,$70.34,$0.00,$0.00,$70.34,$1.06,,upc_scan
+30759982,Nike Air Force 1 Low SP Slam Jam Black,Black/Off Noir,9,DX5590-001,05/03/2024,$99.91,$4.00,$95.91,$69.97,$0.00,$0.00,$69.97,$25.94,Poizen,upc_scan
+30230838,Jordan 1 Mid Black Royal Blue,Black/Black/White/Royal Blue,12,DQ8426-042,05/05/2024,$80.00,$8.60,$71.40,$70.34,$0.00,$0.00,$70.34,$1.06,,upc_scan
+30759984,Nike Air Force 1 Low SP Slam Jam Black,Black/Off Noir,10,DX5590-001,05/05/2024,$91.10,$4.00,$87.10,$69.97,$0.00,$0.00,$69.97,$17.13,Poizen,upc_scan
+30230841,Jordan 1 Mid Black Royal Blue,Black/Black/White/Royal Blue,12,DQ8426-042,05/05/2024,$80.00,$8.60,$71.40,$70.34,$0.00,$0.00,$70.34,$1.06,,upc_scan
+30230837,Jordan 1 Mid Black Royal Blue,Black/Black/White/Royal Blue,12,DQ8426-042,05/06/2024,$80.00,$8.60,$71.40,$70.34,$0.00,$0.00,$70.34,$1.06,,upc_scan
+30230842,Jordan 1 Mid Black Royal Blue,Black/Black/White/Royal Blue,10,DQ8426-042,05/09/2024,$102.82,$4.00,$98.82,$70.34,$0.00,$0.00,$70.34,$28.48,Poizon,upc_scan
+27565412,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,10,DR8785-100/DR8786-100,05/10/2024,$108.56,$4.00,$104.56,$77.15,$0.00,$0.00,$77.15,$27.41,Poizon,spreadsheet
+28290747,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,10,DJ5423-001/DJ5422-001,05/10/2024,$108.00,$11.26,$96.74,$89.97,$0.00,$0.00,$89.97,$6.77,,upc_scan
+29764174,Jordan 12 Retro Field Purple,Black/Field Purple/Taxi,12,CT8013-057,05/10/2024,$169.00,$17.06,$151.94,$160.88,$0.00,$0.00,$160.88,-$8.94,,upc_scan
+29764173,Jordan 12 Retro Field Purple,Black/Field Purple/Taxi,12,CT8013-057,05/13/2024,$173.00,$17.43,$155.57,$160.88,$0.00,$0.00,$160.88,-$5.31,,upc_scan
+31709396,Nike Dunk Low Retro White Black Panda,White/Black,10,DD1391-100,05/14/2024,$88.00,$9.36,$78.64,$80.50,$0.00,$0.00,$80.50,-$1.86,,stockx_kafka_sync
+30759980,Nike Air Force 1 Low SP Slam Jam Black,Black/Off Noir,10.5,DX5590-001,05/16/2024,$80.20,$4.00,$76.20,$69.97,$0.00,$0.00,$69.97,$6.23,Poizon,upc_scan
+29764172,Jordan 12 Retro Field Purple,Black/Field Purple/Taxi,12,CT8013-057,05/17/2024,$171.00,$18.25,$152.75,$160.88,$0.00,$0.00,$160.88,-$8.13,,upc_scan
+30759985,Nike Air Force 1 Low SP Slam Jam Black,Black/Off Noir,10,DX5590-001,05/18/2024,$80.38,$0.00,$80.38,$69.97,$0.00,$0.00,$69.97,$10.41,alias,upc_scan
+28408593,Nike Air VaporMax Plus Black Orange Crimson,Black/Black-Total Orange-Total Crimson,12,924453-006,05/18/2024,$122.56,$0.00,$122.56,$90.97,$0.00,$0.00,$90.97,$31.59,alias,upc_scan
+31617556,Nike Blazer Mid 77 Jumbo White Atmosphere Pink (Women's),White/Atmosphere-Pink Oxford-Sail,8,DQ1471-101,05/19/2024,$38.47,$0.00,$38.47,$38.47,$0.00,$0.00,$38.47,$0.00,Returned to Nike,stockx_kafka_sync
+29095546,Jordan 1 Mid Royal Blue Laser Orange,White/Deep Royal Blue-Track Red-Laser Orange,11.5,554724-131,05/21/2024,$195.00,$20.53,$174.47,$149.18,$0.00,$0.00,$149.18,$25.29,,upc_scan
+31843297,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,8.5,DR8785-100/DR8786-100,05/28/2024,$86.48,$4.00,$82.48,$77.15,$0.00,$0.00,$77.15,$5.33,Poizon,upc_scan
+29762367,Jordan 6 Retro Yellow Ochre,White/Yellow Ochre-Black,13,CT8529-170,05/28/2024,$160.88,$0.00,$160.88,$160.88,$0.00,$0.00,$160.88,$0.00,Returned to Nike,upc_scan
+29762366,Jordan 6 Retro Yellow Ochre,White/Yellow Ochre-Black,13,CT8529-170,05/28/2024,$160.88,$0.00,$160.88,$160.88,$0.00,$0.00,$160.88,$0.00,Returned to Nike,upc_scan
+29762233,Jordan 6 Retro Yellow Ochre,White/Yellow Ochre-Black,13,CT8529-170,05/28/2024,$160.88,$0.00,$160.88,$160.88,$0.00,$0.00,$160.88,$0.00,Returned to Nike,upc_scan
+29764171,Jordan 12 Retro Field Purple,Black/Field Purple/Taxi,12,CT8013-057,05/28/2024,$170.00,$18.15,$151.85,$160.88,$0.00,$0.00,$160.88,-$9.03,,upc_scan
+30760149,Nike Air Force 1 Low Shadow Triple White (Women's),White/White/White,7.5,CI0919-100,05/28/2024,$74.00,$9.22,$64.78,$59.47,$0.00,$0.00,$59.47,$5.31,,stockx_kafka_sync
+27906774,Nike LeBron 20 Miami Heat,Black/Black/University Red/University Gold/Light Smoke Grey,9.5,DJ5423-001/DJ5422-001,05/29/2024,$110.00,$11.78,$98.22,$99.99,$0.00,$0.00,$99.99,-$1.77,,upc_scan
+28671946,Nike Dunk Low Red Stardust (Women's),Red Stardust/Rugged Orange/White,7.5,FQ8876-618,05/29/2024,$103.00,$11.12,$91.88,$80.50,$0.00,$0.00,$80.50,$11.38,,upc_scan
+29764170,Jordan 12 Retro Field Purple,Black/Field Purple/Taxi,12,CT8013-057,05/29/2024,$170.00,$17.48,$152.52,$160.88,$0.00,$0.00,$160.88,-$8.36,,upc_scan
+30873500,Nike Waffle One Black White,Summit White/White-Black-Orange,8,DA7995-001,05/31/2024,$41.97,$0.00,$41.97,$41.97,$0.00,$0.00,$41.97,$0.00,Returned to Nike,upc_scan
+30759981,Nike Air Force 1 Low SP Slam Jam Black,Black/Off Noir,10.5,DX5590-001,05/31/2024,$69.97,$0.00,$69.97,$69.97,$0.00,$0.00,$69.97,$0.00,Returned to Nike,upc_scan
+30759977,Nike Air Force 1 Low SP Slam Jam Black,Black/Off Noir,8.5,DX5590-001,05/31/2024,$86.91,$4.00,$82.91,$69.97,$0.00,$0.00,$69.97,$12.94,Poizon,upc_scan
+32736164,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,11,924453-004,06/05/2024,$119.05,$0.00,$119.05,$111.99,$0.00,$0.00,$111.99,$7.06,alias,upc_scan
+32703616,adidas Ultra Boost 1.0 DNA Black,Core Black/Core Black/Beam Green,9.5,HQ4201,06/05/2024,$105.00,$11.70,$93.30,$87.01,$0.00,$0.00,$87.01,$6.29,,upc_scan
+32736167,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,11,924453-004,06/05/2024,$137.00,$15.06,$121.94,$111.99,$0.00,$0.00,$111.99,$9.95,,upc_scan
+32736223,Jordan 11 Retro DMP Gratitude (2023),Black/White/Metallic Gold,9,CT8012-170,06/06/2024,$199.00,$21.57,$177.43,$161.00,$0.00,$0.00,$161.00,$16.43,,upc_scan
+32736166,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,11,924453-004,06/06/2024,$135.00,$14.85,$120.15,$111.99,$0.00,$0.00,$111.99,$8.16,,upc_scan
+32736165,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,11,924453-004,06/06/2024,$134.00,$14.74,$119.26,$111.99,$0.00,$0.00,$111.99,$7.27,,upc_scan
+32736169,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,06/07/2024,$146.00,$16.00,$130.00,$111.99,$0.00,$0.00,$111.99,$18.01,,upc_scan
+32736168,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,06/07/2024,$146.00,$16.00,$130.00,$111.99,$0.00,$0.00,$111.99,$18.01,,upc_scan
+32704003,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,06/07/2024,$146.00,$16.00,$130.00,$111.99,$0.00,$0.00,$111.99,$18.01,,upc_scan
+32703998,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,06/07/2024,$146.00,$16.00,$130.00,$111.99,$0.00,$0.00,$111.99,$18.01,,upc_scan
+32704006,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10,924453-004,06/08/2024,$146.00,$16.00,$130.00,$111.99,$0.00,$0.00,$111.99,$18.01,,upc_scan
+32704002,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,06/10/2024,$144.00,$15.79,$128.21,$111.99,$0.00,$0.00,$111.99,$16.22,,upc_scan
+28409128,Nike Air Max 1 PRM Corduroy Coral Stardust,Coral Stardust/Bright Coral/Oxen Brown,8,FB8915-600,06/10/2024,$57.00,$7.38,$49.62,$41.97,$0.00,$0.00,$41.97,$7.65,,upc_scan
+32703999,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,06/10/2024,$131.35,$0.00,$131.35,$111.99,$0.00,$0.00,$111.99,$19.36,alias,upc_scan
+32703617,adidas Ultra Boost 1.0 DNA Black,Core Black/Core Black/Beam Green,12,HQ4201,06/10/2024,$87.01,$0.00,$87.01,$87.01,$0.00,$0.00,$87.01,$0.00,Returned,upc_scan
+32704000,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,06/11/2024,$147.00,$17.44,$129.56,$111.99,$0.00,$0.00,$111.99,$17.57,,upc_scan
+32704005,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10,924453-004,06/11/2024,$144.00,$17.12,$126.88,$111.99,$0.00,$0.00,$111.99,$14.89,,upc_scan
+28712272,Nike Air Force 1 Low '07 Black,Black/Black,11,315122-001/CW2288-001,06/12/2024,$88.00,$10.24,$77.76,$80.50,$0.00,$0.00,$80.50,-$2.74,,upc_scan
+32736160,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,06/12/2024,$129.59,$0.00,$129.59,$111.99,$0.00,$0.00,$111.99,$17.60,alias,upc_scan
+28806307,Nike Air Force 1 Low '07 Black,Black/Black,11,315122-001/CW2288-001,06/12/2024,$77.75,$0.00,$77.75,$80.50,$0.00,$0.00,$80.50,-$2.75,alias,manual
+28409119,Nike Air Max 1 Corduroy Baltic Blue,Baltic Blue/Sesame-Gridiron-Sail,8,FB8915-400,06/13/2024,$73.00,$8.67,$64.33,$41.97,$0.00,$0.00,$41.97,$22.36,,upc_scan
+32703997,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,06/14/2024,$146.00,$16.34,$129.66,$111.99,$0.00,$0.00,$111.99,$17.67,,upc_scan
+32704001,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,06/14/2024,$147.00,$16.44,$130.56,$111.99,$0.00,$0.00,$111.99,$18.57,,upc_scan
+32736163,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10,924453-004,06/15/2024,$144.00,$15.79,$128.21,$111.99,$0.00,$0.00,$111.99,$16.22,,upc_scan
+32736201,Jordan 4 Retro Military Blue (2024),Off-White/Military Blue/Neutral Grey,12,FV5029-141,06/15/2024,$183.20,$0.00,$183.20,$150.50,$0.00,$0.00,$150.50,$32.70,alias,upc_scan
+33312998,Nike LeBron 21 Melo Melo,Melon Tint/Light Bone/Saturn Gold,8.5,FV2345-800/FV2346-800,06/17/2024,$85.00,$9.60,$75.40,$69.98,$0.00,$0.00,$69.98,$5.42,,upc_scan
+33325976,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,10.5,924453-005,06/18/2024,$117.00,$12.96,$104.04,$69.97,$0.00,$0.00,$69.97,$34.07,,upc_scan
+33325984,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,12,924453-005,06/18/2024,$123.00,$14.92,$108.08,$69.97,$0.00,$0.00,$69.97,$38.11,,upc_scan
+33325980,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,9,924453-005,06/18/2024,$110.00,$12.22,$97.78,$69.97,$0.00,$0.00,$69.97,$27.81,,upc_scan
+33328157,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,11,924453-004,06/18/2024,$133.00,$14.64,$118.36,$111.99,$0.00,$0.00,$111.99,$6.37,,upc_scan
+33329250,Nike Dunk Low Cyber Reflective (Women's),Anthracite/Racer Blue-Black,9,FZ3781-060,06/18/2024,$69.97,$0.00,$69.97,$69.97,$0.00,$0.00,$69.97,$0.00,Returned to Nike,upc_scan
+30759978,Nike Air Force 1 Low SP Slam Jam Black,Black/Off Noir,8.5,DX5590-001,06/18/2024,$81.27,$0.00,$81.27,$69.97,$0.00,$0.00,$69.97,$11.30,alias,upc_scan
+33325982,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,9.5,924453-005,06/18/2024,$132.00,$14.53,$117.47,$69.97,$0.00,$0.00,$69.97,$47.50,,upc_scan
+33329251,Nike Dunk Low Cyber Reflective (Women's),Anthracite/Racer Blue-Black,9,FZ3781-060,06/18/2024,$92.00,$10.33,$81.67,$69.97,$0.00,$0.00,$69.97,$11.70,,upc_scan
+32736162,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10,924453-004,06/18/2024,$138.00,$15.16,$122.84,$111.99,$0.00,$0.00,$111.99,$10.85,,upc_scan
+33421028,Nike Blazer Low Platform White Black (Women's),White/Black-Sail-Team Orange,5.5,DJ0292-101,06/18/2024,$70.00,$8.02,$61.98,$48.99,$0.00,$0.00,$48.99,$12.99,,upc_scan
+32736161,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10,924453-004,06/18/2024,$138.00,$15.16,$122.84,$111.99,$0.00,$0.00,$111.99,$10.85,,upc_scan
+32704004,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10,924453-004,06/19/2024,$122.56,$0.00,$122.56,$111.99,$0.00,$0.00,$111.99,$10.57,alias,upc_scan
+33325977,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,13,924453-005,06/19/2024,$135.00,$16.18,$118.82,$69.97,$0.00,$0.00,$69.97,$48.85,,upc_scan
+33325978,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,13,924453-005,06/20/2024,$151.57,$0.00,$151.57,$69.97,$0.00,$0.00,$69.97,$81.60,alias,upc_scan
+32736159,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10,924453-004,06/20/2024,$122.56,$0.00,$122.56,$111.99,$0.00,$0.00,$111.99,$10.57,alias,upc_scan
+33611602,Nike React Phantom Run Flyknit 2 Sail Light Bone,Sail/Black/White/Light Bone,12,DV2139-100,06/20/2024,$50.00,$2.17,$47.83,$41.98,$0.00,$0.00,$41.98,$5.85,,upc_scan
+33612206,Nike React Phantom Run Flyknit 2 Sail Light Bone,Sail/Black/White/Light Bone,11.5,DV2139-100,06/20/2024,$50.00,$2.17,$47.83,$41.98,$0.00,$0.00,$41.98,$5.85,,upc_scan
+33612457,Nike React Phantom Run Flyknit 2 Sail Light Bone,Sail/Black/White/Light Bone,11,DV2139-100,06/20/2024,$50.00,$2.17,$47.83,$41.98,$0.00,$0.00,$41.98,$5.85,,upc_scan
+33612802,Nike React Phantom Run Flyknit 2 Sail Light Bone,Sail/Black/White/Light Bone,10,DV2139-100,06/20/2024,$50.00,$2.17,$47.83,$41.98,$0.00,$0.00,$41.98,$5.85,,upc_scan
+33612835,Nike React Phantom Run Flyknit 2 Sail Light Bone,Sail/Black/White/Light Bone,9.5,DV2139-100,06/20/2024,$50.00,$2.17,$47.83,$41.98,$0.00,$0.00,$41.98,$5.85,,upc_scan
+33613010,Nike React Phantom Run Flyknit 2 Sail Light Bone,Sail/Black/White/Light Bone,13,DV2139-100,06/20/2024,$50.00,$3.50,$46.50,$41.98,$0.00,$0.00,$41.98,$4.52,,upc_scan
+33616342,Nike Giannis Immortality 2 Etched in Stone,Cool Grey/Wolf Grey/White/Glacier Blue,10,DM0825-004/DM0826-004,06/20/2024,$50.00,$2.17,$47.83,$38.47,$0.00,$0.00,$38.47,$9.36,,manual
+33616456,Nike Zoom Vomero 5 Black Picante Red,Black/Picante Red-Iron Grey-Summit White,12,FB9149-001,06/20/2024,$82.00,$4.46,$77.54,$69.84,$0.00,$0.00,$69.84,$7.70,,upc_scan
+33616455,Nike Zoom Vomero 5 Black Picante Red,Black/Picante Red-Iron Grey-Summit White,11.5,FB9149-001,06/20/2024,$80.00,$3.07,$76.93,$69.84,$0.00,$0.00,$69.84,$7.09,,upc_scan
+28651969,Nike Air Force 1 Low '07 Black,Black/Black,10.5,315122-001/CW2288-001,06/20/2024,$86.00,$3.25,$82.75,$80.50,$0.00,$0.00,$80.50,$2.25,,upc_scan
+33622570,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,10.5,FB9149-101,06/20/2024,$121.00,$4.30,$116.70,$90.97,$0.00,$0.00,$90.97,$25.73,,upc_scan
+33325979,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,10,924453-005,06/20/2024,$128.00,$4.51,$123.49,$69.97,$0.00,$0.00,$69.97,$53.52,,upc_scan
+33622568,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,11,FB9149-101,06/20/2024,$117.00,$4.18,$112.82,$90.97,$0.00,$0.00,$90.97,$21.85,,upc_scan
+33622818,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,12,BV1358-003,06/21/2024,$108.00,$3.91,$104.09,$90.97,$0.00,$0.00,$90.97,$13.12,,upc_scan
+33622569,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,10.5,FB9149-101,06/21/2024,$115.00,$4.12,$110.88,$90.97,$0.00,$0.00,$90.97,$19.91,,upc_scan
+30230843,Jordan 1 Mid Black Royal Blue,Black/Black/White/Royal Blue,10,DQ8426-042,06/21/2024,$70.00,$2.77,$67.23,$70.34,$0.00,$0.00,$70.34,-$3.11,,upc_scan
+33327662,Nike Air Max 1 '86 OG Big Bubble Korea World Make,Sail/White-Black,9.5,FN7652-030,06/21/2024,$57.00,$2.38,$54.62,$41.97,$0.00,$0.00,$41.97,$12.65,,upc_scan
+33327663,Nike Air Max 1 '86 OG Big Bubble Korea World Make,Sail/White-Black,8,FN7652-030,06/21/2024,$61.00,$2.50,$58.50,$41.97,$0.00,$0.00,$41.97,$16.53,,upc_scan
+33325985,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,11,924453-005,06/21/2024,$123.00,$13.58,$109.42,$69.97,$0.00,$0.00,$69.97,$39.45,,upc_scan
+33622567,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,11,FB9149-101,06/21/2024,$133.00,$14.64,$118.36,$90.97,$0.00,$0.00,$90.97,$27.39,,upc_scan
+33622814,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10.5,BV1358-003,06/21/2024,$123.00,$13.58,$109.42,$90.97,$0.00,$0.00,$90.97,$18.45,,upc_scan
+28806311,Nike Air Force 1 Low '07 Black,Black/Black,12,315122-001/CW2288-001,06/21/2024,$88.00,$10.05,$77.95,$80.50,$0.00,$0.00,$80.50,-$2.55,,manual
+28806306,Nike Air Force 1 Low '07 Black,Black/Black,11,315122-001/CW2288-001,06/21/2024,$86.00,$9.83,$76.17,$80.50,$0.00,$0.00,$80.50,-$4.33,,manual
+33658293,Jordan 4 Retro Military Blue (2024),Off-White/Military Blue/Neutral Grey,11,FV5029-141,06/21/2024,$214.00,$23.27,$190.73,$150.50,$0.00,$0.00,$150.50,$40.23,,manual
+28806305,Nike Air Force 1 Low '07 Black,Black/Black,11,315122-001/CW2288-001,06/21/2024,$86.00,$9.83,$76.17,$80.50,$0.00,$0.00,$80.50,-$4.33,,manual
+33622815,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10,BV1358-003,06/21/2024,$115.00,$12.75,$102.25,$90.97,$0.00,$0.00,$90.97,$11.28,,upc_scan
+28805858,Nike Air Force 1 Low '07 Black,Black/Black,11,315122-001/CW2288-001,06/21/2024,$86.00,$9.83,$76.17,$80.50,$0.00,$0.00,$80.50,-$4.33,,upc_scan
+33622813,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10.5,BV1358-003,06/22/2024,$123.00,$13.59,$109.41,$90.97,$0.00,$0.00,$90.97,$18.44,,upc_scan
+33327664,Nike Air Max 1 '86 OG Big Bubble Korea World Make,Sail/White-Black,11,FN7652-030,06/22/2024,$89.00,$10.02,$78.98,$41.97,$0.00,$0.00,$41.97,$37.01,,upc_scan
+33661411,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10.5,BV1358-003,06/22/2024,$123.00,$13.59,$109.41,$90.97,$0.00,$0.00,$90.97,$18.44,,upc_scan
+28805857,Nike Air Force 1 Low '07 Black,Black/Black,11,315122-001/CW2288-001,06/22/2024,$86.00,$9.70,$76.30,$80.50,$0.00,$0.00,$80.50,-$4.20,,upc_scan
+33661404,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10,BV1358-003,06/22/2024,$114.00,$12.64,$101.36,$90.97,$0.00,$0.00,$90.97,$10.39,,upc_scan
+33412185,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,11,924453-005,06/23/2024,$118.00,$13.06,$104.94,$69.97,$0.00,$0.00,$69.97,$34.97,,upc_scan
+33412184,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,11,924453-005,06/23/2024,$118.00,$13.06,$104.94,$69.97,$0.00,$0.00,$69.97,$34.97,,upc_scan
+33622812,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,11.5,BV1358-003,06/23/2024,$119.00,$13.16,$105.84,$90.97,$0.00,$0.00,$90.97,$14.87,,upc_scan
+33622810,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,11.5,BV1358-003,06/23/2024,$118.00,$13.06,$104.94,$90.97,$0.00,$0.00,$90.97,$13.97,,upc_scan
+33622817,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,12,BV1358-003,06/23/2024,$127.00,$14.01,$112.99,$90.97,$0.00,$0.00,$90.97,$22.02,,upc_scan
+33661410,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10.5,BV1358-003,06/23/2024,$116.00,$12.85,$103.15,$90.97,$0.00,$0.00,$90.97,$12.18,,upc_scan
+28805856,Nike Air Force 1 Low '07 Black,Black/Black,11,315122-001/CW2288-001,06/23/2024,$88.00,$9.91,$78.09,$80.50,$0.00,$0.00,$80.50,-$2.41,,upc_scan
+33412183,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,10.5,924453-005,06/24/2024,$129.00,$14.21,$114.79,$69.97,$0.00,$0.00,$69.97,$44.82,,upc_scan
+33661405,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,11,BV1358-003,06/24/2024,$116.00,$12.85,$103.15,$90.97,$0.00,$0.00,$90.97,$12.18,,upc_scan
+33661409,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10.5,BV1358-003,06/25/2024,$116.00,$12.85,$103.15,$90.97,$0.00,$0.00,$90.97,$12.18,,upc_scan
+33622816,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,12,BV1358-003,06/25/2024,$105.87,$0.00,$105.87,$90.97,$0.00,$0.00,$90.97,$14.90,alias,upc_scan
+33412178,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,12,924453-005,06/25/2024,$116.42,$0.00,$116.42,$69.97,$0.00,$0.00,$69.97,$46.45,alias,upc_scan
+33329243,Nike Dunk Low Cyber Reflective (Women's),Anthracite/Racer Blue-Black,8,FZ3781-060,06/25/2024,$77.75,$0.00,$77.75,$69.97,$0.00,$0.00,$69.97,$7.78,alias,upc_scan
+33328593,Nike Air Max 95 Premium Atlanta,Cool Grey/Anthracite/Total Orange/Iron Grey/University Red/Picante Red,11,FZ4125-060,06/25/2024,$119.93,$0.00,$119.93,$66.47,$0.00,$0.00,$66.47,$53.46,alias,upc_scan
+33661433,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,11,BV1358-003,06/25/2024,$115.00,$12.75,$102.25,$90.97,$0.00,$0.00,$90.97,$11.28,,upc_scan
+33872981,adidas Busenitz Pro Black White Gum,Core Black/Cloud White/Gold Metallic,9.5,G48060,06/25/2024,$34.00,$6.69,$27.31,$16.01,$0.00,$0.00,$16.01,$11.30,,upc_scan
+33622811,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,11.5,BV1358-003,06/25/2024,$118.00,$13.06,$104.94,$90.97,$0.00,$0.00,$90.97,$13.97,,upc_scan
+33622571,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,9.5,FB9149-101,06/25/2024,$122.00,$13.48,$108.52,$90.97,$0.00,$0.00,$90.97,$17.55,,upc_scan
+33661444,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,9,FB9149-101,06/25/2024,$118.00,$13.06,$104.94,$90.97,$0.00,$0.00,$90.97,$13.97,,upc_scan
+33622564,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,12,FB9149-101,06/25/2024,$155.00,$17.62,$137.38,$90.97,$0.00,$0.00,$90.97,$46.41,,upc_scan
+33412181,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,9,924453-005,06/26/2024,$128.00,$14.11,$113.89,$69.97,$0.00,$0.00,$69.97,$43.92,,upc_scan
+33661446,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,8.5,FB9149-101,06/26/2024,$128.00,$14.11,$113.89,$90.97,$0.00,$0.00,$90.97,$22.92,,upc_scan
+33661407,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,11,BV1358-003,06/26/2024,$115.00,$12.75,$102.25,$90.97,$0.00,$0.00,$90.97,$11.28,,upc_scan
+33412186,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,10,924453-005,06/26/2024,$112.90,$0.00,$112.90,$69.97,$0.00,$0.00,$69.97,$42.93,alias,upc_scan
+27565407,Nike Ja 1 Light Smoke Grey,White/Light Smoke Grey-Black-Phantom-Light Bone-Photon Dust,8.5,DR8785-100/DR8786-100,06/26/2024,$77.88,$4.00,$73.88,$77.15,$0.00,$0.00,$77.15,-$3.27,Poizon,spreadsheet
+33661406,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,11,BV1358-003,06/26/2024,$115.00,$12.75,$102.25,$90.97,$0.00,$0.00,$90.97,$11.28,,upc_scan
+33661408,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10.5,BV1358-003,06/26/2024,$116.00,$13.51,$102.49,$90.97,$0.00,$0.00,$90.97,$11.52,,upc_scan
+33622809,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,11.5,BV1358-003,06/26/2024,$117.00,$13.62,$103.38,$90.97,$0.00,$0.00,$90.97,$12.41,,upc_scan
+33878536,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10.5,BV1358-003,06/27/2024,$116.00,$12.85,$103.15,$90.97,$0.00,$0.00,$90.97,$12.18,,upc_scan
+33661412,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,9.5,BV1358-003,06/27/2024,$120.00,$13.27,$106.73,$90.97,$0.00,$0.00,$90.97,$15.76,,upc_scan
+33325981,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,11.5,924453-005,06/27/2024,$129.00,$14.21,$114.79,$69.97,$0.00,$0.00,$69.97,$44.82,,upc_scan
+34255997,Jordan 2 Retro Origins (GS),White/Fire Red-Fir-Sail-Cement Grey,7,DQ8562-101,06/28/2024,$55.00,$7.32,$47.68,$37.79,$0.00,$0.00,$37.79,$9.89,,upc_scan
+34256152,Nike Blazer Mid 77 Jumbo White Atmosphere Pink (Women's),White/Atmosphere-Pink Oxford-Sail,8,DQ1471-101,06/28/2024,$48.00,$7.11,$40.89,$26.99,$0.00,$0.00,$26.99,$13.90,,upc_scan
+34256203,Nike Free Run 5.0 Black White (2021),Black/Dark Smoke Grey-White,11.5,CZ1884-001,06/28/2024,$65.00,$7.62,$57.38,$43.19,$0.00,$0.00,$43.19,$14.19,,upc_scan
+34256220,Nike Free Run 5.0 Black White (2021),Black/Dark Smoke Grey-White,7.5,CZ1884-001,06/28/2024,$75.00,$8.55,$66.45,$43.19,$0.00,$0.00,$43.19,$23.26,,upc_scan
+34256290,Nike Free Run 5.0 Black White (2021),Black/Dark Smoke Grey-White,11.5,CZ1884-001,06/28/2024,$61.00,$7.50,$53.50,$43.19,$0.00,$0.00,$43.19,$10.31,,upc_scan
+34401819,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,10,924453-005,06/30/2024,$142.78,$0.00,$142.78,$69.97,$0.00,$0.00,$69.97,$72.81,alias,upc_scan
+33412179,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,12,924453-005,06/30/2024,$133.99,$0.00,$133.99,$69.97,$0.00,$0.00,$69.97,$64.02,alias,upc_scan
+33622566,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,11,FB9149-101,06/30/2024,$140.00,$15.37,$124.63,$90.97,$0.00,$0.00,$90.97,$33.66,,upc_scan
+33661442,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,9.5,FB9149-101,06/30/2024,$129.00,$14.21,$114.79,$90.97,$0.00,$0.00,$90.97,$23.82,,upc_scan
+34417032,Jordan 12 Retro Low Golf Cherry,White/Varsity Red,14,DH4120-161,07/01/2024,$129.00,$14.90,$114.10,$80.98,$0.00,$0.00,$80.98,$33.12,,upc_scan
+33878535,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10,BV1358-003,07/01/2024,$109.00,$3.94,$105.06,$90.97,$0.00,$0.00,$90.97,$14.09,,upc_scan
+33878534,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10,BV1358-003,07/01/2024,$111.00,$4.00,$107.00,$90.97,$0.00,$0.00,$90.97,$16.03,,upc_scan
+33622565,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,11,FB9149-101,07/01/2024,$137.00,$4.78,$132.22,$90.97,$0.00,$0.00,$90.97,$41.25,,upc_scan
+33622563,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,10,FB9149-101,07/01/2024,$123.00,$4.36,$118.64,$90.97,$0.00,$0.00,$90.97,$27.67,,upc_scan
+34568436,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,12,924453-004,07/02/2024,$109.39,$0.00,$109.39,$59.38,$0.00,$0.00,$59.38,$50.01,alias,upc_scan
+33878530,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10,BV1358-003,07/02/2024,$99.72,$0.00,$99.72,$90.97,$0.00,$0.00,$90.97,$8.75,alias,upc_scan
+33412180,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,12,924453-005,07/02/2024,$133.99,$0.00,$133.99,$69.97,$0.00,$0.00,$69.97,$64.02,alias,upc_scan
+33878533,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10,BV1358-003,07/02/2024,$111.00,$4.00,$107.00,$90.97,$0.00,$0.00,$90.97,$16.03,,upc_scan
+28805855,Nike Air Force 1 Low '07 Black,Black/Black,11,315122-001/CW2288-001,07/02/2024,$84.00,$3.19,$80.81,$80.50,$0.00,$0.00,$80.50,$0.31,,upc_scan
+28805854,Nike Air Force 1 Low '07 Black,Black/Black,11,315122-001/CW2288-001,07/02/2024,$83.00,$3.16,$79.84,$80.50,$0.00,$0.00,$80.50,-$0.66,,upc_scan
+34564368,Nike Air Force 1 Low '07 SE Next Nature Oil Green (Women's),Sail/Oil Green/Volt/Sail,10,DV3808-106,07/02/2024,$74.00,$8.07,$65.93,$56.99,$0.00,$0.00,$56.99,$8.94,,manual
+34253858,Nike Air VaporMax Plus Rainbow,White/White-Neptune Blue-Dynamic Yellow,13,924453-103,07/03/2024,$124.00,$13.73,$110.27,$95.99,$0.00,$0.00,$95.99,$14.28,,upc_scan
+33329245,Nike Dunk Low Cyber Reflective (Women's),Anthracite/Racer Blue-Black,9.5,FZ3781-060,07/03/2024,$83.00,$8.97,$74.03,$69.97,$0.00,$0.00,$69.97,$4.06,,upc_scan
+34571046,Nike Free Run 5.0 Black White (2021),Black/Dark Smoke Grey-White,11.5,CZ1884-001,07/03/2024,$73.00,$7.97,$65.03,$47.99,$0.00,$0.00,$47.99,$17.04,,upc_scan
+33878532,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10,BV1358-003,07/03/2024,$117.00,$12.37,$104.63,$90.97,$0.00,$0.00,$90.97,$13.66,,upc_scan
+34568435,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,12,924453-004,07/04/2024,$108.50,$0.00,$108.50,$59.38,$0.00,$0.00,$59.38,$49.12,alias,upc_scan
+34571048,Nike Free Run 5.0 Black White (2021),Black/Dark Smoke Grey-White,10.5,CZ1884-001,07/04/2024,$81.00,$8.77,$72.23,$47.99,$0.00,$0.00,$47.99,$24.24,,upc_scan
+33661447,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,14,FB9149-101,07/05/2024,$189.00,$20.23,$168.77,$90.97,$0.00,$0.00,$90.97,$77.80,,upc_scan
+33878531,Nike Zoom Vomero 5 Triple Black (2023),Black/Black-White,10,BV1358-003,07/05/2024,$124.00,$13.07,$110.93,$90.97,$0.00,$0.00,$90.97,$19.96,,upc_scan
+34568232,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,13,DZ5485-105,07/05/2024,$92.00,$10.53,$81.47,$71.98,$0.00,$0.00,$71.98,$9.49,,upc_scan
+34253616,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,11.5,DR8884-101,07/05/2024,$82.14,$0.00,$82.14,$65.98,$0.00,$0.00,$65.98,$16.16,alias,upc_scan
+34253615,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,11.5,DR8884-101,07/05/2024,$82.14,$0.00,$82.14,$65.98,$0.00,$0.00,$65.98,$16.16,alias,upc_scan
+33661443,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,9,FB9149-101,07/05/2024,$99.72,$0.00,$99.72,$90.97,$0.00,$0.00,$90.97,$8.75,alias,upc_scan
+30759979,Nike Air Force 1 Low SP Slam Jam Black,Black/Off Noir,8.5,DX5590-001,07/05/2024,$75.27,$4.00,$71.27,$69.97,$0.00,$0.00,$69.97,$1.30,Poizon,upc_scan
+34777883,Nike Air Max Plus Black Malachite,Black/Malachite/Gum Light Brown/White,8,DM0032-009,07/06/2024,$114.00,$12.07,$101.93,$87.26,$0.00,$0.00,$87.26,$14.67,,upc_scan
+34568438,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,11,924453-004,07/06/2024,$109.84,$0.00,$109.84,$59.38,$0.00,$0.00,$59.38,$50.46,alias,upc_scan
+33327661,Nike Air Max 1 '86 OG Big Bubble Korea World Make,Sail/White-Black,9.5,FN7652-030,07/06/2024,$74.00,$8.07,$65.93,$41.97,$0.00,$0.00,$41.97,$23.96,,upc_scan
+34868961,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,07/07/2024,$126.55,$0.00,$126.55,$93.09,$0.00,$0.00,$93.09,$33.46,alias,upc_scan
+34868960,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,07/07/2024,$126.55,$0.00,$126.55,$93.09,$0.00,$0.00,$93.09,$33.46,alias,upc_scan
+34576861,Nike Dunk Low Retro SE Photon Dust Vintage Green,Photon Dust/White/Vintage Green,11,HF2874-001,07/07/2024,$71.09,$0.00,$71.09,$71.09,$0.00,$0.00,$71.09,$0.00,Returned to Nike,upc_scan
+33622562,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,10,FB9149-101,07/07/2024,$119.00,$12.57,$106.43,$90.97,$0.00,$0.00,$90.97,$15.46,,upc_scan
+34868968,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,9.5,924453-004,07/07/2024,$147.00,$15.37,$131.63,$93.09,$0.00,$0.00,$93.09,$38.54,,upc_scan
+34868963,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,07/07/2024,$142.00,$14.87,$127.13,$93.09,$0.00,$0.00,$93.09,$34.04,,upc_scan
+34868967,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,9.5,924453-004,07/08/2024,$147.00,$15.37,$131.63,$93.09,$0.00,$0.00,$93.09,$38.54,,upc_scan
+34868962,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10.5,924453-004,07/08/2024,$144.00,$15.07,$128.93,$93.09,$0.00,$0.00,$93.09,$35.84,,upc_scan
+34868974,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10,924453-004,07/08/2024,$141.00,$14.77,$126.23,$93.09,$0.00,$0.00,$93.09,$33.14,,upc_scan
+34868971,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10,924453-004,07/08/2024,$141.00,$14.77,$126.23,$93.09,$0.00,$0.00,$93.09,$33.14,,upc_scan
+34417042,Nike Dunk Low Retro SE Photon Dust Vintage Green,Photon Dust/White/Vintage Green,12,HF2874-001,07/08/2024,$74.69,$0.00,$74.69,$59.39,$0.00,$0.00,$59.39,$15.30,alias,upc_scan
+34253799,Nike Air VaporMax 2023 Flyknit Light Ultramarine,Light Ultramarine/Polar/Polar/Pure Platinum,11.5,DV1678-500,07/08/2024,$125.66,$0.00,$125.66,$95.99,$0.00,$0.00,$95.99,$29.67,alias,upc_scan
+34196184,Jordan 12 Retro Low Golf French Blue,White/French Blue-Metallic Silver,11,DH4120-101,07/08/2024,$104.23,$0.00,$104.23,$104.23,$0.00,$0.00,$104.23,$0.00,Returned to Nike,upc_scan
+34196183,Jordan 12 Retro Low Golf French Blue,White/French Blue-Metallic Silver,11.5,DH4120-101,07/08/2024,$104.23,$0.00,$104.23,$104.23,$0.00,$0.00,$104.23,$0.00,Returned to Nike,upc_scan
+34196182,Jordan 12 Retro Low Golf French Blue,White/French Blue-Metallic Silver,11.5,DH4120-101,07/08/2024,$104.23,$0.00,$104.23,$104.23,$0.00,$0.00,$104.23,$0.00,Returned to Nike,upc_scan
+34196181,Jordan 12 Retro Low Golf French Blue,White/French Blue-Metallic Silver,11.5,DH4120-101,07/08/2024,$104.23,$0.00,$104.23,$104.23,$0.00,$0.00,$104.23,$0.00,Returned to Nike,upc_scan
+34196180,Jordan 12 Retro Low Golf French Blue,White/French Blue-Metallic Silver,11.5,DH4120-101,07/08/2024,$104.23,$0.00,$104.23,$104.23,$0.00,$0.00,$104.23,$0.00,Returned to Nike,upc_scan
+33422005,Nike Air Max 97 Gundam,White/Black/University Red/Psychic Blue,12,CW6986-100,07/08/2024,$97.99,$0.00,$97.99,$97.99,$0.00,$0.00,$97.99,$0.00,Returned to Nike,upc_scan
+33422004,Nike Air Max 97 Gundam,White/Black/University Red/Psychic Blue,12,CW6986-100,07/08/2024,$97.99,$0.00,$97.99,$97.99,$0.00,$0.00,$97.99,$0.00,Returned to Nike,upc_scan
+34868964,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,9.5,924453-004,07/08/2024,$147.00,$15.37,$131.63,$93.09,$0.00,$0.00,$93.09,$38.54,,upc_scan
+34253800,Nike Air VaporMax 2023 Flyknit Light Ultramarine,Light Ultramarine/Polar/Polar/Pure Platinum,11.5,DV1678-500,07/08/2024,$122.00,$12.87,$109.13,$95.99,$0.00,$0.00,$95.99,$13.14,,upc_scan
+34964765,New Balance 990v3 MiUSA Teddy Santis Green Purple,Green/Purple,7,M990GP3,07/08/2024,$150.00,$15.67,$134.33,$114.18,$0.00,$0.00,$114.18,$20.15,,upc_scan
+34964776,New Balance 990v2 MiUSA Season 2 Brown,Brown/Beige/Cream,13,M990BB2,07/08/2024,$121.00,$12.90,$108.10,$114.18,$0.00,$0.00,$114.18,-$6.08,,upc_scan
+33661441,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,9.5,FB9149-101,07/09/2024,$129.00,$13.70,$115.30,$90.97,$0.00,$0.00,$90.97,$24.33,,upc_scan
+34967423,Nike P-6000 Black Cool Grey,Black/White/Cool Grey,14,CD6404-003,07/09/2024,$85.00,$9.30,$75.70,$43.19,$0.00,$0.00,$43.19,$32.51,,upc_scan
+34868969,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,9,924453-004,07/09/2024,$144.00,$15.20,$128.80,$93.09,$0.00,$0.00,$93.09,$35.71,,upc_scan
+35030433,Nike P-6000 Black Cool Grey,Black/White/Cool Grey,8.5,CD6404-003,07/09/2024,$67.20,$0.00,$67.20,$44.20,$0.00,$0.00,$44.20,$23.00,alias,manual
+34568439,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,11,924453-004,07/09/2024,$108.97,$0.00,$108.97,$59.38,$0.00,$0.00,$59.38,$49.59,alias,upc_scan
+33661445,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,8.5,FB9149-101,07/10/2024,$118.00,$13.13,$104.87,$90.97,$0.00,$0.00,$90.97,$13.90,,upc_scan
+34969150,Nike ZoomX Vaporfly 3 White Particle Grey,White/Particle Grey/Metallic Silver/Dark Smoke Grey,9,DV4129-100,07/10/2024,$158.00,$17.13,$140.87,$107.98,$0.00,$0.00,$107.98,$32.89,,upc_scan
+35029674,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,11,924453-004,07/10/2024,$132.00,$14.20,$117.80,$95.99,$0.00,$0.00,$95.99,$21.81,,upc_scan
+34868973,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10,924453-004,07/10/2024,$141.00,$15.10,$125.90,$93.09,$0.00,$0.00,$93.09,$32.81,,upc_scan
+34253623,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,15,DR8884-101,07/10/2024,$159.00,$17.23,$141.77,$65.98,$0.00,$0.00,$65.98,$75.79,,upc_scan
+35030430,Nike P-6000 Black Cool Grey,Black/White/Cool Grey,9.5,CD6404-003,07/10/2024,$89.00,$9.91,$79.09,$44.20,$0.00,$0.00,$44.20,$34.89,,manual
+34571045,Nike Free Run 5.0 Black White (2021),Black/Dark Smoke Grey-White,11,CZ1884-001,07/11/2024,$75.00,$8.50,$66.50,$47.99,$0.00,$0.00,$47.99,$18.51,,upc_scan
+34568437,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,11,924453-004,07/11/2024,$109.84,$0.00,$109.84,$59.38,$0.00,$0.00,$59.38,$50.46,alias,upc_scan
+34829191,Nike Air Max Plus Black Malachite,Black/Malachite/Gum Light Brown/White,9.5,DM0032-009,07/12/2024,$114.00,$12.40,$101.60,$87.26,$0.00,$0.00,$87.26,$14.34,,upc_scan
+34568227,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,12,DZ5485-105,07/12/2024,$92.00,$10.20,$81.80,$71.98,$0.00,$0.00,$71.98,$9.82,,upc_scan
+33327660,Nike Air Max 1 '86 OG Big Bubble Korea World Make,Sail/White-Black,10,FN7652-030,07/12/2024,$79.00,$8.91,$70.09,$41.97,$0.00,$0.00,$41.97,$28.12,,upc_scan
+34417043,Nike Dunk Low Retro SE Photon Dust Vintage Green,Photon Dust/White/Vintage Green,12,HF2874-001,07/12/2024,$77.00,$8.70,$68.30,$59.39,$0.00,$0.00,$59.39,$8.91,,upc_scan
+34782439,Nike Zoom Cortez SP sacai White University Red Blue,White/Light Cream-University Red,10.5,DQ0581-100,07/13/2024,$135.33,$0.00,$135.33,$63.99,$0.00,$0.00,$63.99,$71.34,alias,upc_scan
+34568440,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,11,924453-004,07/13/2024,$109.84,$0.00,$109.84,$59.38,$0.00,$0.00,$59.38,$50.46,alias,upc_scan
+34253620,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,12,DR8884-101,07/13/2024,$93.15,$0.00,$93.15,$65.98,$0.00,$0.00,$65.98,$27.17,alias,upc_scan
+33412188,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,11.5,924453-005,07/13/2024,$129.18,$0.00,$129.18,$69.97,$0.00,$0.00,$69.97,$59.21,alias,upc_scan
+34956946,Nike Dunk Low New Americana Washed Denim,White/Midnight Navy-Gym Red-Sail,9,FN6881-100,07/13/2024,$80.00,$9.00,$71.00,$53.99,$0.00,$0.00,$53.99,$17.01,,upc_scan
+34571047,Nike Free Run 5.0 Black White (2021),Black/Dark Smoke Grey-White,10,CZ1884-001,07/13/2024,$78.00,$8.80,$69.20,$47.99,$0.00,$0.00,$47.99,$21.21,,upc_scan
+34969149,Nike ZoomX Vaporfly 3 White Particle Grey,White/Particle Grey/Metallic Silver/Dark Smoke Grey,8.5,DV4129-100,07/15/2024,$158.00,$16.81,$141.19,$107.98,$0.00,$0.00,$107.98,$33.21,,upc_scan
+35029398,Nike Air Max 2017 Black Anthracite,Black/White-Anthracite,11.5,849559-001,07/15/2024,$109.00,$11.90,$97.10,$77.98,$0.00,$0.00,$77.98,$19.12,,upc_scan
+27565291,Jordan 1 Retro High OG Atmosphere (Women's),Atmosphere/White-Laser Pink-Obsidian,11.5W,DD9335-641,07/16/2024,$103.23,$0.00,$103.23,$275.00,$0.00,$0.00,$275.00,-$171.77,alias,spreadsheet
+35029192,Nike Free Run 5.0 Black White (2021),Black/Dark Smoke Grey-White,11.5,CZ1884-001,07/16/2024,$61.94,$0.00,$61.94,$47.99,$0.00,$0.00,$47.99,$13.95,alias,upc_scan
+33329249,Nike Dunk Low Cyber Reflective (Women's),Anthracite/Racer Blue-Black,9,FZ3781-060,07/16/2024,$69.97,$0.00,$69.97,$69.97,$0.00,$0.00,$69.97,$0.00,Returned to Nike,upc_scan
+33329248,Nike Dunk Low Cyber Reflective (Women's),Anthracite/Racer Blue-Black,9,FZ3781-060,07/16/2024,$69.97,$0.00,$69.97,$69.97,$0.00,$0.00,$69.97,$0.00,Returned to Nike,upc_scan
+33329247,Nike Dunk Low Cyber Reflective (Women's),Anthracite/Racer Blue-Black,9,FZ3781-060,07/16/2024,$69.97,$0.00,$69.97,$69.97,$0.00,$0.00,$69.97,$0.00,Returned to Nike,upc_scan
+33329246,Nike Dunk Low Cyber Reflective (Women's),Anthracite/Racer Blue-Black,9,FZ3781-060,07/16/2024,$69.97,$0.00,$69.97,$69.97,$0.00,$0.00,$69.97,$0.00,Returned to Nike,upc_scan
+33329244,Nike Dunk Low Cyber Reflective (Women's),Anthracite/Racer Blue-Black,8,FZ3781-060,07/16/2024,$69.97,$0.00,$69.97,$69.97,$0.00,$0.00,$69.97,$0.00,Returned to Nike,upc_scan
+33329242,Nike Dunk Low Cyber Reflective (Women's),Anthracite/Racer Blue-Black,10,FZ3781-060,07/16/2024,$69.97,$0.00,$69.97,$69.97,$0.00,$0.00,$69.97,$0.00,Returned to Nike,upc_scan
+35029672,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10,924453-004,07/16/2024,$138.00,$14.60,$123.40,$95.99,$0.00,$0.00,$95.99,$27.41,,upc_scan
+33661440,Nike Zoom Vomero 5 White Black,White/Platinum Tint/Metallic Platinum/Black,9.5,FB9149-101,07/16/2024,$124.00,$13.20,$110.80,$90.97,$0.00,$0.00,$90.97,$19.83,,upc_scan
+34868972,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10,924453-004,07/16/2024,$138.00,$14.60,$123.40,$93.09,$0.00,$0.00,$93.09,$30.31,,upc_scan
+34868966,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,9.5,924453-004,07/17/2024,$147.00,$15.50,$131.50,$93.09,$0.00,$0.00,$93.09,$38.41,,upc_scan
+35502822,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,12,DJ5422-801/DJ5423-801,07/17/2024,$113.00,$12.10,$100.90,$62.97,$0.00,$0.00,$62.97,$37.93,,upc_scan
+34568234,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,11.5,DZ5485-105,07/18/2024,$87.00,$9.37,$77.63,$71.98,$0.00,$0.00,$71.98,$5.65,,upc_scan
+35030435,Nike P-6000 Black Cool Grey,Black/White/Cool Grey,8,CD6404-003,07/18/2024,$67.20,$0.00,$67.20,$44.20,$0.00,$0.00,$44.20,$23.00,alias,manual
+34868970,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,10,924453-004,07/18/2024,$138.00,$14.47,$123.53,$93.09,$0.00,$0.00,$93.09,$30.44,,upc_scan
+34568228,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,12,DZ5485-105,07/18/2024,$91.00,$9.77,$81.23,$71.98,$0.00,$0.00,$71.98,$9.25,,upc_scan
+35029673,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,11,924453-004,07/18/2024,$137.00,$14.37,$122.63,$95.99,$0.00,$0.00,$95.99,$26.64,,upc_scan
+35617398,Jordan 1 Retro High OG Artisanal Team Red,White/Team Red,7,DZ5485-160,07/18/2024,$103.00,$10.97,$92.03,$41.98,$0.00,$0.00,$41.98,$50.05,,upc_scan
+34778630,Nike Air Max Plus Black Malachite,Black/Malachite/Gum Light Brown/White,9,DM0032-009,07/18/2024,$110.00,$11.67,$98.33,$87.26,$0.00,$0.00,$87.26,$11.07,,upc_scan
+35617401,Jordan 1 Retro High OG Artisanal Team Red,White/Team Red,5.5,DZ5485-160,07/19/2024,$95.00,$10.17,$84.83,$41.98,$0.00,$0.00,$41.98,$42.85,,upc_scan
+28655038,Nike Air Force 1 Low '07 Black,Black/Black,11,315122-001/CW2288-001,07/19/2024,$87.00,$9.37,$77.63,$80.50,$0.00,$0.00,$80.50,-$2.87,,manual
+35617200,Jordan 1 Retro High OG Artisanal Team Red,White/Team Red,8,DZ5485-160,07/19/2024,$108.00,$11.47,$96.53,$59.98,$0.00,$0.00,$59.98,$36.55,,upc_scan
+34969148,Nike ZoomX Vaporfly 3 White Particle Grey,White/Particle Grey/Metallic Silver/Dark Smoke Grey,8.5,DV4129-100,07/19/2024,$157.00,$16.37,$140.63,$107.98,$0.00,$0.00,$107.98,$32.65,,upc_scan
+35030428,Nike P-6000 Black Cool Grey,Black/White/Cool Grey,9.5,CD6404-003,07/19/2024,$65.00,$7.62,$57.38,$44.20,$0.00,$0.00,$44.20,$13.18,,manual
+35619433,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,10,DJ5422-801/DJ5423-801,07/19/2024,$88.00,$9.47,$78.53,$53.98,$0.00,$0.00,$53.98,$24.55,,upc_scan
+35618475,Nike Air Max 97 Black White,Black/White,11,921826-001,07/19/2024,$86.00,$9.41,$76.59,$65.98,$0.00,$0.00,$65.98,$10.61,,upc_scan
+35619556,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,13,DZ5485-105,07/19/2024,$89.00,$9.70,$79.30,$41.98,$0.00,$0.00,$41.98,$37.32,,upc_scan
+35617395,Jordan 1 Retro High OG Artisanal Team Red,White/Team Red,6,DZ5485-160,07/19/2024,$105.00,$11.30,$93.70,$41.98,$0.00,$0.00,$41.98,$51.72,,upc_scan
+35619636,Nike Air Max 97 Photon Dust Malachite,Photon Dust/Dark Obsidian/White/Malachite,10,921826-021,07/19/2024,$96.00,$10.40,$85.60,$62.98,$0.00,$0.00,$62.98,$22.62,,upc_scan
+35667807,Nike Air Cross Trainer 3 Low Hyper Pink Racer Blue,White/Hyper Pink/Racer Blue/Flat Silver,7.5,FN6887-100,07/19/2024,$67.00,$7.81,$59.19,$44.98,$0.00,$0.00,$44.98,$14.21,,upc_scan
+35618474,Nike Air Max 97 Black White,Black/White,11,921826-001,07/20/2024,$86.00,$9.27,$76.73,$65.98,$0.00,$0.00,$65.98,$10.75,,upc_scan
+35619426,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,11.5,DJ5422-801/DJ5423-801,07/20/2024,$87.00,$9.37,$77.63,$53.98,$0.00,$0.00,$53.98,$23.65,,upc_scan
+35677748,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,10.5,DV2916-003/DV2917-003,07/20/2024,$80.84,$0.00,$80.84,$50.98,$0.00,$0.00,$50.98,$29.86,alias,upc_scan
+35030436,Nike P-6000 Black Cool Grey,Black/White/Cool Grey,10.5,CD6404-003,07/20/2024,$70.31,$0.00,$70.31,$44.20,$0.00,$0.00,$44.20,$26.11,alias,manual
+35030429,Nike P-6000 Black Cool Grey,Black/White/Cool Grey,9.5,CD6404-003,07/20/2024,$72.06,$0.00,$72.06,$44.20,$0.00,$0.00,$44.20,$27.86,alias,manual
+34490827,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,10,DR8884-101,07/20/2024,$86.12,$0.00,$86.12,$65.98,$0.00,$0.00,$65.98,$20.14,alias,upc_scan
+35029191,Nike Free Run 5.0 Black White (2021),Black/Dark Smoke Grey-White,12,CZ1884-001,07/20/2024,$76.00,$8.27,$67.73,$47.99,$0.00,$0.00,$47.99,$19.74,,upc_scan
+35443668,Nike Free Run 5.0 Black Off Noir,Black/Black/Off Noir,9.5,CZ1884-004,07/20/2024,$77.00,$8.37,$68.63,$55.99,$0.00,$0.00,$55.99,$12.64,,manual
+35619425,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,11.5,DJ5422-801/DJ5423-801,07/20/2024,$87.00,$9.37,$77.63,$53.98,$0.00,$0.00,$53.98,$23.65,,upc_scan
+35619635,Nike Air Max 97 Photon Dust Malachite,Photon Dust/Dark Obsidian/White/Malachite,9.5,921826-021,07/20/2024,$157.00,$16.37,$140.63,$62.98,$0.00,$0.00,$62.98,$77.65,,upc_scan
+35677746,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,10.5,DV2916-003/DV2917-003,07/21/2024,$78.20,$0.00,$78.20,$50.98,$0.00,$0.00,$50.98,$27.22,alias,upc_scan
+35617396,Jordan 1 Retro High OG Artisanal Team Red,White/Team Red,7,DZ5485-160,07/21/2024,$111.60,$0.00,$111.60,$41.98,$0.00,$0.00,$41.98,$69.62,alias,upc_scan
+34490830,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,10.5,DR8884-101,07/21/2024,$78.20,$0.00,$78.20,$65.98,$0.00,$0.00,$65.98,$12.22,alias,upc_scan
+35618473,Nike Air Max 97 Black White,Black/White,11,921826-001,07/21/2024,$86.00,$10.60,$75.40,$65.98,$0.00,$0.00,$65.98,$9.42,,upc_scan
+35618993,Nike Air Force 1 Low '07 Year of the Dragon (2024),Sail/Vapor Green/Sail,8.5,FZ5052-131,07/21/2024,$117.00,$13.70,$103.30,$71.98,$0.00,$0.00,$71.98,$31.32,,upc_scan
+35617397,Jordan 1 Retro High OG Artisanal Team Red,White/Team Red,7,DZ5485-160,07/22/2024,$98.00,$10.47,$87.53,$41.98,$0.00,$0.00,$41.98,$45.55,,upc_scan
+33412182,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,12.5,924453-005,07/22/2024,$179.00,$19.90,$159.10,$69.97,$0.00,$0.00,$69.97,$89.13,,upc_scan
+35618999,Nike Air Force 1 Low '07 Year of the Dragon (2024),Sail/Vapor Green/Sail,9.5,FZ5052-131,07/22/2024,$121.00,$12.77,$108.23,$71.98,$0.00,$0.00,$71.98,$36.25,,upc_scan
+35619634,Nike Air Max 97 Photon Dust Malachite,Photon Dust/Dark Obsidian/White/Malachite,9.5,921826-021,07/22/2024,$88.75,$0.00,$88.75,$62.98,$0.00,$0.00,$62.98,$25.77,alias,upc_scan
+35617393,Jordan 1 Retro High OG Artisanal Team Red,White/Team Red,6,DZ5485-160,07/22/2024,$112.49,$0.00,$112.49,$41.98,$0.00,$0.00,$41.98,$70.51,alias,upc_scan
+34490832,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,11,DR8884-101,07/22/2024,$78.20,$0.00,$78.20,$65.98,$0.00,$0.00,$65.98,$12.22,alias,upc_scan
+33328594,Nike Air Max 95 Premium Atlanta,Cool Grey/Anthracite/Total Orange/Iron Grey/University Red/Picante Red,9,FZ4125-060,07/22/2024,$81.27,$0.00,$81.27,$66.47,$0.00,$0.00,$66.47,$14.80,alias,upc_scan
+33325983,Nike Air VaporMax Plus Cool Grey,Wolf Grey/Dark Grey-Metallic Silver,12,924453-005,07/22/2024,$129.18,$0.00,$129.18,$69.97,$0.00,$0.00,$69.97,$59.21,alias,upc_scan
+35619633,Nike Air Max 97 Photon Dust Malachite,Photon Dust/Dark Obsidian/White/Malachite,9,921826-021,07/23/2024,$122.00,$12.87,$109.13,$62.98,$0.00,$0.00,$62.98,$46.15,,upc_scan
+35873580,Jordan 7 Retro White Infrared,White/Black/Crimson,9,CU9307-160,07/23/2024,$101.94,$0.00,$101.94,$89.99,$0.00,$0.00,$89.99,$11.95,alias,upc_scan
+35619427,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,10.5,DJ5422-801/DJ5423-801,07/23/2024,$85.24,$0.00,$85.24,$53.98,$0.00,$0.00,$53.98,$31.26,alias,upc_scan
+34568434,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,12,924453-004,07/23/2024,$116.00,$0.00,$116.00,$59.38,$0.00,$0.00,$59.38,$56.62,alias,upc_scan
+35873473,Nike Air Max 1 '86 OG Golf White Black,White/Black,11.5,DV1403-110,07/23/2024,$99.00,$10.57,$88.43,$64.78,$0.00,$0.00,$64.78,$23.65,,upc_scan
+35677754,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,10,DV2916-003/DV2917-003,07/23/2024,$82.00,$8.87,$73.13,$50.98,$0.00,$0.00,$50.98,$22.15,,upc_scan
+35030434,Nike P-6000 Black Cool Grey,Black/White/Cool Grey,8.5,CD6404-003,07/23/2024,$72.00,$7.87,$64.13,$44.20,$0.00,$0.00,$44.20,$19.93,,manual
+35915425,Nike Pegasus Trail 3 Gore-Tex Black Dark Smoke Grey,Black/Dark Smoke Grey/Iron Grey/Black,8,DC8793-001,07/23/2024,$84.00,$9.07,$74.93,$65.98,$0.00,$0.00,$65.98,$8.95,,upc_scan
+35619126,Nike Killshot 2 Leather Sail Oil Grey Gum,Sail/Oil Grey-Gum Yellow,10,432997-121,07/23/2024,$66.00,$8.98,$57.02,$50.99,$0.00,$0.00,$50.99,$6.03,,upc_scan
+35921761,Nike Air Force 1 PLT.AF.ORM Black (Women's),Black/White/Black/Anthracite,9,DJ9946-001,07/23/2024,$76.00,$8.27,$67.73,$59.94,$0.00,$0.00,$59.94,$7.79,,upc_scan
+35873477,Nike Air Max 1 '86 OG Golf White Black,White/Black,11,DV1403-110,07/24/2024,$103.00,$10.97,$92.03,$64.78,$0.00,$0.00,$64.78,$27.25,,upc_scan
+34568433,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,11.5,924453-004,07/24/2024,$59.38,$0.00,$59.38,$59.38,$0.00,$0.00,$59.38,$0.00,Returned to Nike,upc_scan
+34417051,Nike Air Force 1 '07 Low Color of the Month University Red Gum,White/University Red/Gum Yellow,9.5,DJ3911-102,07/24/2024,$87.00,$0.00,$87.00,$40.47,$0.00,$0.00,$40.47,$46.53,alias,upc_scan
+35618998,Nike Air Force 1 Low '07 Year of the Dragon (2024),Sail/Vapor Green/Sail,9.5,FZ5052-131,07/24/2024,$117.00,$12.37,$104.63,$71.98,$0.00,$0.00,$71.98,$32.65,,upc_scan
+35876245,Nike Air Max 95 Essential Triple Black,Black/Black,7.5,CI3705-001,07/24/2024,$112.00,$11.87,$100.13,$96.94,$0.00,$0.00,$96.94,$3.19,,upc_scan
+35978387,Jordan 1 Retro High OG Latte (Women's),Black/Legend Medium Brown/White/Sail,8.5,FD2596-021,07/24/2024,$133.00,$13.97,$119.03,$101.98,$0.00,$0.00,$101.98,$17.05,,upc_scan
+35030432,Nike P-6000 Black Cool Grey,Black/White/Cool Grey,8.5,CD6404-003,07/24/2024,$69.00,$7.74,$61.26,$44.20,$0.00,$0.00,$44.20,$17.06,,manual
+35502821,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,12,DJ5422-801/DJ5423-801,07/25/2024,$97.00,$10.37,$86.63,$62.97,$0.00,$0.00,$62.97,$23.66,,upc_scan
+35618990,Nike Air Force 1 Low '07 Year of the Dragon (2024),Sail/Vapor Green/Sail,8.5,FZ5052-131,07/25/2024,$99.36,$4.00,$95.36,$71.98,$0.00,$0.00,$71.98,$23.38,Poizon,upc_scan
+35978386,Jordan 1 Retro High OG Latte (Women's),Black/Legend Medium Brown/White/Sail,8.5,FD2596-021,07/25/2024,$133.00,$13.97,$119.03,$101.98,$0.00,$0.00,$101.98,$17.05,,upc_scan
+35978385,Jordan 1 Retro High OG Latte (Women's),Black/Legend Medium Brown/White/Sail,8.5,FD2596-021,07/25/2024,$132.00,$13.87,$118.13,$101.98,$0.00,$0.00,$101.98,$16.15,,upc_scan
+35978384,Jordan 1 Retro High OG Latte (Women's),Black/Legend Medium Brown/White/Sail,8.5,FD2596-021,07/26/2024,$132.00,$13.87,$118.13,$101.98,$0.00,$0.00,$101.98,$16.15,,upc_scan
+35978383,Jordan 1 Retro High OG Latte (Women's),Black/Legend Medium Brown/White/Sail,8.5,FD2596-021,07/26/2024,$131.00,$13.77,$117.23,$101.98,$0.00,$0.00,$101.98,$15.25,,upc_scan
+35619557,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,13,DZ5485-105,07/26/2024,$85.00,$9.30,$75.70,$41.98,$0.00,$0.00,$41.98,$33.72,,upc_scan
+35978380,Jordan 1 Retro High OG Latte (Women's),Black/Legend Medium Brown/White/Sail,7.5,FD2596-021,07/26/2024,$103.23,$0.00,$103.23,$101.98,$0.00,$0.00,$101.98,$1.25,alias,upc_scan
+35618477,Nike Air Max 97 Black White,Black/White,9.5,921826-001,07/26/2024,$76.00,$0.00,$76.00,$65.98,$0.00,$0.00,$65.98,$10.02,alias,upc_scan
+35443539,Nike Free Run 5.0 Black White (2021),Black/Dark Smoke Grey-White,10.5,CZ1884-001,07/26/2024,$77.00,$8.50,$68.50,$55.99,$0.00,$0.00,$55.99,$12.51,,manual
+35619432,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,10,DJ5422-801/DJ5423-801,07/26/2024,$82.00,$9.00,$73.00,$53.98,$0.00,$0.00,$53.98,$19.02,,upc_scan
+35618476,Nike Air Max 97 Black White,Black/White,11,921826-001,07/26/2024,$86.00,$9.41,$76.59,$65.98,$0.00,$0.00,$65.98,$10.61,,upc_scan
+35873447,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,10,DV2916-003/DV2917-003,07/27/2024,$78.00,$8.60,$69.40,$50.98,$0.00,$0.00,$50.98,$18.42,,upc_scan
+28806286,Nike Dunk Low Rose Whisper (Women's),White/Rose Whisper,7.5,DD1503-118,07/27/2024,$70.72,$0.00,$70.72,$80.50,$0.00,$0.00,$80.50,-$9.78,alias,upc_scan
+35618991,Nike Air Force 1 Low '07 Year of the Dragon (2024),Sail/Vapor Green/Sail,8.5,FZ5052-131,07/28/2024,$107.64,$4.00,$103.64,$71.98,$0.00,$0.00,$71.98,$31.66,Poizon,upc_scan
+28788952,Nike Dunk Low Rose Whisper (Women's),White/Rose Whisper,7.5,DD1503-118,07/28/2024,$78.63,$0.00,$78.63,$80.50,$0.00,$0.00,$80.50,-$1.87,alias,upc_scan
+35876241,Nike Air Max 95 Essential Triple Black,Black/Black,7.5,CI3705-001,08/01/2024,$104.57,$0.00,$104.57,$96.94,$0.00,$0.00,$96.94,$7.63,alias,upc_scan
+35502819,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,12,DJ5422-801/DJ5423-801,08/01/2024,$109.00,$10.48,$98.52,$62.97,$0.00,$0.00,$62.97,$35.55,,upc_scan
+35873673,Jordan 1 Retro Low OG University Red,White/University Red-White,11,CZ0790-161,08/01/2024,$74.00,$7.89,$66.11,$59.98,$0.00,$0.00,$59.98,$6.13,,upc_scan
+35619127,Nike Killshot 2 Leather Sail Oil Grey Gum,Sail/Oil Grey-Gum Yellow,9,432997-121,08/02/2024,$63.00,$7.56,$55.44,$50.99,$0.00,$0.00,$50.99,$4.45,,upc_scan
+34956945,Nike Dunk Low New Americana Washed Denim,White/Midnight Navy-Gym Red-Sail,9,FN6881-100,08/02/2024,$75.00,$7.92,$67.08,$53.99,$0.00,$0.00,$53.99,$13.09,,upc_scan
+34490831,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,10.5,DR8884-101,08/02/2024,$84.00,$8.23,$75.77,$65.98,$0.00,$0.00,$65.98,$9.79,,upc_scan
+35915420,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,9.5,DV2916-003/DV2917-003,08/02/2024,$64.15,$0.00,$64.15,$50.98,$0.00,$0.00,$50.98,$13.17,alias,upc_scan
+35617394,Jordan 1 Retro High OG Artisanal Team Red,White/Team Red,6,DZ5485-160,08/02/2024,$108.97,$0.00,$108.97,$41.98,$0.00,$0.00,$41.98,$66.99,alias,upc_scan
+35915415,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,10,DV2916-003/DV2917-003,08/02/2024,$78.00,$8.02,$69.98,$50.98,$0.00,$0.00,$50.98,$19.00,,upc_scan
+35029397,Nike Air Max 2017 Black Anthracite,Black/White-Anthracite,11,849559-001,08/02/2024,$98.00,$9.49,$88.51,$77.98,$0.00,$0.00,$77.98,$10.53,,upc_scan
+35029396,Nike Air Max 2017 Black Anthracite,Black/White-Anthracite,11,849559-001,08/02/2024,$98.00,$9.49,$88.51,$77.98,$0.00,$0.00,$77.98,$10.53,,upc_scan
+35030431,Nike P-6000 Black Cool Grey,Black/White/Cool Grey,8.5,CD6404-003,08/02/2024,$93.00,$9.04,$83.96,$44.20,$0.00,$0.00,$44.20,$39.76,,manual
+35619128,Nike Killshot 2 Leather Sail Oil Grey Gum,Sail/Oil Grey-Gum Yellow,10.5,432997-121,08/03/2024,$76.00,$7.95,$68.05,$50.99,$0.00,$0.00,$50.99,$17.06,,upc_scan
+35876244,Nike Air Max 95 Essential Triple Black,Black/Black,7.5,CI3705-001,08/03/2024,$116.00,$11.11,$104.89,$96.94,$0.00,$0.00,$96.94,$7.95,,upc_scan
+35876243,Nike Air Max 95 Essential Triple Black,Black/Black,7.5,CI3705-001,08/03/2024,$115.00,$11.02,$103.98,$96.94,$0.00,$0.00,$96.94,$7.04,,upc_scan
+34417049,Nike Air Force 1 '07 Low Color of the Month University Red Gum,White/University Red/Gum Yellow,10,DJ3911-102,08/04/2024,$74.00,$7.89,$66.11,$40.47,$0.00,$0.00,$40.47,$25.64,,upc_scan
+34417054,Nike Air Force 1 '07 Low Color of the Month University Red Gum,White/University Red/Gum Yellow,10.5,DJ3911-102,08/04/2024,$73.00,$7.86,$65.14,$40.47,$0.00,$0.00,$40.47,$24.67,,upc_scan
+36527148,ASICS Gel-1130 Dark Neptune,White/Dark Neptune,9.5,1201A256-121,08/04/2024,$102.81,$0.00,$102.81,$101.88,$0.00,$0.00,$101.88,$0.93,alias,upc_scan
+36526725,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,10,1201A789-020,08/04/2024,$148.51,$0.00,$148.51,$139.43,$0.00,$0.00,$139.43,$9.08,alias,upc_scan
+35502820,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,12,DJ5422-801/DJ5423-801,08/04/2024,$83.48,$0.00,$83.48,$62.97,$0.00,$0.00,$62.97,$20.51,alias,upc_scan
+34253617,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,9,DR8884-101,08/04/2024,$86.12,$0.00,$86.12,$65.98,$0.00,$0.00,$65.98,$20.14,alias,upc_scan
+35618482,Nike Air Max 97 Black White,Black/White,11.5,921826-001,08/04/2024,$90.00,$8.77,$81.23,$65.98,$0.00,$0.00,$65.98,$15.25,,upc_scan
+34417053,Nike Air Force 1 '07 Low Color of the Month University Red Gum,White/University Red/Gum Yellow,10.5,DJ3911-102,08/04/2024,$78.00,$8.02,$69.98,$40.47,$0.00,$0.00,$40.47,$29.51,,upc_scan
+36526716,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,13,1201A789-020,08/05/2024,$165.00,$16.18,$148.82,$139.43,$0.00,$0.00,$139.43,$9.39,,upc_scan
+36526722,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,10.5,1201A789-020,08/05/2024,$140.61,$0.00,$140.61,$139.43,$0.00,$0.00,$139.43,$1.18,alias,upc_scan
+35618995,Nike Air Force 1 Low '07 Year of the Dragon (2024),Sail/Vapor Green/Sail,9.5,FZ5052-131,08/05/2024,$101.56,$0.00,$101.56,$71.98,$0.00,$0.00,$71.98,$29.58,Poizon,upc_scan
+36526718,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,13,1201A789-020,08/05/2024,$165.00,$16.18,$148.82,$139.43,$0.00,$0.00,$139.43,$9.39,,upc_scan
+27565446,Nike Blazer Low 77 Vintage White Black,White/Sail-Black,10,DA6464-101/DA6364-101,08/05/2024,$64.00,$7.59,$56.41,$44.08,$0.00,$0.00,$44.08,$12.33,,spreadsheet
+35876242,Nike Air Max 95 Essential Triple Black,Black/Black,7.5,CI3705-001,08/05/2024,$115.00,$11.02,$103.98,$96.94,$0.00,$0.00,$96.94,$7.04,,upc_scan
+36526721,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,10.5,1201A789-020,08/06/2024,$160.00,$15.73,$144.27,$139.43,$0.00,$0.00,$139.43,$4.84,,upc_scan
+35618992,Nike Air Force 1 Low '07 Year of the Dragon (2024),Sail/Vapor Green/Sail,8.5,FZ5052-131,08/06/2024,$112.90,$0.00,$112.90,$71.98,$0.00,$0.00,$71.98,$40.92,alias,upc_scan
+35915421,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,9.5,DV2916-003/DV2917-003,08/06/2024,$64.15,$0.00,$64.15,$50.98,$0.00,$0.00,$50.98,$13.17,alias,upc_scan
+36526717,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,13,1201A789-020,08/06/2024,$162.57,$0.00,$162.57,$139.43,$0.00,$0.00,$139.43,$23.14,alias,upc_scan
+36526712,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,12,1201A789-020,08/06/2024,$137.09,$0.00,$137.09,$139.43,$0.00,$0.00,$139.43,-$2.34,alias,upc_scan
+36526723,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,10,1201A789-020,08/06/2024,$148.51,$0.00,$148.51,$139.43,$0.00,$0.00,$139.43,$9.08,alias,upc_scan
+36526720,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,10.5,1201A789-020,08/06/2024,$144.12,$0.00,$144.12,$139.43,$0.00,$0.00,$139.43,$4.69,alias,upc_scan
+36526719,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,10.5,1201A789-020,08/06/2024,$144.12,$0.00,$144.12,$139.43,$0.00,$0.00,$139.43,$4.69,alias,upc_scan
+35619431,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,10,DJ5422-801/DJ5423-801,08/06/2024,$80.84,$0.00,$80.84,$53.98,$0.00,$0.00,$53.98,$26.86,alias,upc_scan
+35618997,Nike Air Force 1 Low '07 Year of the Dragon (2024),Sail/Vapor Green/Sail,9.5,FZ5052-131,08/06/2024,$111.57,$0.00,$111.57,$71.98,$0.00,$0.00,$71.98,$39.59,Poizon,upc_scan
+35618996,Nike Air Force 1 Low '07 Year of the Dragon (2024),Sail/Vapor Green/Sail,9.5,FZ5052-131,08/06/2024,$117.76,$0.00,$117.76,$71.98,$0.00,$0.00,$71.98,$45.78,alias,upc_scan
+34576738,Nike Air Force 1 '07 Low Color of the Month University Red Gum,White/University Red/Gum Yellow,9.5,DJ3911-102,08/06/2024,$87.00,$0.00,$87.00,$48.47,$0.00,$0.00,$48.47,$38.53,alias,upc_scan
+34253857,Nike Air VaporMax Plus Rainbow,White/White-Neptune Blue-Dynamic Yellow,13,924453-103,08/06/2024,$95.99,$0.00,$95.99,$95.99,$0.00,$0.00,$95.99,$0.00,Returned to Nike,upc_scan
+34253798,Nike Air VaporMax 2023 Flyknit Light Ultramarine,Light Ultramarine/Polar/Polar/Pure Platinum,12,DV1678-500,08/06/2024,$95.99,$0.00,$95.99,$95.99,$0.00,$0.00,$95.99,$0.00,Returned to Nike,upc_scan
+34253797,Nike Air VaporMax 2023 Flyknit Light Ultramarine,Light Ultramarine/Polar/Polar/Pure Platinum,12,DV1678-500,08/06/2024,$95.99,$0.00,$95.99,$95.99,$0.00,$0.00,$95.99,$0.00,Returned to Nike,upc_scan
+34253796,Nike Air VaporMax 2023 Flyknit Light Ultramarine,Light Ultramarine/Polar/Polar/Pure Platinum,12,DV1678-500,08/06/2024,$95.99,$0.00,$95.99,$95.99,$0.00,$0.00,$95.99,$0.00,Returned to Nike,upc_scan
+34253795,Nike Air VaporMax 2023 Flyknit Light Ultramarine,Light Ultramarine/Polar/Polar/Pure Platinum,12,DV1678-500,08/06/2024,$95.99,$0.00,$95.99,$95.99,$0.00,$0.00,$95.99,$0.00,Returned to Nike,upc_scan
+35619430,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,10.5,DJ5422-801/DJ5423-801,08/06/2024,$82.00,$8.13,$73.87,$53.98,$0.00,$0.00,$53.98,$19.89,,upc_scan
+36611442,Nike Air Huarache OG Orca,Black/White/Black,9,DD1068-001,08/06/2024,$60.00,$2.47,$57.53,$45.48,$0.00,$0.00,$45.48,$12.05,,upc_scan
+36618604,Nike Dunk Mid Premium Halloween Headless Horseman,Black/Smoke Grey/Campfire Orange/Black,10.5,FQ8749-010,08/06/2024,$95.00,$3.52,$91.48,$59.48,$0.00,$0.00,$59.48,$32.00,,upc_scan
+36620664,Nike LeBron 21 Aragonite,Jade Ice/Emerald Rise/Platinum Violet/Terra Blush,9.5,HF5466-300/HF5467-300,08/06/2024,$57.00,$2.38,$54.62,$48.98,$0.00,$0.00,$48.98,$5.64,,upc_scan
+36526715,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,12,1201A789-020,08/06/2024,$156.00,$5.35,$150.65,$139.43,$0.00,$0.00,$139.43,$11.22,,upc_scan
+36526710,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,12,1201A789-020,08/07/2024,$156.00,$5.35,$150.65,$139.43,$0.00,$0.00,$139.43,$11.22,,upc_scan
+36637991,Nike ZoomX Vaporfly 3 White Particle Grey,White/Particle Grey/Metallic Silver/Dark Smoke Grey,12.5,DV4129-100,08/07/2024,$156.00,$5.35,$150.65,$125.97,$0.00,$0.00,$125.97,$24.68,,upc_scan
+36619487,Jordan 3 Retro Green Glow,Black/Green Glow/Wolf Grey/White,12,CT8532-031,08/07/2024,$158.00,$5.41,$152.59,$140.00,$0.00,$0.00,$140.00,$12.59,,upc_scan
+35618479,Nike Air Max 97 Black White,Black/White,9.5,921826-001,08/07/2024,$82.00,$3.13,$78.87,$65.98,$0.00,$0.00,$65.98,$12.89,,upc_scan
+36526711,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,12,1201A789-020,08/07/2024,$151.00,$5.20,$145.80,$139.43,$0.00,$0.00,$139.43,$6.37,,upc_scan
+36569243,Nike P-6000 Black Cool Grey,Black/White/Cool Grey,11,CD6404-003,08/07/2024,$81.00,$3.10,$77.90,$55.99,$0.00,$0.00,$55.99,$21.91,,manual
+35618994,Nike Air Force 1 Low '07 Year of the Dragon (2024),Sail/Vapor Green/Sail,9.5,FZ5052-131,08/07/2024,$120.39,$0.00,$120.39,$71.98,$0.00,$0.00,$71.98,$48.41,alias,upc_scan
+28806289,Nike Dunk Low Rose Whisper (Women's),White/Rose Whisper,6.5,DD1503-118,08/07/2024,$83.90,$0.00,$83.90,$80.50,$0.00,$0.00,$80.50,$3.40,alias,upc_scan
+36526724,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,10,1201A789-020,08/07/2024,$159.00,$5.44,$153.56,$139.43,$0.00,$0.00,$139.43,$14.13,,upc_scan
+36637990,Nike ZoomX Vaporfly 3 White Particle Grey,White/Particle Grey/Metallic Silver/Dark Smoke Grey,10.5,DV4129-100,08/07/2024,$156.00,$14.71,$141.29,$125.97,$0.00,$0.00,$125.97,$15.32,,upc_scan
+36637599,Nike LeBron 21 Aragonite,Jade Ice/Emerald Rise/Platinum Violet/Terra Blush,10,HF5466-300/HF5467-300,08/07/2024,$68.00,$9.04,$58.96,$48.97,$0.00,$0.00,$48.97,$9.99,,upc_scan
+35619424,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,12,DJ5422-801/DJ5423-801,08/07/2024,$90.00,$8.77,$81.23,$53.98,$0.00,$0.00,$53.98,$27.25,,upc_scan
+35915412,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,10,DV2916-003/DV2917-003,08/07/2024,$78.00,$8.02,$69.98,$50.98,$0.00,$0.00,$50.98,$19.00,,upc_scan
+35619554,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,13,DZ5485-105,08/07/2024,$79.00,$9.37,$69.63,$41.98,$0.00,$0.00,$41.98,$27.65,,upc_scan
+35873476,Nike Air Max 1 '86 OG Golf White Black,White/Black,11,DV1403-110,08/08/2024,$89.00,$8.69,$80.31,$64.78,$0.00,$0.00,$64.78,$15.53,,upc_scan
+35618478,Nike Air Max 97 Black White,Black/White,9.5,921826-001,08/08/2024,$81.00,$8.10,$72.90,$65.98,$0.00,$0.00,$65.98,$6.92,,upc_scan
+35617400,Jordan 1 Retro High OG Artisanal Team Red,White/Team Red,5.5,DZ5485-160,08/08/2024,$103.70,$0.00,$103.70,$41.98,$0.00,$0.00,$41.98,$61.72,alias,upc_scan
+35873475,Nike Air Max 1 '86 OG Golf White Black,White/Black,11,DV1403-110,08/08/2024,$87.00,$8.50,$78.50,$64.78,$0.00,$0.00,$64.78,$13.72,,upc_scan
+36730711,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,13,DR8884-101,08/08/2024,$96.00,$10.64,$85.36,$59.99,$0.00,$0.00,$59.99,$25.37,,manual
+36637989,Nike ZoomX Vaporfly 3 White Particle Grey,White/Particle Grey/Metallic Silver/Dark Smoke Grey,10.5,DV4129-100,08/08/2024,$156.00,$14.71,$141.29,$125.97,$0.00,$0.00,$125.97,$15.32,,upc_scan
+34956953,Nike Dunk Low New Americana Washed Denim,White/Midnight Navy-Gym Red-Sail,8.5,FN6881-100,08/08/2024,$72.00,$7.83,$64.17,$53.99,$0.00,$0.00,$53.99,$10.18,,upc_scan
+35619586,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,11,DZ5485-105,08/09/2024,$80.00,$8.07,$71.93,$59.98,$0.00,$0.00,$59.98,$11.95,,upc_scan
+36637994,Nike ZoomX Vaporfly 3 White Particle Grey,White/Particle Grey/Metallic Silver/Dark Smoke Grey,11,DV4129-100,08/09/2024,$149.00,$14.09,$134.91,$125.97,$0.00,$0.00,$125.97,$8.94,,upc_scan
+36526730,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,11,1201A789-020,08/09/2024,$148.00,$14.12,$133.88,$139.43,$0.00,$0.00,$139.43,-$5.55,,upc_scan
+36784406,Nike Air Force 1 Mid SP Off-White Varsity Maize,White/White/Varsity Maize,10,DR0500-101,08/09/2024,$109.84,$0.00,$109.84,$89.99,$0.00,$0.00,$89.99,$19.85,alias,upc_scan
+36748830,Nike Air Force 1 Mid SP Off-White Varsity Maize,White/White/Varsity Maize,11,DR0500-101,08/09/2024,$102.81,$0.00,$102.81,$89.99,$0.00,$0.00,$89.99,$12.82,alias,upc_scan
+36525618,adidas Yeezy Slide Salt,Salt/Salt/Salt,5,ID5480,08/09/2024,$72.06,$0.00,$72.06,$75.08,$0.00,$0.00,$75.08,-$3.02,alias,upc_scan
+35619584,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,11.5,DZ5485-105,08/09/2024,$85.00,$8.32,$76.68,$59.98,$0.00,$0.00,$59.98,$16.70,,upc_scan
+36637988,Nike ZoomX Vaporfly 3 White Particle Grey,White/Particle Grey/Metallic Silver/Dark Smoke Grey,10.5,DV4129-100,08/09/2024,$156.00,$14.71,$141.29,$125.97,$0.00,$0.00,$125.97,$15.32,,upc_scan
+36637594,Nike LeBron 21 Aragonite,Jade Ice/Emerald Rise/Platinum Violet/Terra Blush,12,HF5466-300/HF5467-300,08/09/2024,$68.00,$9.04,$58.96,$48.97,$0.00,$0.00,$48.97,$9.99,,upc_scan
+36637778,Nike Dunk Mid Premium Halloween Headless Horseman,Black/Smoke Grey/Campfire Orange/Black,10.5,FQ8749-010,08/09/2024,$108.00,$10.39,$97.61,$59.47,$0.00,$0.00,$59.47,$38.14,,upc_scan
+28788950,Nike Dunk Low Rose Whisper (Women's),White/Rose Whisper,8.5,DD1503-118,08/09/2024,$76.00,$0.00,$76.00,$80.50,$0.00,$0.00,$80.50,-$4.50,alias,upc_scan
+35619429,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,10.5,DJ5422-801/DJ5423-801,08/09/2024,$82.00,$8.13,$73.87,$53.98,$0.00,$0.00,$53.98,$19.89,,upc_scan
+36525620,adidas Yeezy Slide Salt,Salt/Salt/Salt,5,ID5480,08/10/2024,$79.00,$8.05,$70.95,$75.08,$0.00,$0.00,$75.08,-$4.13,,upc_scan
+36637987,Nike ZoomX Vaporfly 3 White Particle Grey,White/Particle Grey/Metallic Silver/Dark Smoke Grey,10.5,DV4129-100,08/10/2024,$156.00,$14.71,$141.29,$125.97,$0.00,$0.00,$125.97,$15.32,,upc_scan
+35619428,Nike LeBron 20 Laser Orange,Laser Orange/Racer Blue/Hyper Pink/White,10.5,DJ5422-801/DJ5423-801,08/10/2024,$81.00,$8.10,$72.90,$53.98,$0.00,$0.00,$53.98,$18.92,,upc_scan
+34956944,Nike Dunk Low New Americana Washed Denim,White/Midnight Navy-Gym Red-Sail,9,FN6881-100,08/10/2024,$69.00,$7.74,$61.26,$53.99,$0.00,$0.00,$53.99,$7.27,,upc_scan
+36637993,Nike ZoomX Vaporfly 3 White Particle Grey,White/Particle Grey/Metallic Silver/Dark Smoke Grey,12,DV4129-100,08/11/2024,$156.00,$14.84,$141.16,$125.97,$0.00,$0.00,$125.97,$15.19,,upc_scan
+35617399,Jordan 1 Retro High OG Artisanal Team Red,White/Team Red,4.5,DZ5485-160,08/11/2024,$131.35,$0.00,$131.35,$41.98,$0.00,$0.00,$41.98,$89.37,alias,upc_scan
+35915423,Nike Pegasus Trail 3 Gore-Tex Black Dark Smoke Grey,Black/Dark Smoke Grey/Iron Grey/Black,8.5,DC8793-001,08/11/2024,$95.00,$9.35,$85.65,$65.98,$0.00,$0.00,$65.98,$19.67,,upc_scan
+36637596,Nike LeBron 21 Aragonite,Jade Ice/Emerald Rise/Platinum Violet/Terra Blush,9.5,HF5466-300/HF5467-300,08/11/2024,$68.00,$9.04,$58.96,$48.97,$0.00,$0.00,$48.97,$9.99,,upc_scan
+36637598,Nike LeBron 21 Aragonite,Jade Ice/Emerald Rise/Platinum Violet/Terra Blush,10,HF5466-300/HF5467-300,08/12/2024,$69.00,$9.07,$59.93,$48.97,$0.00,$0.00,$48.97,$10.96,,upc_scan
+36784453,Nike Air Force 1 Mid SP Off-White Sheed,Black/White-White,11.5,DR0500-001,08/12/2024,$182.32,$0.00,$182.32,$115.49,$0.00,$0.00,$115.49,$66.83,alias,upc_scan
+36637992,Nike ZoomX Vaporfly 3 White Particle Grey,White/Particle Grey/Metallic Silver/Dark Smoke Grey,12,DV4129-100,08/12/2024,$140.13,$0.00,$140.13,$125.97,$0.00,$0.00,$125.97,$14.16,alias,upc_scan
+35619129,Nike Killshot 2 Leather Sail Oil Grey Gum,Sail/Oil Grey-Gum Yellow,11.5,432997-121,08/12/2024,$64.56,$0.00,$64.56,$50.99,$0.00,$0.00,$50.99,$13.57,alias,upc_scan
+34568229,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,14,DZ5485-105,08/12/2024,$82.14,$0.00,$82.14,$71.98,$0.00,$0.00,$71.98,$10.16,alias,upc_scan
+34956952,Nike Dunk Low New Americana Washed Denim,White/Midnight Navy-Gym Red-Sail,8.5,FN6881-100,08/12/2024,$72.00,$7.96,$64.04,$53.99,$0.00,$0.00,$53.99,$10.05,,upc_scan
+36525619,adidas Yeezy Slide Salt,Salt/Salt/Salt,5,ID5480,08/12/2024,$79.00,$8.17,$70.83,$75.08,$0.00,$0.00,$75.08,-$4.25,,upc_scan
+34956943,Nike Dunk Low New Americana Washed Denim,White/Midnight Navy-Gym Red-Sail,9,FN6881-100,08/12/2024,$75.00,$8.58,$66.42,$53.99,$0.00,$0.00,$53.99,$12.43,,upc_scan
+35443538,Nike Free Run 5.0 Black White (2021),Black/Dark Smoke Grey-White,10.5,CZ1884-001,08/14/2024,$71.00,$8.46,$62.54,$55.99,$0.00,$0.00,$55.99,$6.55,,manual
+36748827,Nike Air Force 1 Mid SP Off-White Varsity Maize,White/White/Varsity Maize,8,DR0500-101,08/15/2024,$102.81,$0.00,$102.81,$89.99,$0.00,$0.00,$89.99,$12.82,alias,upc_scan
+36526713,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,12,1201A789-020,08/15/2024,$131.35,$0.00,$131.35,$139.43,$0.00,$0.00,$139.43,-$8.08,alias,upc_scan
+36525609,adidas Yeezy Slide Salt,Salt/Salt/Salt,5,ID5480,08/15/2024,$68.08,$0.00,$68.08,$75.08,$0.00,$0.00,$75.08,-$7.00,alias,upc_scan
+37067815,ASICS Gel-1130 Dark Neptune,White/Dark Neptune,10,1201A256-121,08/15/2024,$120.00,$12.13,$107.87,$91.58,$0.00,$0.00,$91.58,$16.29,,upc_scan
+36526729,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,11.5,1201A789-020,08/16/2024,$155.00,$14.62,$140.38,$139.43,$0.00,$0.00,$139.43,$0.95,,upc_scan
+35873470,Nike Air Max 1 '86 OG Golf White Black,White/Black,10,DV1403-110,08/16/2024,$81.00,$8.10,$72.90,$64.78,$0.00,$0.00,$64.78,$8.12,,upc_scan
+36730719,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,10.5,DR8884-101,08/16/2024,$71.59,$0.00,$71.59,$59.99,$0.00,$0.00,$59.99,$11.60,alias,manual
+36526726,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,12,1201A789-020,08/16/2024,$149.38,$0.00,$149.38,$139.43,$0.00,$0.00,$139.43,$9.95,alias,upc_scan
+35873451,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,9.5,DV2916-003/DV2917-003,08/16/2024,$64.15,$0.00,$64.15,$50.98,$0.00,$0.00,$50.98,$13.17,alias,upc_scan
+34868965,Nike Air VaporMax Plus Triple Black,Black/Black-Dark Grey,9.5,924453-004,08/16/2024,$130.47,$0.00,$130.47,$93.09,$0.00,$0.00,$93.09,$37.38,alias,upc_scan
+34568233,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,11.5,DZ5485-105,08/16/2024,$74.23,$0.00,$74.23,$71.98,$0.00,$0.00,$71.98,$2.25,alias,upc_scan
+36637593,Nike LeBron 21 Aragonite,Jade Ice/Emerald Rise/Platinum Violet/Terra Blush,12,HF5466-300/HF5467-300,08/16/2024,$71.00,$8.46,$62.54,$48.97,$0.00,$0.00,$48.97,$13.57,,upc_scan
+34956951,Nike Dunk Low New Americana Washed Denim,White/Midnight Navy-Gym Red-Sail,8.5,FN6881-100,08/16/2024,$71.00,$7.80,$63.20,$53.99,$0.00,$0.00,$53.99,$9.21,,upc_scan
+36637773,Nike Dunk Mid Premium Halloween Headless Horseman,Black/Smoke Grey/Campfire Orange/Black,11.5,FQ8749-010,08/17/2024,$80.84,$0.00,$80.84,$59.47,$0.00,$0.00,$59.47,$21.37,alias,upc_scan
+36525617,adidas Yeezy Slide Salt,Salt/Salt/Salt,5,ID5480,08/17/2024,$79.00,$8.05,$70.95,$75.08,$0.00,$0.00,$75.08,-$4.13,,upc_scan
+35915424,Nike Pegasus Trail 3 Gore-Tex Black Dark Smoke Grey,Black/Dark Smoke Grey/Iron Grey/Black,8,DC8793-001,08/17/2024,$86.00,$8.41,$77.59,$65.98,$0.00,$0.00,$65.98,$11.61,,upc_scan
+36525611,adidas Yeezy Slide Salt,Salt/Salt/Salt,5,ID5480,08/18/2024,$74.69,$0.00,$74.69,$75.08,$0.00,$0.00,$75.08,-$0.39,alias,upc_scan
+36525610,adidas Yeezy Slide Salt,Salt/Salt/Salt,5,ID5480,08/18/2024,$75.58,$0.00,$75.58,$75.08,$0.00,$0.00,$75.08,$0.50,alias,upc_scan
+35618481,Nike Air Max 97 Black White,Black/White,11.5,921826-001,08/18/2024,$81.00,$8.10,$72.90,$65.98,$0.00,$0.00,$65.98,$6.92,,upc_scan
+36526714,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,12,1201A789-020,08/18/2024,$182.00,$17.05,$164.95,$139.43,$0.00,$0.00,$139.43,$25.52,,upc_scan
+36637986,Nike ZoomX Vaporfly 3 White Particle Grey,White/Particle Grey/Metallic Silver/Dark Smoke Grey,10.5,DV4129-100,08/19/2024,$169.00,$15.88,$153.12,$125.97,$0.00,$0.00,$125.97,$27.15,,upc_scan
+36526728,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,11.5,1201A789-020,08/19/2024,$178.00,$16.69,$161.31,$139.43,$0.00,$0.00,$139.43,$21.88,,upc_scan
+36525616,adidas Yeezy Slide Salt,Salt/Salt/Salt,5,ID5480,08/19/2024,$80.00,$8.07,$71.93,$75.08,$0.00,$0.00,$75.08,-$3.15,,upc_scan
+37233561,Nike Air Force 1 PLT.AF.ORM Black (Women's),Black/White/Black/Anthracite,8.5,DJ9946-001,08/19/2024,$85.00,$8.32,$76.68,$69.98,$0.00,$0.00,$69.98,$6.70,,upc_scan
+34253622,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,12,DR8884-101,08/19/2024,$79.00,$8.70,$70.30,$65.98,$0.00,$0.00,$65.98,$4.32,,upc_scan
+36525613,adidas Yeezy Slide Salt,Salt/Salt/Salt,5,ID5480,08/20/2024,$76.45,$0.00,$76.45,$75.08,$0.00,$0.00,$75.08,$1.37,alias,upc_scan
+36637595,Nike LeBron 21 Aragonite,Jade Ice/Emerald Rise/Platinum Violet/Terra Blush,10.5,HF5466-300/HF5467-300,08/20/2024,$69.00,$8.40,$60.60,$48.97,$0.00,$0.00,$48.97,$11.63,,upc_scan
+36525615,adidas Yeezy Slide Salt,Salt/Salt/Salt,5,ID5480,08/20/2024,$80.00,$8.07,$71.93,$75.08,$0.00,$0.00,$75.08,-$3.15,,upc_scan
+37728454,adidas Yeezy Slide Salt,Salt/Salt/Salt,5,ID5480,08/21/2024,$79.09,$0.00,$79.09,$75.08,$0.00,$0.00,$75.08,$4.01,alias,new_item_addition_flow
+36637591,Nike LeBron 21 Aragonite,Jade Ice/Emerald Rise/Platinum Violet/Terra Blush,12,HF5466-300/HF5467-300,08/21/2024,$62.39,$0.00,$62.39,$48.97,$0.00,$0.00,$48.97,$13.42,alias,upc_scan
+37326839,Nike Blazer Low 77 Black White,Black/White,11.5,DA6364-001,08/21/2024,$57.00,$7.38,$49.62,$34.97,$0.00,$0.00,$34.97,$14.65,,stockx_kafka_sync
+35873584,Jordan 7 Retro White Infrared,White/Black/Crimson,13,CU9307-160,08/21/2024,$102.36,$0.00,$102.36,$89.99,$0.00,$0.00,$89.99,$12.37,alias,upc_scan
+37277089,ASICS Gel-1130 Dark Neptune,White/Dark Neptune,12,1201A256-121,08/21/2024,$147.00,$13.90,$133.10,$102.35,$0.00,$0.00,$102.35,$30.75,,upc_scan
+35873472,Nike Air Max 1 '86 OG Golf White Black,White/Black,9,DV1403-110,08/22/2024,$89.00,$8.69,$80.31,$64.78,$0.00,$0.00,$64.78,$15.53,,upc_scan
+36637597,Nike LeBron 21 Aragonite,Jade Ice/Emerald Rise/Platinum Violet/Terra Blush,10,HF5466-300/HF5467-300,08/22/2024,$68.00,$8.37,$59.63,$48.97,$0.00,$0.00,$48.97,$10.66,,upc_scan
+36637774,Nike Dunk Mid Premium Halloween Headless Horseman,Black/Smoke Grey/Campfire Orange/Black,11.5,FQ8749-010,08/22/2024,$89.00,$8.69,$80.31,$59.47,$0.00,$0.00,$59.47,$20.84,,upc_scan
+35873444,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,10,DV2916-003/DV2917-003,08/22/2024,$69.42,$0.00,$69.42,$50.98,$0.00,$0.00,$50.98,$18.44,alias,upc_scan
+34490826,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,9.5,DR8884-101,08/22/2024,$65.98,$0.00,$65.98,$65.98,$0.00,$0.00,$65.98,$0.00,Returned to Nike,upc_scan
+34490825,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,8.5,DR8884-101,08/22/2024,$65.98,$0.00,$65.98,$65.98,$0.00,$0.00,$65.98,$0.00,Returned to Nike,upc_scan
+34490824,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,8,DR8884-101,08/22/2024,$65.98,$0.00,$65.98,$65.98,$0.00,$0.00,$65.98,$0.00,Returned to Nike,upc_scan
+34253618,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,9,DR8884-101,08/22/2024,$65.98,$0.00,$65.98,$65.98,$0.00,$0.00,$65.98,$0.00,Returned to Nike,upc_scan
+34956950,Nike Dunk Low New Americana Washed Denim,White/Midnight Navy-Gym Red-Sail,8.5,FN6881-100,08/22/2024,$71.00,$7.80,$63.20,$53.99,$0.00,$0.00,$53.99,$9.21,,upc_scan
+36526727,ASICS Gel-NYC Graphite Grey Black,Graphite Grey/Black,11.5,1201A789-020,08/22/2024,$161.00,$15.82,$145.18,$139.43,$0.00,$0.00,$139.43,$5.75,,upc_scan
+36637592,Nike LeBron 21 Aragonite,Jade Ice/Emerald Rise/Platinum Violet/Terra Blush,12,HF5466-300/HF5467-300,08/22/2024,$70.00,$8.43,$61.57,$48.97,$0.00,$0.00,$48.97,$12.60,,upc_scan
+36637772,Nike Dunk Mid Premium Halloween Headless Horseman,Black/Smoke Grey/Campfire Orange/Black,11.5,FQ8749-010,08/22/2024,$89.00,$8.69,$80.31,$59.47,$0.00,$0.00,$59.47,$20.84,,upc_scan
+37395416,Nike Kobe 4 Protro Gold Medal (2024),White/Dark Obsidian/Varsity Red/Metallic Gold,18,FQ3544-100,08/22/2024,$265.00,$25.18,$239.82,$190.00,$0.00,$0.00,$190.00,$49.82,,manual
+37388025,ASICS Gel-1130 Dark Neptune,White/Dark Neptune,9.5,1201A256-121,08/23/2024,$117.00,$11.86,$105.14,$91.58,$0.00,$0.00,$91.58,$13.56,,upc_scan
+36525614,adidas Yeezy Slide Salt,Salt/Salt/Salt,5,ID5480,08/23/2024,$76.45,$0.00,$76.45,$75.08,$0.00,$0.00,$75.08,$1.37,alias,upc_scan
+36525612,adidas Yeezy Slide Salt,Salt/Salt/Salt,5,ID5480,08/23/2024,$81.72,$0.00,$81.72,$75.08,$0.00,$0.00,$75.08,$6.64,alias,upc_scan
+37276110,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,12,DR8884-101,08/23/2024,$79.00,$8.05,$70.95,$59.99,$0.00,$0.00,$59.99,$10.96,,manual
+35677750,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,10.5,DV2916-003/DV2917-003,08/24/2024,$74.23,$0.00,$74.23,$50.98,$0.00,$0.00,$50.98,$23.25,alias,upc_scan
+36637771,Nike Dunk Mid Premium Halloween Headless Horseman,Black/Smoke Grey/Campfire Orange/Black,11.5,FQ8749-010,08/25/2024,$87.00,$8.94,$78.06,$59.47,$0.00,$0.00,$59.47,$18.59,,upc_scan
+37570189,New Balance 550 White Black,White/Black,8.5,BB550HA1,08/26/2024,$72.94,$0.00,$72.94,$60.33,$0.00,$0.00,$60.33,$12.61,alias,upc_scan
+37440450,adidas Ultra Boost 1.0 DNA Grey,Grey Three/Grey Five/Core Black,11.5,HQ4200,08/26/2024,$101.94,$0.00,$101.94,$69.61,$0.00,$0.00,$69.61,$32.33,alias,upc_scan
+35915413,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,10,DV2916-003/DV2917-003,08/26/2024,$78.20,$0.00,$78.20,$50.98,$0.00,$0.00,$50.98,$27.22,alias,upc_scan
+37566466,New Balance 550 White Grey,White/Grey,12,BB550PB/BB550PB1,08/26/2024,$91.00,$8.40,$82.60,$60.33,$0.00,$0.00,$60.33,$22.27,,upc_scan
+37566464,New Balance 550 White Grey,White/Grey,10,BB550PB/BB550PB1,08/27/2024,$92.00,$8.49,$83.51,$60.33,$0.00,$0.00,$60.33,$23.18,,upc_scan
+35873585,Jordan 7 Retro White Infrared,White/Black/Crimson,13,CU9307-160,08/27/2024,$102.00,$9.34,$92.66,$89.99,$0.00,$0.00,$89.99,$2.67,,upc_scan
+37566463,New Balance 550 White Grey,White/Grey,11,BB550PB/BB550PB1,08/27/2024,$87.00,$8.28,$78.72,$60.33,$0.00,$0.00,$60.33,$18.39,,upc_scan
+37632120,Nike Killshot 2 Leather Sail Oil Grey Gum,Sail/Oil Grey-Gum Yellow,10,432997-121,08/27/2024,$58.00,$0.00,$58.00,$48.97,$0.00,$0.00,$48.97,$9.03,alias,upc_scan
+37587621,Nike Air Zoom Alphafly Next% 3 FP White Purple Agate,White/Purple Agate/Vivid Grape/Black,12,FD8311-100,08/27/2024,$199.50,$0.00,$199.50,$199.50,$0.00,$0.00,$199.50,$0.00,Returned to Nike,upc_scan
+37570190,New Balance 550 White Black,White/Black,8.5,BB550HA1,08/27/2024,$72.94,$0.00,$72.94,$60.33,$0.00,$0.00,$60.33,$12.61,alias,upc_scan
+35677747,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,10.5,DV2916-003/DV2917-003,08/27/2024,$75.58,$0.00,$75.58,$50.98,$0.00,$0.00,$50.98,$24.60,alias,upc_scan
+37566462,New Balance 550 White Grey,White/Grey,11,BB550PB/BB550PB1,08/27/2024,$87.00,$8.28,$78.72,$60.33,$0.00,$0.00,$60.33,$18.39,,upc_scan
+37455175,Nike Free RN Flyknit 2018 Black White Ombre,White/Black,12,942838-101,08/27/2024,$76.00,$7.95,$68.05,$59.99,$0.00,$0.00,$59.99,$8.06,,upc_scan
+35618480,Nike Air Max 97 Black White,Black/White,11.5,921826-001,08/27/2024,$78.00,$8.02,$69.98,$65.98,$0.00,$0.00,$65.98,$4.00,,upc_scan
+37566461,New Balance 550 White Grey,White/Grey,11,BB550PB/BB550PB1,08/27/2024,$87.00,$8.28,$78.72,$60.33,$0.00,$0.00,$60.33,$18.39,,upc_scan
+37397214,Jordan 3 Retro SP Nina Chanel Abney Bicoastal (Women's),Bicoastal/Black/Malachite/Fossil,14.5,FZ7974-300,08/28/2024,$257.00,$23.85,$233.15,$225.00,$0.00,$0.00,$225.00,$8.15,,manual
+37632125,Nike Killshot 2 Leather Sail Oil Grey Gum,Sail/Oil Grey-Gum Yellow,12,432997-121,08/28/2024,$71.00,$7.80,$63.20,$48.97,$0.00,$0.00,$48.97,$14.23,,upc_scan
+37455223,Jordan 4 Retro Vivid Sulfur (Women's),White/Coconut Milk/Vivid Sulfur/Anthracite,12,AQ9129-101,08/28/2024,$131.82,$0.00,$131.82,$104.97,$0.00,$0.00,$104.97,$26.85,alias,upc_scan
+34956947,Nike Dunk Low New Americana Washed Denim,White/Midnight Navy-Gym Red-Sail,8.5,FN6881-100,08/28/2024,$72.94,$0.00,$72.94,$53.99,$0.00,$0.00,$53.99,$18.95,alias,upc_scan
+35873583,Jordan 7 Retro White Infrared,White/Black/Crimson,13,CU9307-160,08/28/2024,$102.00,$9.34,$92.66,$89.99,$0.00,$0.00,$89.99,$2.67,,upc_scan
+35873582,Jordan 7 Retro White Infrared,White/Black/Crimson,13,CU9307-160,08/28/2024,$102.00,$10.67,$91.33,$89.99,$0.00,$0.00,$89.99,$1.34,,upc_scan
+35915414,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,10,DV2916-003/DV2917-003,08/28/2024,$84.00,$8.19,$75.81,$50.98,$0.00,$0.00,$50.98,$24.83,,upc_scan
+36730710,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,13,DR8884-101,08/28/2024,$83.00,$9.49,$73.51,$59.99,$0.00,$0.00,$59.99,$13.52,,manual
+37641268,New Balance 550 White Black,White/Black,8.5,BB550HA1,08/29/2024,$72.94,$0.00,$72.94,$60.33,$0.00,$0.00,$60.33,$12.61,alias,upc_scan
+35915417,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,9.5,DV2916-003/DV2917-003,08/29/2024,$73.81,$0.00,$73.81,$50.98,$0.00,$0.00,$50.98,$22.83,alias,upc_scan
+37641179,New Balance 550 White Grey,White/Grey,8.5,BB550PB/BB550PB1,08/30/2024,$72.94,$0.00,$72.94,$60.33,$0.00,$0.00,$60.33,$12.61,alias,upc_scan
+37632116,Nike Killshot 2 Leather Sail Oil Grey Gum,Sail/Oil Grey-Gum Yellow,9.5,432997-121,08/30/2024,$64.15,$0.00,$64.15,$48.97,$0.00,$0.00,$48.97,$15.18,alias,upc_scan
+37334485,Nike Air Force 1 Low '07 Black White Pebbled Leather,Black/White,9.5,CT2302-002,08/30/2024,$68.55,$0.00,$68.55,$31.47,$0.00,$0.00,$31.47,$37.08,alias,upc_scan
+34568230,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,13,DZ5485-105,08/30/2024,$74.69,$0.00,$74.69,$71.98,$0.00,$0.00,$71.98,$2.71,alias,upc_scan
+36637777,Nike Dunk Mid Premium Halloween Headless Horseman,Black/Smoke Grey/Campfire Orange/Black,10.5,FQ8749-010,08/30/2024,$103.00,$10.76,$92.24,$59.47,$0.00,$0.00,$59.47,$32.77,,upc_scan
+37334486,Nike Air Force 1 Low '07 Black White Pebbled Leather,Black/White,9.5,CT2302-002,08/31/2024,$68.55,$0.00,$68.55,$31.47,$0.00,$0.00,$31.47,$37.08,alias,upc_scan
+34490833,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,11,DR8884-101,08/31/2024,$72.48,$0.00,$72.48,$65.98,$0.00,$0.00,$65.98,$6.50,alias,upc_scan
+36730713,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,13,DR8884-101,08/31/2024,$81.00,$8.10,$72.90,$59.99,$0.00,$0.00,$59.99,$12.91,,manual
+37757181,Nike Blazer Low 77 Jumbo White Black Sail,White/White/Sail/Black,10.5,DN2158-101,09/01/2024,$58.00,$7.41,$50.59,$34.97,$0.00,$0.00,$34.97,$15.62,,upc_scan
+37409831,Nike Zoom GT Cut Academy White Picante Red,Summit White/Picante Red/Football Grey/Metallic Silver,10.5,FB2598-101/FB2599-101,09/01/2024,$57.00,$7.38,$49.62,$31.47,$0.00,$0.00,$31.47,$18.15,,manual
+37454336,Jordan 12 Retro Low Golf French Blue,White/French Blue-Metallic Silver,10,DH4120-101,09/02/2024,$104.00,$10.55,$93.45,$83.97,$0.00,$0.00,$83.97,$9.48,,upc_scan
+37690261,New Balance 550 White Grey,White/Grey,10.5,BB550PB/BB550PB1,09/02/2024,$72.94,$0.00,$72.94,$60.33,$0.00,$0.00,$60.33,$12.61,alias,upc_scan
+37690260,New Balance 550 White Grey,White/Grey,9.5,BB550PB/BB550PB1,09/02/2024,$72.94,$0.00,$72.94,$60.33,$0.00,$0.00,$60.33,$12.61,alias,upc_scan
+34417052,Nike Air Force 1 '07 Low Color of the Month University Red Gum,White/University Red/Gum Yellow,9.5,DJ3911-102,09/02/2024,$67.00,$7.68,$59.32,$40.47,$0.00,$0.00,$40.47,$18.85,,upc_scan
+37632121,Nike Killshot 2 Leather Sail Oil Grey Gum,Sail/Oil Grey-Gum Yellow,10,432997-121,09/03/2024,$56.25,$0.00,$56.25,$48.97,$0.00,$0.00,$48.97,$7.28,alias,upc_scan
+37455188,Nike Free Run 5.0 Black Off Noir,Black/Black/Off Noir,12,CZ1884-004,09/03/2024,$68.55,$0.00,$68.55,$59.99,$0.00,$0.00,$59.99,$8.56,alias,upc_scan
+37455176,Nike Free RN Flyknit 2018 Black White Ombre,White/Black,13,942838-101,09/03/2024,$75.00,$7.92,$67.08,$59.99,$0.00,$0.00,$59.99,$7.09,,upc_scan
+37757695,Nike Zoom LeBron 2 LX Beast,Maple/University Red/Black/Light Bone,9,DQ2439-200,09/04/2024,$100.00,$10.50,$89.50,$76.97,$0.00,$0.00,$76.97,$12.53,,manual
+37454332,Jordan 12 Retro Low Golf French Blue,White/French Blue-Metallic Silver,10,DH4120-101,09/04/2024,$95.78,$0.00,$95.78,$83.97,$0.00,$0.00,$83.97,$11.81,alias,upc_scan
+36730712,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,13,DR8884-101,09/04/2024,$77.34,$0.00,$77.34,$59.99,$0.00,$0.00,$59.99,$17.35,alias,manual
+37276109,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,12,DR8884-101,09/04/2024,$79.00,$8.52,$70.48,$59.99,$0.00,$0.00,$59.99,$10.49,,manual
+35873448,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,10,DV2916-003/DV2917-003,09/05/2024,$73.00,$8.19,$64.81,$50.98,$0.00,$0.00,$50.98,$13.83,,upc_scan
+37690262,New Balance 550 White Grey,White/Grey,10.5,BB550PB/BB550PB1,09/05/2024,$70.95,$0.00,$70.95,$60.33,$0.00,$0.00,$60.33,$10.62,alias,upc_scan
+35873474,Nike Air Max 1 '86 OG Golf White Black,White/Black,11,DV1403-110,09/05/2024,$64.78,$0.00,$64.78,$64.78,$0.00,$0.00,$64.78,$0.00,Returned to Nike,upc_scan
+28409132,Nike Air Max 1 PRM Corduroy Coral Stardust,Coral Stardust/Bright Coral/Oxen Brown,9,FB8915-600,09/06/2024,$50.00,$7.50,$42.50,$41.97,$0.00,$0.00,$41.97,$0.53,,upc_scan
+38032435,ASICS Gel-1130 White Clay Canyon,White/Clay Canyon,11,1201A256-113,09/06/2024,$108.62,$0.00,$108.62,$102.35,$0.00,$0.00,$102.35,$6.27,alias,manual
+37757180,Nike Blazer Low 77 Jumbo White Black Sail,White/White/Sail/Black,10.5,DN2158-101,09/06/2024,$56.00,$7.12,$48.88,$34.97,$0.00,$0.00,$34.97,$13.91,,upc_scan
+37971139,Nike Air Force 1 High White,White/White,12,315121-115/CW2290-111,09/06/2024,$109.00,$10.80,$98.20,$66.47,$0.00,$0.00,$66.47,$31.73,,manual
+37970689,Nike Air Force 1 High Triple Black,Black/Black-Black,12,315121-032/CW2290-001,09/07/2024,$137.53,$0.00,$137.53,$66.47,$0.00,$0.00,$66.47,$71.06,alias,manual
+37757178,Nike Blazer Low 77 Jumbo White Black Sail,White/White/Sail/Black,10.5,DN2158-101,09/07/2024,$57.82,$0.00,$57.82,$34.97,$0.00,$0.00,$34.97,$22.85,alias,upc_scan
+34417050,Nike Air Force 1 '07 Low Color of the Month University Red Gum,White/University Red/Gum Yellow,9.5,DJ3911-102,09/07/2024,$67.00,$7.45,$59.55,$40.47,$0.00,$0.00,$40.47,$19.08,,upc_scan
+37970835,Nike Air Force 1 High '07 Black White,Black/White,11,CT2303-002,09/07/2024,$74.00,$7.66,$66.34,$52.47,$0.00,$0.00,$52.47,$13.87,,upc_scan
+37970191,Nike Air Force 1 Low '07 White Black Pebbled Leather,White/Black,11,CT2302-100,09/08/2024,$76.00,$7.72,$68.28,$55.97,$0.00,$0.00,$55.97,$12.31,,upc_scan
+38144247,Gucci Agrado Grg Rubber Slide Black Blue Green Red,Black,11,692381-J8710-8499,09/08/2024,$138.41,$0.00,$138.41,$123.34,$0.00,$0.00,$123.34,$15.07,alias,manual
+37757177,Nike Blazer Low 77 Jumbo White Black Sail,White/White/Sail/Black,10.5,DN2158-101,09/08/2024,$56.93,$0.00,$56.93,$34.97,$0.00,$0.00,$34.97,$21.96,alias,upc_scan
+37970688,Nike Air Force 1 High Triple Black,Black/Black-Black,10.5,315121-032/CW2290-001,09/09/2024,$112.00,$11.08,$100.92,$66.47,$0.00,$0.00,$66.47,$34.45,,manual
+38144280,adidas x Gucci Monogram Slide Red,Red,9,702412-UU010-6560,09/09/2024,$144.00,$14.12,$129.88,$101.89,$0.00,$0.00,$101.89,$27.99,,manual
+38036970,Microsoft Xbox Series S (US Plug) RRS-00001 / RRS-00005 White,White,ONE SIZE,"",09/09/2024,$289.00,$31.46,$257.54,$323.24,$0.00,$0.00,$323.24,-$65.70,,upc_scan
+36638172,Nike React Pegasus Trail 4 Black Dark Grey,Black/Dark Grey/Wolf Grey/Aura,12,DJ6158-001,09/09/2024,$65.00,$2.39,$62.61,$59.47,$0.00,$0.00,$59.47,$3.14,,upc_scan
+35619583,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,12,DZ5485-105,09/09/2024,$80.00,$2.80,$77.20,$59.98,$0.00,$0.00,$59.98,$17.22,,upc_scan
+38210498,Jordan 1 Retro Low OG University Red,White/University Red-White,10.5,CZ0790-161,09/09/2024,$57.00,$2.11,$54.89,$45.47,$0.00,$0.00,$45.47,$9.42,,upc_scan
+38210495,Jordan 1 Retro Low OG University Red,White/University Red-White,8,CZ0790-161,09/09/2024,$60.00,$2.24,$57.76,$45.47,$0.00,$0.00,$45.47,$12.29,,upc_scan
+34417045,Nike Air Force 1 '07 Low Color of the Month University Red Gum,White/University Red/Gum Yellow,10,DJ3911-102,09/10/2024,$62.00,$2.26,$59.74,$40.47,$0.00,$0.00,$40.47,$19.27,,upc_scan
+38210493,Jordan 1 Retro Low OG University Red,White/University Red-White,12,CZ0790-161,09/10/2024,$64.00,$2.32,$61.68,$45.47,$0.00,$0.00,$45.47,$16.21,,upc_scan
+38210494,Jordan 1 Retro Low OG University Red,White/University Red-White,8,CZ0790-161,09/10/2024,$64.00,$2.32,$61.68,$45.47,$0.00,$0.00,$45.47,$16.21,,upc_scan
+38144245,Gucci Agrado Grg Rubber Slide Black Blue Green Red,Black,8,692381-J8710-8499,09/10/2024,$148.00,$4.84,$143.16,$123.34,$0.00,$0.00,$123.34,$19.82,,manual
+38214978,New Balance 990v6 MiUSA Cream,Mindful Grey/Bone,7.5,M990SS6,09/10/2024,$95.00,$3.25,$91.75,$75.41,$0.00,$0.00,$75.41,$16.34,,manual
+37970684,Nike Air Force 1 High Triple Black,Black/Black-Black,11.5,315121-032/CW2290-001,09/10/2024,$110.38,$0.00,$110.38,$66.47,$0.00,$0.00,$66.47,$43.91,alias,manual
+37632122,Nike Killshot 2 Leather Sail Oil Grey Gum,Sail/Oil Grey-Gum Yellow,11.5,432997-121,09/10/2024,$67.45,$0.00,$67.45,$48.97,$0.00,$0.00,$48.97,$18.48,alias,upc_scan
+35873674,Jordan 1 Retro Low OG University Red,White/University Red-White,11,CZ0790-161,09/10/2024,$59.98,$0.00,$59.98,$59.98,$0.00,$0.00,$59.98,$0.00,Returned to Nike,upc_scan
+35873672,Jordan 1 Retro Low OG University Red,White/University Red-White,11,CZ0790-161,09/10/2024,$59.98,$0.00,$59.98,$59.98,$0.00,$0.00,$59.98,$0.00,Returned to Nike,upc_scan
+35873671,Jordan 1 Retro Low OG University Red,White/University Red-White,11,CZ0790-161,09/10/2024,$59.98,$0.00,$59.98,$59.98,$0.00,$0.00,$59.98,$0.00,Returned to Nike,upc_scan
+35873670,Jordan 1 Retro Low OG University Red,White/University Red-White,11,CZ0790-161,09/10/2024,$59.98,$0.00,$59.98,$59.98,$0.00,$0.00,$59.98,$0.00,Returned to Nike,upc_scan
+35873669,Jordan 1 Retro Low OG University Red,White/University Red-White,11,CZ0790-161,09/10/2024,$59.98,$0.00,$59.98,$59.98,$0.00,$0.00,$59.98,$0.00,Returned to Nike,upc_scan
+35873668,Jordan 1 Retro Low OG University Red,White/University Red-White,11.5,CZ0790-161,09/10/2024,$59.98,$0.00,$59.98,$59.98,$0.00,$0.00,$59.98,$0.00,Returned to Nike,upc_scan
+35873667,Jordan 1 Retro Low OG University Red,White/University Red-White,11.5,CZ0790-161,09/10/2024,$59.98,$0.00,$59.98,$59.98,$0.00,$0.00,$59.98,$0.00,Returned to Nike,upc_scan
+37454333,Jordan 12 Retro Low Golf French Blue,White/French Blue-Metallic Silver,10,DH4120-101,09/10/2024,$107.00,$3.61,$103.39,$83.97,$0.00,$0.00,$83.97,$19.42,,upc_scan
+38210496,Jordan 1 Retro Low OG University Red,White/University Red-White,10,CZ0790-161,09/10/2024,$55.00,$7.05,$47.95,$45.47,$0.00,$0.00,$45.47,$2.48,,upc_scan
+37454335,Jordan 12 Retro Low Golf French Blue,White/French Blue-Metallic Silver,10,DH4120-101,09/10/2024,$107.00,$10.57,$96.43,$83.97,$0.00,$0.00,$83.97,$12.46,,upc_scan
+38144246,Gucci Agrado Grg Rubber Slide Black Blue Green Red,Black,10,692381-J8710-8499,09/11/2024,$152.00,$15.12,$136.88,$123.34,$0.00,$0.00,$123.34,$13.54,,manual
+38210500,Jordan 1 Retro Low OG University Red,White/University Red-White,9.5,CZ0790-161,09/11/2024,$56.06,$0.00,$56.06,$45.47,$0.00,$0.00,$45.47,$10.59,alias,upc_scan
+38142974,Yeezy Gap Logo No Seam Tee Black,Black,S,"",09/11/2024,$41.17,$0.00,$41.17,$53.55,$0.00,$0.00,$53.55,-$12.38,alias,manual
+35873445,Nike KD 16 NRG Boardroom,Black/Dark Smoke Grey/Coconut Milk/Black,10,DV2916-003/DV2917-003,09/11/2024,$69.20,$0.00,$69.20,$50.98,$0.00,$0.00,$50.98,$18.22,alias,upc_scan
+37757179,Nike Blazer Low 77 Jumbo White Black Sail,White/White/Sail/Black,10.5,DN2158-101,09/11/2024,$56.00,$7.35,$48.65,$34.97,$0.00,$0.00,$34.97,$13.68,,upc_scan
+38261757,New Balance 990v6 Triple Black,Black,10,U990BB6,09/12/2024,$150.00,$14.92,$135.08,$113.13,$0.00,$0.00,$113.13,$21.95,,upc_scan
+37971137,Nike Air Force 1 High White,White/White,11,315121-115/CW2290-111,09/12/2024,$74.45,$0.00,$74.45,$66.47,$0.00,$0.00,$66.47,$7.98,alias,manual
+37455323,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,12,DR8884-101,09/12/2024,$81.72,$0.00,$81.72,$59.99,$0.00,$0.00,$59.99,$21.73,alias,upc_scan
+38353428,Nike Giannis Immortality 3 Triple Black,Black/Black/Black,9,DZ7533-001,09/12/2024,$45.00,$7.03,$37.97,$27.98,$0.00,$0.00,$27.98,$9.99,,upc_scan
+38353832,Nike Giannis Immortality 3 Triple Black,Black/Black/Black,12,DZ7533-001,09/12/2024,$40.00,$6.87,$33.13,$27.98,$0.00,$0.00,$27.98,$5.15,,upc_scan
+34568226,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,12,DZ5485-105,09/12/2024,$80.00,$8.27,$71.73,$71.98,$0.00,$0.00,$71.98,-$0.25,,upc_scan
+35873471,Nike Air Max 1 '86 OG Golf White Black,White/Black,9,DV1403-110,09/12/2024,$92.00,$9.41,$82.59,$64.78,$0.00,$0.00,$64.78,$17.81,,upc_scan
+37970190,Nike Air Force 1 Low '07 White Black Pebbled Leather,White/Black,11,CT2302-100,09/12/2024,$77.00,$7.99,$69.01,$55.97,$0.00,$0.00,$55.97,$13.04,,upc_scan
+37455322,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,12,DR8884-101,09/13/2024,$80.84,$0.00,$80.84,$59.99,$0.00,$0.00,$59.99,$20.85,alias,upc_scan
+35619582,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,12,DZ5485-105,09/13/2024,$72.70,$0.00,$72.70,$59.98,$0.00,$0.00,$59.98,$12.72,alias,upc_scan
+34568235,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,11,DZ5485-105,09/13/2024,$75.34,$0.00,$75.34,$71.98,$0.00,$0.00,$71.98,$3.36,alias,upc_scan
+38318404,New Balance 990v6 Triple Black,Black,8,U990BB6,09/13/2024,$159.00,$15.78,$143.22,$113.13,$0.00,$0.00,$113.13,$30.09,,upc_scan
+38362203,New Balance 990v6 Triple Black,Black,10,U990BB6,09/13/2024,$150.00,$14.92,$135.08,$113.13,$0.00,$0.00,$113.13,$21.95,,upc_scan
+38261754,New Balance 990v6 Triple Black,Black,9.5,U990BB6,09/14/2024,$148.00,$14.73,$133.27,$113.13,$0.00,$0.00,$113.13,$20.14,,upc_scan
+37641175,New Balance 550 White Grey,White/Grey,11,BB550PB/BB550PB1,09/14/2024,$74.45,$0.00,$74.45,$60.33,$0.00,$0.00,$60.33,$14.12,alias,upc_scan
+36612764,Jordan 4 Retro Cacao Wow (GS),Cacao Wow/Geode Teal/Ale Brown/Twine/Sail/Luminous Green,7,FB2214-200,09/14/2024,$172.57,$0.00,$172.57,$160.00,$0.00,$0.00,$160.00,$12.57,alias,upc_scan
+34253621,Jordan 2 Retro Origins,White/Fire Red-Fir-Sail-Cement Grey,12,DR8884-101,09/14/2024,$80.84,$0.00,$80.84,$65.98,$0.00,$0.00,$65.98,$14.86,alias,upc_scan
+38485810,New Balance 990v6 MiUSA True Camo,True Camo/True Camo,10,U990TB6,09/15/2024,$130.00,$13.02,$116.98,$113.13,$0.00,$0.00,$113.13,$3.85,,upc_scan
+38261753,New Balance 990v6 Triple Black,Black,9.5,U990BB6,09/15/2024,$142.00,$14.16,$127.84,$113.13,$0.00,$0.00,$113.13,$14.71,,upc_scan
+38261756,New Balance 990v6 Triple Black,Black,9,U990BB6,09/15/2024,$179.00,$17.68,$161.32,$113.13,$0.00,$0.00,$113.13,$48.19,,upc_scan
+38485809,New Balance 990v6 MiUSA True Camo,True Camo/True Camo,9.5,U990TB6,09/15/2024,$137.53,$0.00,$137.53,$113.13,$0.00,$0.00,$113.13,$24.40,alias,upc_scan
+36637775,Nike Dunk Mid Premium Halloween Headless Horseman,Black/Smoke Grey/Campfire Orange/Black,10.5,FQ8749-010,09/15/2024,$77.95,$0.00,$77.95,$59.47,$0.00,$0.00,$59.47,$18.48,alias,upc_scan
+38261755,New Balance 990v6 Triple Black,Black,9,U990BB6,09/15/2024,$178.00,$17.59,$160.41,$113.13,$0.00,$0.00,$113.13,$47.28,,upc_scan
+37757183,Nike Blazer Low 77 Jumbo White Black Sail,White/White/Sail/Black,9,DN2158-101,09/15/2024,$65.00,$7.62,$57.38,$34.97,$0.00,$0.00,$34.97,$22.41,,upc_scan
+38210492,Jordan 1 Retro Low OG University Red,White/University Red-White,12,CZ0790-161,09/15/2024,$62.00,$7.53,$54.47,$45.47,$0.00,$0.00,$45.47,$9.00,,upc_scan
+38210497,Jordan 1 Retro Low OG University Red,White/University Red-White,10.5,CZ0790-161,09/15/2024,$61.00,$7.50,$53.50,$45.47,$0.00,$0.00,$45.47,$8.03,,upc_scan
+38354894,Jordan 1 Retro Low OG University Red,White/University Red-White,11.5,CZ0790-161,09/15/2024,$62.00,$7.53,$54.47,$45.47,$0.00,$0.00,$45.47,$9.00,,manual
+35619555,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,13,DZ5485-105,09/16/2024,$80.00,$8.27,$71.73,$41.98,$0.00,$0.00,$41.98,$29.75,,upc_scan
+38210499,Jordan 1 Retro Low OG University Red,White/University Red-White,8.5,CZ0790-161,09/16/2024,$56.93,$0.00,$56.93,$45.47,$0.00,$0.00,$45.47,$11.46,alias,upc_scan
+38144100,adidas x Gucci GG Platform Sandal Blue,Blue/White,11,702412UU0104160,09/16/2024,$147.16,$0.00,$147.16,$101.89,$0.00,$0.00,$101.89,$45.27,alias,manual
+38485812,New Balance 990v6 Triple Black,Black,9.5,U990BB6,09/16/2024,$142.00,$14.16,$127.84,$113.13,$0.00,$0.00,$113.13,$14.71,,upc_scan
+34568231,Jordan 1 Retro High OG Mauve,White/Sky J Mauve/White,13,DZ5485-105,09/16/2024,$80.00,$8.27,$71.73,$71.98,$0.00,$0.00,$71.98,-$0.25,,upc_scan
+37970685,Nike Air Force 1 High Triple Black,Black/Black-Black,11.5,315121-032/CW2290-001,09/16/2024,$127.00,$13.40,$113.60,$66.47,$0.00,$0.00,$66.47,$47.13,,manual
+38557683,Jordan 1 Elevate Low SE Silver Toe (Women's),Metallic Silver/Black/White/Onyx,8.5,DQ8561-001,09/16/2024,$65.00,$7.62,$57.38,$49.98,$0.00,$0.00,$49.98,$7.40,,upc_scan
+38565299,New Balance 990v6 MiUSA Cream,Mindful Grey/Bone,7,M990SS6,09/17/2024,$120.00,$12.07,$107.93,$75.41,$0.00,$0.00,$75.41,$32.52,,upc_scan
+38485808,New Balance 990v6 MiUSA True Camo,True Camo/True Camo,10.5,U990TB6,09/17/2024,$145.00,$15.12,$129.88,$113.13,$0.00,$0.00,$113.13,$16.75,,upc_scan
+37757696,Nike Zoom LeBron 2 LX Beast,Maple/University Red/Black/Light Bone,10,DQ2439-200,09/17/2024,$86.10,$0.00,$86.10,$76.97,$0.00,$0.00,$76.97,$9.13,alias,manual
+36784409,Nike Air Force 1 Mid SP Off-White Varsity Maize,White/White/Varsity Maize,12,DR0500-101,09/17/2024,$97.00,$10.55,$86.45,$89.99,$0.00,$0.00,$89.99,-$3.54,,upc_scan
+38582236,Yeezy Gap Dove 3/4 Sleeve Tee Dark Blue,Dark Blue,S,"",09/18/2024,$48.17,$0.00,$48.17,$14.59,$0.00,$0.00,$14.59,$33.58,alias,upc_scan
+37455174,Nike Free RN Flyknit 2018 Black White Ombre,White/Black,12,942838-101,09/18/2024,$71.00,$7.80,$63.20,$59.99,$0.00,$0.00,$59.99,$3.21,,upc_scan
+37454334,Jordan 12 Retro Low Golf French Blue,White/French Blue-Metallic Silver,10,DH4120-101,09/19/2024,$107.00,$10.84,$96.16,$83.97,$0.00,$0.00,$83.97,$12.19,,upc_scan
+38807641,Yeezy Gap Engineered by Balenciaga Dove Hoodie Black,Black,XXL,"",09/19/2024,$127.90,$0.00,$127.90,$21.55,$0.00,$0.00,$21.55,$106.35,alias,new_item_addition_flow
+38566384,adidas Yeezy Boost 700 MNVN Honey Flux,Honey Flux/Honey Flux/Honey Flux,11,GZ0717,09/19/2024,$102.49,$0.00,$102.49,$64.34,$0.00,$0.00,$64.34,$38.15,alias,new_item_addition_flow
+38566190,adidas Yeezy Boost 700 MNVN Honey Flux,Honey Flux/Honey Flux/Honey Flux,11.5,GZ0717,09/19/2024,$85.85,$0.00,$85.85,$64.34,$0.00,$0.00,$64.34,$21.51,alias,upc_scan
+37971138,Nike Air Force 1 High White,White/White,11,315121-115/CW2290-111,09/19/2024,$76.20,$0.00,$76.20,$66.47,$0.00,$0.00,$66.47,$9.73,alias,manual
+34576739,Nike Air Force 1 '07 Low Color of the Month University Red Gum,White/University Red/Gum Yellow,10,DJ3911-102,09/19/2024,$70.00,$7.77,$62.23,$48.47,$0.00,$0.00,$48.47,$13.76,,upc_scan
+38362427,New Balance 550 White Grey,White/Grey,11.5,BB550PB/BB550PB1,09/19/2024,$91.00,$9.32,$81.68,$60.33,$0.00,$0.00,$60.33,$21.35,,upc_scan
+37455173,Nike Free RN Flyknit 2018 Black White Ombre,White/Black,12,942838-101,09/20/2024,$71.00,$7.80,$63.20,$59.99,$0.00,$0.00,$59.99,$3.21,,upc_scan
+38582278,Yeezy Gap Dove 3/4 Sleeve Tee Dark Grey,Dark Grey,M,"",09/20/2024,$48.17,$0.00,$48.17,$14.59,$0.00,$0.00,$14.59,$33.58,alias,upc_scan
+38565041,adidas Yeezy Boost 700 MNVN Honey Flux,Honey Flux/Honey Flux/Honey Flux,8.5,GZ0717,09/20/2024,$79.70,$0.00,$79.70,$64.34,$0.00,$0.00,$64.34,$15.36,alias,upc_scan
+38564885,adidas Yeezy Boost 700 MNVN Honey Flux,Honey Flux/Honey Flux/Honey Flux,11.5,GZ0717,09/20/2024,$86.72,$0.00,$86.72,$64.34,$0.00,$0.00,$64.34,$22.38,alias,upc_scan
+38715268,Nike P-6000 Black Cool Grey,Black/White/Cool Grey,8.5,CD6404-003,09/20/2024,$71.00,$7.80,$63.20,$38.47,$0.00,$0.00,$38.47,$24.73,,manual
+37970189,Nike Air Force 1 Low '07 White Black Pebbled Leather,White/Black,11,CT2302-100,09/21/2024,$77.00,$7.99,$69.01,$55.97,$0.00,$0.00,$55.97,$13.04,,upc_scan
+37971136,Nike Air Force 1 High White,White/White,11.5,315121-115/CW2290-111,09/22/2024,$93.00,$10.17,$82.83,$66.47,$0.00,$0.00,$66.47,$16.36,,manual
+38144099,adidas x Gucci GG Platform Sandal Blue,Blue/White,10,702412UU0104160,09/22/2024,$128.00,$12.83,$115.17,$101.89,$0.00,$0.00,$101.89,$13.28,,manual
+38565160,New Balance 550 White Grey,White/Grey,11.5,BB550PB/BB550PB1,09/22/2024,$94.00,$9.60,$84.40,$60.33,$0.00,$0.00,$60.33,$24.07,,upc_scan
+38565161,New Balance 550 White Grey,White/Grey,11.5,BB550PB/BB550PB1,09/23/2024,$93.00,$9.51,$83.49,$60.33,$0.00,$0.00,$60.33,$23.16,,upc_scan
+37641263,New Balance 550 White Black,White/Black,8.5,BB550HA1,09/23/2024,$73.58,$0.00,$73.58,$60.33,$0.00,$0.00,$60.33,$13.25,alias,upc_scan
+38565158,New Balance 550 White Grey,White/Grey,11.5,BB550PB/BB550PB1,09/23/2024,$93.00,$9.51,$83.49,$60.33,$0.00,$0.00,$60.33,$23.16,,upc_scan
+38796122,Nike Streakfly Volt,Volt/Bright Crimson/Volt/Black,12,DJ6566-700,09/23/2024,$85.00,$8.75,$76.25,$69.98,$0.00,$0.00,$69.98,$6.27,,upc_scan
+38144244,Gucci Agrado Grg Rubber Slide Black Blue Green Red,Black,8,692381-J8710-8499,09/23/2024,$140.00,$13.97,$126.03,$123.34,$0.00,$0.00,$123.34,$2.69,,manual
+38354895,Jordan 1 Retro Low OG University Red,White/University Red-White,8,CZ0790-161,09/23/2024,$66.00,$7.65,$58.35,$45.47,$0.00,$0.00,$45.47,$12.88,,manual
+37455179,Nike Free RN Flyknit 2018 Black White Ombre,White/Black,9.5,942838-101,09/24/2024,$74.00,$7.89,$66.11,$59.99,$0.00,$0.00,$59.99,$6.12,,upc_scan
+38799488,Nike Free Run 5.0 Black Off Noir,Black/Black/Off Noir,11,CZ1884-004,09/24/2024,$65.00,$7.62,$57.38,$48.99,$0.00,$0.00,$48.99,$8.39,,upc_scan
+38799496,Nike Free Run 5.0 Black Off Noir,Black/Black/Off Noir,10.5,CZ1884-004,09/24/2024,$65.69,$0.00,$65.69,$48.99,$0.00,$0.00,$48.99,$16.70,alias,upc_scan
+38214977,New Balance 990v6 MiUSA Cream,Mindful Grey/Bone,7.5,M990SS6,09/24/2024,$126.00,$4.45,$121.55,$75.41,$0.00,$0.00,$75.41,$46.14,,manual
+38261752,New Balance 990v6 Triple Black,Black,8.5,U990BB6,09/24/2024,$140.00,$4.87,$135.13,$113.13,$0.00,$0.00,$113.13,$22.00,,upc_scan
+37455178,Nike Free RN Flyknit 2018 Black White Ombre,White/Black,9.5,942838-101,09/24/2024,$79.00,$3.05,$75.95,$59.99,$0.00,$0.00,$59.99,$15.96,,upc_scan
+38910730,Yeezy Gap Dove 3/4 Sleeve Tee Dark Blue,Dark Blue,S,"",09/25/2024,$48.17,$0.00,$48.17,$31.25,$0.00,$0.00,$31.25,$16.92,alias,upc_scan
+38806136,ASICS Gel-1130 White Clay Canyon,White/Clay Canyon,10.5,1201A256-113,09/25/2024,$107.74,$0.00,$107.74,$100.74,$0.00,$0.00,$100.74,$7.00,alias,manual
+38582277,Yeezy Gap Dove 3/4 Sleeve Tee Dark Grey,Dark Grey,L,"",09/25/2024,$48.17,$0.00,$48.17,$14.59,$0.00,$0.00,$14.59,$33.58,alias,upc_scan
+38565490,New Balance 990v6 MiUSA True Camo,True Camo/True Camo,11,U990TB6,09/25/2024,$138.41,$0.00,$138.41,$113.13,$0.00,$0.00,$113.13,$25.28,alias,upc_scan
+38565157,New Balance 550 White Grey,White/Grey,11.5,BB550PB/BB550PB1,09/25/2024,$73.58,$0.00,$73.58,$60.33,$0.00,$0.00,$60.33,$13.25,alias,upc_scan
+37455177,Nike Free RN Flyknit 2018 Black White Ombre,White/Black,9.5,942838-101,09/25/2024,$79.00,$3.05,$75.95,$59.99,$0.00,$0.00,$59.99,$15.96,,upc_scan
+37641180,New Balance 550 White Grey,White/Grey,8.5,BB550PB/BB550PB1,09/25/2024,$72.00,$2.83,$69.17,$60.33,$0.00,$0.00,$60.33,$8.84,,upc_scan
+38800544,Nike Free RN 2018 White,White/Black,12,942836-100,09/25/2024,$67.00,$8.34,$58.66,$48.99,$0.00,$0.00,$48.99,$9.67,,upc_scan
+38897136,Nike Metcon 7 AMP Enigma Stone,Enigma Stone/Black/Dutch Blue/Boarder Blue,13,DM0259-001,09/25/2024,$55.00,$7.98,$47.02,$41.98,$0.00,$0.00,$41.98,$5.04,,upc_scan
+37641172,New Balance 550 White Grey,White/Grey,10,BB550PB/BB550PB1,09/25/2024,$72.00,$7.83,$64.17,$60.33,$0.00,$0.00,$60.33,$3.84,,upc_scan
+38906674,Yeezy Gap Engineered by Balenciaga Dove Hoodie Black,Black,XXL,"",09/26/2024,$115.00,$14.93,$100.07,$34.11,$0.00,$0.00,$34.11,$65.96,,upc_scan
+37970188,Nike Air Force 1 Low '07 White Black Pebbled Leather,White/Black,11,CT2302-100,09/26/2024,$77.00,$7.99,$69.01,$55.97,$0.00,$0.00,$55.97,$13.04,,upc_scan
+38910644,Yeezy Gap Engineered by Balenciaga Dove Hoodie Black,Black,XXL,"",09/26/2024,$115.00,$12.26,$102.74,$31.25,$0.00,$0.00,$31.25,$71.49,,upc_scan
+36612767,Jordan 4 Retro Cacao Wow (GS),Cacao Wow/Geode Teal/Ale Brown/Twine/Sail/Luminous Green,7,FB2214-200,09/26/2024,$160.00,$0.00,$160.00,$160.00,$0.00,$0.00,$160.00,$0.00,Returned to Nike,upc_scan
+36612766,Jordan 4 Retro Cacao Wow (GS),Cacao Wow/Geode Teal/Ale Brown/Twine/Sail/Luminous Green,7,FB2214-200,09/26/2024,$160.00,$0.00,$160.00,$160.00,$0.00,$0.00,$160.00,$0.00,Returned to Nike,upc_scan
+36612765,Jordan 4 Retro Cacao Wow (GS),Cacao Wow/Geode Teal/Ale Brown/Twine/Sail/Luminous Green,7,FB2214-200,09/26/2024,$160.00,$0.00,$160.00,$160.00,$0.00,$0.00,$160.00,$0.00,Returned to Nike,upc_scan
+35873579,Jordan 7 Retro White Infrared,White/Black/Crimson,9,CU9307-160,09/26/2024,$89.99,$0.00,$89.99,$89.99,$0.00,$0.00,$89.99,$0.00,Returned to Nike,upc_scan
+35873576,Jordan 7 Retro White Infrared,White/Black/Crimson,9,CU9307-160,09/26/2024,$89.99,$0.00,$89.99,$89.99,$0.00,$0.00,$89.99,$0.00,Returned to Nike,upc_scan
+35873577,Jordan 7 Retro White Infrared,White/Black/Crimson,9,CU9307-160,09/26/2024,$89.99,$0.00,$89.99,$89.99,$0.00,$0.00,$89.99,$0.00,Returned to Nike,upc_scan
+35873578,Jordan 7 Retro White Infrared,White/Black/Crimson,9,CU9307-160,09/26/2024,$89.99,$0.00,$89.99,$89.99,$0.00,$0.00,$89.99,$0.00,Returned to Nike,upc_scan
+35873581,Jordan 7 Retro White Infrared,White/Black/Crimson,9,CU9307-160,09/26/2024,$89.99,$0.00,$89.99,$89.99,$0.00,$0.00,$89.99,$0.00,Returned to Nike,upc_scan
+38910705,Yeezy Gap Dove 3/4 Sleeve Tee Dark Grey,Dark Grey,M,"",09/26/2024,$48.17,$0.00,$48.17,$31.25,$0.00,$0.00,$31.25,$16.92,alias,upc_scan
+37641176,New Balance 550 White Grey,White/Grey,11,BB550PB/BB550PB1,09/26/2024,$70.95,$0.00,$70.95,$60.33,$0.00,$0.00,$60.33,$10.62,alias,upc_scan
+35978381,Jordan 1 Retro High OG Latte (Women's),Black/Legend Medium Brown/White/Sail,5.5,FD2596-021,09/26/2024,$86.97,$0.00,$86.97,$101.98,$0.00,$0.00,$101.98,-$15.01,alias,upc_scan
+37566465,New Balance 550 White Grey,White/Grey,10.5,BB550PB/BB550PB1,09/26/2024,$77.00,$7.99,$69.01,$60.33,$0.00,$0.00,$60.33,$8.68,,upc_scan
+36637776,Nike Dunk Mid Premium Halloween Headless Horseman,Black/Smoke Grey/Campfire Orange/Black,10.5,FQ8749-010,09/26/2024,$96.00,$9.79,$86.21,$59.47,$0.00,$0.00,$59.47,$26.74,,upc_scan
+38906671,Yeezy Gap Dove Longsleeve Tee Black,Black,M,"",09/27/2024,$58.00,$8.07,$49.93,$34.11,$0.00,$0.00,$34.11,$15.82,,upc_scan
+39058633,Yeezy Gap Engineered by Balenciaga Dove Hoodie Black,Black,XXL,"",09/27/2024,$119.14,$0.00,$119.14,$53.88,$0.00,$0.00,$53.88,$65.26,alias,upc_scan
+38910706,Yeezy Gap Dove 3/4 Sleeve Tee Dark Grey,Dark Grey,M,"",09/27/2024,$48.17,$0.00,$48.17,$31.25,$0.00,$0.00,$31.25,$16.92,alias,upc_scan
+38906673,Yeezy Gap Dove 3/4 Sleeve Tee Dark Grey,Dark Grey,M,"",09/27/2024,$48.17,$0.00,$48.17,$34.11,$0.00,$0.00,$34.11,$14.06,alias,upc_scan
+38906669,Yeezy Gap Dove 3/4 Sleeve Tee Dark Blue,Dark Blue,M,"",09/27/2024,$48.17,$0.00,$48.17,$34.11,$0.00,$0.00,$34.11,$14.06,alias,upc_scan
+38806121,ASICS Gel-1130 White Cloud Grey,White/Cloud Grey,9.5,1201A256-118,09/27/2024,$109.49,$0.00,$109.49,$100.74,$0.00,$0.00,$100.74,$8.75,alias,manual
+35978382,Jordan 1 Retro High OG Latte (Women's),Black/Legend Medium Brown/White/Sail,5.5,FD2596-021,09/27/2024,$86.10,$0.00,$86.10,$101.98,$0.00,$0.00,$101.98,-$15.88,alias,upc_scan
+36784407,Nike Air Force 1 Mid SP Off-White Varsity Maize,White/White/Varsity Maize,12,DR0500-101,09/27/2024,$94.00,$12.94,$81.06,$89.99,$0.00,$0.00,$89.99,-$8.93,,upc_scan
+37690259,New Balance 550 White Grey,White/Grey,10,BB550PB/BB550PB1,09/28/2024,$72.00,$7.83,$64.17,$60.33,$0.00,$0.00,$60.33,$3.84,,upc_scan
+38910731,Yeezy Gap Dove 3/4 Sleeve Tee Dark Blue,Dark Blue,S,"",09/28/2024,$48.17,$0.00,$48.17,$31.25,$0.00,$0.00,$31.25,$16.92,alias,upc_scan
+38778680,adidas Yeezy Boost 700 MNVN Honey Flux,Honey Flux/Honey Flux/Honey Flux,10.5,GZ0717,09/28/2024,$86.72,$0.00,$86.72,$64.34,$0.00,$0.00,$64.34,$22.38,alias,upc_scan
+39058659,Yeezy Gap Engineered by Balenciaga Dove Hoodie Black,Black,XXL,"",09/29/2024,$117.38,$0.00,$117.38,$53.88,$0.00,$0.00,$53.88,$63.50,alias,upc_scan
+38778987,adidas Ultra Boost Light Triple White,White/White/Crystal White,9,GY9350,09/29/2024,$69.20,$0.00,$69.20,$42.60,$0.00,$0.00,$42.60,$26.60,alias,upc_scan
+38564722,adidas Yeezy Boost 700 MNVN Honey Flux,Honey Flux/Honey Flux/Honey Flux,12,GZ0717,09/29/2024,$89.35,$0.00,$89.35,$64.34,$0.00,$0.00,$64.34,$25.01,alias,upc_scan
+37641174,New Balance 550 White Grey,White/Grey,12,BB550PB/BB550PB1,09/30/2024,$79.00,$8.19,$70.81,$60.33,$0.00,$0.00,$60.33,$10.48,,upc_scan
+38910701,Yeezy Gap Engineered by Balenciaga Dove Hoodie Black,Black,XXL,"",09/30/2024,$103.00,$11.12,$91.88,$31.25,$0.00,$0.00,$31.25,$60.63,,upc_scan
+37641178,New Balance 550 White Grey,White/Grey,8.5,BB550PB/BB550PB1,09/30/2024,$72.00,$7.83,$64.17,$60.33,$0.00,$0.00,$60.33,$3.84,,upc_scan
+37334493,Nike Air Force 1 Low '07 Black White Pebbled Leather,Black/White,10.5,CT2302-002,09/30/2024,$79.00,$8.19,$70.81,$31.47,$0.00,$0.00,$31.47,$39.34,,upc_scan
+37641173,New Balance 550 White Grey,White/Grey,12,BB550PB/BB550PB1,09/30/2024,$92.00,$9.41,$82.59,$60.33,$0.00,$0.00,$60.33,$22.26,,upc_scan
+38906670,Yeezy Gap Dove 3/4 Sleeve Tee Dark Blue,Dark Blue,L,"",10/01/2024,$48.17,$0.00,$48.17,$34.11,$0.00,$0.00,$34.11,$14.06,alias,upc_scan
+36748821,Nike Air Force 1 Mid SP Off-White Varsity Maize,White/White/Varsity Maize,13,DR0500-101,10/01/2024,$97.00,$13.22,$83.78,$89.99,$0.00,$0.00,$89.99,-$6.21,,upc_scan
+39126380,adidas Yeezy 450 Resin,Resin/Resin/Resin,10,GY4110,10/01/2024,$59.00,$5.77,$53.23,$32.33,$0.00,$0.00,$32.33,$20.90,,upc_scan
+39126781,Yeezy Gap Engineered by Balenciaga Dove Hoodie Black,Black,XXL,"",10/01/2024,$105.00,$7.15,$97.85,$53.88,$0.00,$0.00,$53.88,$43.97,,upc_scan
+38778988,adidas Ultra Boost Light Triple White,White/White/Crystal White,9,GY9350,10/01/2024,$71.00,$6.13,$64.87,$42.60,$0.00,$0.00,$42.60,$22.27,,upc_scan
+37690258,New Balance 550 White Grey,White/Grey,10,BB550PB/BB550PB1,10/01/2024,$71.00,$6.13,$64.87,$60.33,$0.00,$0.00,$60.33,$4.54,,upc_scan
